@@ -1,0 +1,511 @@
+sentence_id,sentence,cleaned_sentence,tokens
+0,"_
+            The Bridge of Khazad-dûm
+
+     The Company of the Ring stood silent beside the tomb of Balin.",the bridge of khazaddum the company of the ring stood silent beside the tomb of balin,bridge khazaddum company ring stood silent beside tomb balin
+1,"Frodo thought of Bilbo and his long friendship with the dwarf, and of Balin's visit to the Shire long ago.",frodo thought of bilbo and his long friendship with the dwarf and of balins visit to the shire long ago,frodo thought bilbo long friendship dwarf balins visit shire long ago
+2,In that dusty chamber in the mountains it seemed a thousand years ago and on the other side of the world.,in that dusty chamber in the mountains it seemed a thousand years ago and on the other side of the world,dusty chamber mountains seemed thousand years ago side world
+3,"At length they stirred and looked up, and began to search for anything that would give them tidings of Balin's fate, or show what had become of his folk.",at length they stirred and looked up and began to search for anything that would give them tidings of balins fate or show what had become of his folk,length stirred looked began search anything would give tidings balins fate show become folk
+4,"There was another smaller door on the other side of the chamber, under the shaft.",there was another smaller door on the other side of the chamber under the shaft,another smaller door side chamber shaft
+5,"By both the doors they could now see that many bones were lying, and among them were broken swords and axe-heads, and cloven shields and helms.",by both the doors they could now see that many bones were lying and among them were broken swords and axeheads and cloven shields and helms,doors could see many bones lying among broken swords axeheads cloven shields helms
+6,Some of the swords were crooked: orc-scimitars with blackened blades.,some of the swords were crooked orcscimitars with blackened blades,swords crooked orcscimitars blackened blades
+7,"There were many recesses cut in the rock of the walls, and in them were large iron-bound chests of wood.",there were many recesses cut in the rock of the walls and in them were large ironbound chests of wood,many recesses cut rock walls large ironbound chests wood
+8,All had been broken and plundered; but beside the shattered lid of one there lay the remains of a book.,all had been broken and plundered but beside the shattered lid of one there lay the remains of a book,broken plundered beside shattered lid one lay remains book
+9,"It had been slashed and stabbed and partly burned, and it was so stained with black and other dark marks like old blood that little of it could be read.",it had been slashed and stabbed and partly burned and it was so stained with black and other dark marks like old blood that little of it could be read,slashed stabbed partly burned stained black dark marks like old blood little could read
+10,"Gandalf lifted it carefully, but the leaves crackled and broke as he laid it on the slab.",gandalf lifted it carefully but the leaves crackled and broke as he laid it on the slab,gandalf lifted carefully leaves crackled broke laid slab
+11,He pored over it for some time without speaking.,he pored over it for some time without speaking,pored time without speaking
+12,"Frodo and Gimli standing at his side could see, as he gingerly turned the leaves, that they were written by many different hands, in runes, both of Moria and of Dale, and here and there in Elvish script.",frodo and gimli standing at his side could see as he gingerly turned the leaves that they were written by many different hands in runes both of moria and of dale and here and there in elvish script,frodo gimli standing side could see gingerly turned leaves written many different hands runes moria dale elvish script
+13,At last Gandalf looked up.,at last gandalf looked up,last gandalf looked
+14,"'It seems to be a record of the fortunes of Balin's folk,' he said.",it seems to be a record of the fortunes of balins folk he said,seems record fortunes balins folk said
+15,`I guess that it began with their coming to Dimrill Dale nigh on thirty years ago: the pages seem to have numbers referring to the years after their arrival.,i guess that it began with their coming to dimrill dale nigh on thirty years ago the pages seem to have numbers referring to the years after their arrival,guess began coming dimrill dale nigh thirty years ago pages seem numbers referring years arrival
+16,"The top page is marked _one  three_, so at least two are missing from the beginning.",the top page is marked one three so at least two are missing from the beginning,top page marked one three least two missing beginning
+17,Listen to this!,listen to this,listen
+18,'_We drove out orcs from the great gate and guard_  I think; the next word is blurred and burned; probably _room_  _we slew many in the bright_  I think  _sun in the dale.,we drove out orcs from the great gate and guard i think the next word is blurred and burned probably room we slew many in the bright i think sun in the dale,drove orcs great gate guard think next word blurred burned probably room slew many bright think sun dale
+19,Flói was killed by an arrow.,floi was killed by an arrow,floi killed arrow
+20,He slew the great_.,he slew the great,slew great
+21,Then there is a blur followed by _Flói under grass near Mirror mere_.,then there is a blur followed by floi under grass near mirror mere,blur followed floi grass near mirror mere
+22,The next line or two I cannot read.,the next line or two i cannot read,next line two read
+23,Then comes _We have taken the twentyfirst hall of North end to dwell in.,then comes we have taken the twentyfirst hall of north end to dwell in,comes taken twentyfirst hall north end dwell
+24,There is_I cannot read what.,there isi cannot read what,isi read
+25,A _shaft_ is mentioned.,a shaft is mentioned,shaft mentioned
+26,Then _Balin has set up his seat in the Chamber of Mazarbul_.',then balin has set up his seat in the chamber of mazarbul,balin set seat chamber mazarbul
+27,"'The Chamber of Records,' said Gimli.",the chamber of records said gimli,chamber records said gimli
+28,`I guess that is where we now stand.',i guess that is where we now stand,guess stand
+29,"`Well, I can read no more for a long way,' said Gandalf, 'except the word _gold_, and _Durin's Axe_ and something _helm_.",well i can read no more for a long way said gandalf except the word gold and durins axe and something helm,well read long way said gandalf except word gold durins axe something helm
+30,Then _Balin is now lord of Moria_.,then balin is now lord of moria,balin lord moria
+31,That seems to end a chapter.,that seems to end a chapter,seems end chapter
+32,"After some stars another hand begins, and I can see _we found truesilver_, and later the word _wellforged_ and then something, I have it!",after some stars another hand begins and i can see we found truesilver and later the word wellforged and then something i have it,stars another hand begins see found truesilver later word wellforged something
+33,"_mithril_; and the last two lines _Óin to seek for the upper armouries of Third Deep_, something _go westwards_, a blur,_ to Hollin gate_.'",mithril and the last two lines oin to seek for the upper armouries of third deep something go westwards a blur to hollin gate,mithril last two lines oin seek upper armouries third deep something go westwards blur hollin gate
+34,Gandalf paused and set a few leaves aside.,gandalf paused and set a few leaves aside,gandalf paused set leaves aside
+35,"'There are several pages of the same sort, rather hastily written and much damaged, he said; `but I can make little of them in this light.",there are several pages of the same sort rather hastily written and much damaged he said but i can make little of them in this light,several pages sort rather hastily written much damaged said make little light
+36,"Now there must be a number of leaves missing, because they begin to be numbered _five_, the fifth year of the colony, I suppose.",now there must be a number of leaves missing because they begin to be numbered five the fifth year of the colony i suppose,must number leaves missing begin numbered five fifth year colony suppose
+37,Let me see!,let me see,let see
+38,"No, they are too cut and stained; I cannot read them.",no they are too cut and stained i cannot read them,cut stained read
+39,We might do better in the sunlight.,we might do better in the sunlight,might better sunlight
+40,Wait!,wait,wait
+41,Here is something: a large bold hand using an Elvish script.',here is something a large bold hand using an elvish script,something large bold hand using elvish script
+42,"'That would be Ori's hand,' said Gimli, looking over the wizard's arm.",that would be oris hand said gimli looking over the wizards arm,would oris hand said gimli looking wizards arm
+43,"`He could write well and speedily, and often used the Elvish characters.'",he could write well and speedily and often used the elvish characters,could write well speedily often used elvish characters
+44,"`I fear he had ill tidings to record in a fair hand,' said Gandalf.",i fear he had ill tidings to record in a fair hand said gandalf,fear ill tidings record fair hand said gandalf
+45,"'The first clear word is _sorrow_, but the rest of the line is lost, unless it ends in _estre_.",the first clear word is sorrow but the rest of the line is lost unless it ends in estre,first clear word sorrow rest line lost unless ends estre
+46,"Yes, it must be _yestre_ followed by _day being the tenth of novembre Balin lord of Moria fell in Dimrill Dale.",yes it must be yestre followed by day being the tenth of novembre balin lord of moria fell in dimrill dale,yes must yestre followed day tenth novembre balin lord moria fell dimrill dale
+47,He went alone to look in Mirror mere.,he went alone to look in mirror mere,went alone look mirror mere
+48,an orc shot him from behind a stone.,an orc shot him from behind a stone,orc shot behind stone
+49,"we slew the orc, hut many more ... up from east up the Silverlode_.",we slew the orc hut many more up from east up the silverlode,slew orc hut many east silverlode
+50,"The remainder of the page is so blurred that I can hardly make anything out, but I think I can read_ we have barred the gates_, and then _can hold them long if_, and then perhaps _horrible_ and _suffer_.",the remainder of the page is so blurred that i can hardly make anything out but i think i can read we have barred the gates and then can hold them long if and then perhaps horrible and suffer,remainder page blurred hardly make anything think read barred gates hold long perhaps horrible suffer
+51,Poor Balin!,poor balin,poor balin
+52,He seems to have kept the title that he took for less than five years.,he seems to have kept the title that he took for less than five years,seems kept title took less five years
+53,I wonder what happened afterwards; but there is no time to puzzle out the last few pages.,i wonder what happened afterwards but there is no time to puzzle out the last few pages,wonder happened afterwards time puzzle last pages
+54,Here is the last page of all.',here is the last page of all,last page
+55,He paused and sighed.,he paused and sighed,paused sighed
+56,"`It is grim reading,' he said.",it is grim reading he said,grim reading said
+57,'I fear their end was cruel.,i fear their end was cruel,fear end cruel
+58,Listen!,listen,listen
+59,_We cannot get out.,we cannot get out,get
+60,We cannot get out.,we cannot get out,get
+61,They have taken the Bridge and second hall.,they have taken the bridge and second hall,taken bridge second hall
+62,Frár and Lóni and Náli fell there_.,frar and loni and nali fell there,frar loni nali fell
+63,Then there are four lines smeared so that I can only _read went 5 days ago_.,then there are four lines smeared so that i can only read went days ago,four lines smeared read went days ago
+64,The last lines _run the pool is up to the wall at Westgate.,the last lines run the pool is up to the wall at westgate,last lines run pool wall westgate
+65,The Watcher in the Water took Óin.,the watcher in the water took oin,watcher water took oin
+66,We cannot get out.,we cannot get out,get
+67,"The end comes_, and then_ drums, drums in the deep_.",the end comes and then drums drums in the deep,end comes drums drums deep
+68,I wonder what that means.,i wonder what that means,wonder means
+69,The last thing written is in a trailing scrawl of elf-letters: _they are coming_.,the last thing written is in a trailing scrawl of elfletters they are coming,last thing written trailing scrawl elfletters coming
+70,There is nothing more.',there is nothing more,nothing
+71,Gandalf paused and stood in silent thought.,gandalf paused and stood in silent thought,gandalf paused stood silent thought
+72,A sudden dread and a horror of the chamber fell on the Company.,a sudden dread and a horror of the chamber fell on the company,sudden dread horror chamber fell company
+73,"`_We cannot get out_,' muttered Gimli.",we cannot get out muttered gimli,get muttered gimli
+74,"'It was well for us that the pool had sunk a little, and that the Watcher was sleeping down at the southern end.'",it was well for us that the pool had sunk a little and that the watcher was sleeping down at the southern end,well us pool sunk little watcher sleeping southern end
+75,Gandalf raised his head and looked round.,gandalf raised his head and looked round,gandalf raised head looked round
+76,"`They seem to have made a last stand by both doors,' he said; 'but there were not many left by that time.",they seem to have made a last stand by both doors he said but there were not many left by that time,seem made last stand doors said many left time
+77,So ended the attempt to retake Moria!,so ended the attempt to retake moria,ended attempt retake moria
+78,It was valiant but foolish.,it was valiant but foolish,valiant foolish
+79,The time is not come yet.,the time is not come yet,time come yet
+80,"Now, I fear, we must say farewell to Balin son of Fundin.",now i fear we must say farewell to balin son of fundin,fear must say farewell balin son fundin
+81,Here he must lie in the halls of his fathers.,here he must lie in the halls of his fathers,must lie halls fathers
+82,"We will take this book, the Book of Mazarbul, and look at it more closely later.",we will take this book the book of mazarbul and look at it more closely later,take book book mazarbul look closely later
+83,"You had better keep it, Gimli, and take it back to Dáin, if you get a chance.",you had better keep it gimli and take it back to dain if you get a chance,better keep gimli take back dain get chance
+84,"It will interest him, though it will grieve him deeply.",it will interest him though it will grieve him deeply,interest though grieve deeply
+85,"Come, let us go!",come let us go,come let us go
+86,The morning is passing.',the morning is passing,morning passing
+87,'Which way shall we go? ',which way shall we go,way shall go
+88,asked Boromir.,asked boromir,asked boromir
+89,"'Back to the hall,' answered Gandalf.",back to the hall answered gandalf,back hall answered gandalf
+90,'But our visit to this room has not been in vain.,but our visit to this room has not been in vain,visit room vain
+91,I now know where we are.,i now know where we are,know
+92,"This must be, as Gimli says, the Chamber of Mazarbul; and the hall must be the twenty-first of the North-end.",this must be as gimli says the chamber of mazarbul and the hall must be the twentyfirst of the northend,must gimli says chamber mazarbul hall must twentyfirst northend
+93,"Therefore we should leave by the eastern arch of the hall, and bear right and south, and go downwards.",therefore we should leave by the eastern arch of the hall and bear right and south and go downwards,therefore leave eastern arch hall bear right south go downwards
+94,"The Twenty-first Hall should be on the Seventh Level, that is six above the level of the Gates.",the twentyfirst hall should be on the seventh level that is six above the level of the gates,twentyfirst hall seventh level six level gates
+95,Come now!,come now,come
+96,Back to the hall! ',back to the hall,back hall
+97,"Gandalf had hardly spoken these words, when there came a great noise: a rolling _Boom_ that seemed to come from depths far below, and to tremble in the stone at their feet.",gandalf had hardly spoken these words when there came a great noise a rolling boom that seemed to come from depths far below and to tremble in the stone at their feet,gandalf hardly spoken words came great noise rolling boom seemed come depths far tremble stone feet
+98,They sprang towards the door in alarm.,they sprang towards the door in alarm,sprang towards door alarm
+99,"_Doom, doom_ it rolled again, as if huge hands were turning the very caverns of Moria into a vast drum.",doom doom it rolled again as if huge hands were turning the very caverns of moria into a vast drum,doom doom rolled huge hands turning caverns moria vast drum
+100,"Then there came an echoing blast: a great horn was blown in the hall, and answering horns and harsh cries were heard further off.",then there came an echoing blast a great horn was blown in the hall and answering horns and harsh cries were heard further off,came echoing blast great horn blown hall answering horns harsh cries heard
+101,There was a hurrying sound of many feet.,there was a hurrying sound of many feet,hurrying sound many feet
+102,`They are coming! ',they are coming,coming
+103,cried Legolas.,cried legolas,cried legolas
+104,"'We cannot get out,' said Gimli.",we cannot get out said gimli,get said gimli
+105,`Trapped! ',trapped,trapped
+106,cried Gandalf.,cried gandalf,cried gandalf
+107,`Why did I delay?,why did i delay,delay
+108,"Here we are, caught, just as they were before.",here we are caught just as they were before,caught
+109,But I was not here then.,but i was not here then,
+110,"We will see what -'
+     _Doom, doom_ came the drum-beat and the walls shook.",we will see what doom doom came the drumbeat and the walls shook,see doom doom came drumbeat walls shook
+111,'Slam the doors and wedge them! ',slam the doors and wedge them,slam doors wedge
+112,shouted Aragorn.,shouted aragorn,shouted aragorn
+113,'And keep your packs on as long as you can: we may get a chance to cut our way out yet.',and keep your packs on as long as you can we may get a chance to cut our way out yet,keep packs long may get chance cut way yet
+114,`No! ',no,
+115,said Gandalf.,said gandalf,said gandalf
+116,'We must not get shut in.,we must not get shut in,must get shut
+117,Keep the east door ajar!,keep the east door ajar,keep east door ajar
+118,"We will go that way, if we get a chance.'",we will go that way if we get a chance,go way get chance
+119,Another harsh horn-call and shrill cries rang out.,another harsh horncall and shrill cries rang out,another harsh horncall shrill cries rang
+120,Feet were coming down the corridor.,feet were coming down the corridor,feet coming corridor
+121,There was a ring and clatter as the Company drew their swords.,there was a ring and clatter as the company drew their swords,ring clatter company drew swords
+122,"Glamdring shone with a pale light, and Sting glinted at the edges.",glamdring shone with a pale light and sting glinted at the edges,glamdring shone pale light sting glinted edges
+123,Boromir set his shoulder against the western door.,boromir set his shoulder against the western door,boromir set shoulder western door
+124,`Wait a moment!,wait a moment,wait moment
+125,Do not close it yet! ',do not close it yet,close yet
+126,said Gandalf.,said gandalf,said gandalf
+127,He sprang forward to Boromir's side and drew himself up to his full height.,he sprang forward to boromirs side and drew himself up to his full height,sprang forward boromirs side drew full height
+128,'Who comes hither to disturb the rest of Balin Lord of Moria? ',who comes hither to disturb the rest of balin lord of moria,comes hither disturb rest balin lord moria
+129,he cried in a loud voice.,he cried in a loud voice,cried loud voice
+130,"There was a rush of hoarse laughter, like the fall of sliding stones into a pit; amid the clamour a deep voice was raised in command.",there was a rush of hoarse laughter like the fall of sliding stones into a pit amid the clamour a deep voice was raised in command,rush hoarse laughter like fall sliding stones pit amid clamour deep voice raised command
+131,"Doom, boom, doom went the drums in the deep.",doom boom doom went the drums in the deep,doom boom doom went drums deep
+132,With a quick movement Gandalf stepped before the narrow opening of the door and thrust forward his staff: There was a dazzling flash that lit the chamber and the passage outside.,with a quick movement gandalf stepped before the narrow opening of the door and thrust forward his staff there was a dazzling flash that lit the chamber and the passage outside,quick movement gandalf stepped narrow opening door thrust forward staff dazzling flash lit chamber passage outside
+133,For an instant the wizard looked out.,for an instant the wizard looked out,instant wizard looked
+134,Arrows whined and whistled down the corridor as he sprang back.,arrows whined and whistled down the corridor as he sprang back,arrows whined whistled corridor sprang back
+135,"'There are Orcs, very many of them,' he said.",there are orcs very many of them he said,orcs many said
+136,`And some are large and evil: black Uruks of Mordor.,and some are large and evil black uruks of mordor,large evil black uruks mordor
+137,"For the moment they are hanging back, but there is something else there.",for the moment they are hanging back but there is something else there,moment hanging back something else
+138,"A great cave-troll, I think, or more than one.",a great cavetroll i think or more than one,great cavetroll think one
+139,There is no hope of escape that way.',there is no hope of escape that way,hope escape way
+140,"'And no hope at all, if they come at the other door as well,' said Boromir.",and no hope at all if they come at the other door as well said boromir,hope come door well said boromir
+141,"'There is no sound outside here yet,' said Aragorn, who was standing by the eastern door listening.",there is no sound outside here yet said aragorn who was standing by the eastern door listening,sound outside yet said aragorn standing eastern door listening
+142,`The passage on this side plunges straight down a stair: it plainly does not lead back towards the hall.,the passage on this side plunges straight down a stair it plainly does not lead back towards the hall,passage side plunges straight stair plainly lead back towards hall
+143,But it is no good flying blindly this way with the pursuit just behind.,but it is no good flying blindly this way with the pursuit just behind,good flying blindly way pursuit behind
+144,We cannot block the door.,we cannot block the door,block door
+145,"Its key is gone and the lock is broken, and it opens inwards.",its key is gone and the lock is broken and it opens inwards,key gone lock broken opens inwards
+146,We must do something to delay the enemy first.,we must do something to delay the enemy first,must something delay enemy first
+147,We will make them fear the Chamber of Mazarbul!',we will make them fear the chamber of mazarbul,make fear chamber mazarbul
+148,"he said grimly feeling the edge of his sword, Andúril.",he said grimly feeling the edge of his sword anduril,said grimly feeling edge sword anduril
+149,Heavy feet were heard in the corridor.,heavy feet were heard in the corridor,heavy feet heard corridor
+150,Boromir flung himself against the door and heaved it to; then he wedged it with broken sword-blades and splinters of wood.,boromir flung himself against the door and heaved it to then he wedged it with broken swordblades and splinters of wood,boromir flung door heaved wedged broken swordblades splinters wood
+151,The Company retreated to the other side of the chamber.,the company retreated to the other side of the chamber,company retreated side chamber
+152,But they had no chance to fly yet.,but they had no chance to fly yet,chance fly yet
+153,"There was a blow on the door that made it quiver; and then it began to grind slowly open, driving back the wedges.",there was a blow on the door that made it quiver and then it began to grind slowly open driving back the wedges,blow door made quiver began grind slowly open driving back wedges
+154,"A huge arm and shoulder, with a dark skin of greenish scales, was thrust through the widening gap.",a huge arm and shoulder with a dark skin of greenish scales was thrust through the widening gap,huge arm shoulder dark skin greenish scales thrust widening gap
+155,"Then a great, flat, toeless foot was forced through below.",then a great flat toeless foot was forced through below,great flat toeless foot forced
+156,There was a dead silence outside.,there was a dead silence outside,dead silence outside
+157,"Boromir leaped forward and hewed at the arm with all his might; but his sword rang, glanced aside, and fell from his shaken hand.",boromir leaped forward and hewed at the arm with all his might but his sword rang glanced aside and fell from his shaken hand,boromir leaped forward hewed arm might sword rang glanced aside fell shaken hand
+158,The blade was notched.,the blade was notched,blade notched
+159,"Suddenly, and to his own surprise, Frodo felt a hot wrath blaze up in his heart.",suddenly and to his own surprise frodo felt a hot wrath blaze up in his heart,suddenly surprise frodo felt hot wrath blaze heart
+160,`The Shire! ',the shire,shire
+161,"he cried, and springing beside Boromir, he stooped, and stabbed with Sting at the hideous foot.",he cried and springing beside boromir he stooped and stabbed with sting at the hideous foot,cried springing beside boromir stooped stabbed sting hideous foot
+162,"There was a bellow, and the foot jerked back, nearly wrenching Sting from Frodo's arm.",there was a bellow and the foot jerked back nearly wrenching sting from frodos arm,bellow foot jerked back nearly wrenching sting frodos arm
+163,Black drops dripped from the blade and smoked on the floor.,black drops dripped from the blade and smoked on the floor,black drops dripped blade smoked floor
+164,Boromir hurled himself against the door and slammed it again.,boromir hurled himself against the door and slammed it again,boromir hurled door slammed
+165,`One for the Shire! ',one for the shire,one shire
+166,cried Aragorn.,cried aragorn,cried aragorn
+167,`The hobbit's bite is deep!,the hobbits bite is deep,hobbits bite deep
+168,"You have a good blade, Frodo son of Drogo! '",you have a good blade frodo son of drogo,good blade frodo son drogo
+169,"There was a crash on the door, followed by crash after crash.",there was a crash on the door followed by crash after crash,crash door followed crash crash
+170,Rams and hammers were beating against it.,rams and hammers were beating against it,rams hammers beating
+171,"It cracked and staggered back, and the opening grew suddenly wide.",it cracked and staggered back and the opening grew suddenly wide,cracked staggered back opening grew suddenly wide
+172,"Arrows came whistling in, but struck the northern wall, and fell harmlessly to the floor.",arrows came whistling in but struck the northern wall and fell harmlessly to the floor,arrows came whistling struck northern wall fell harmlessly floor
+173,"There was a horn-blast and a rush of feet, and orcs one after another leaped into the chamber.",there was a hornblast and a rush of feet and orcs one after another leaped into the chamber,hornblast rush feet orcs one another leaped chamber
+174,How many there were the Company could not count.,how many there were the company could not count,many company could count
+175,"The affray was sharp, but the orcs were dismayed by the fierceness of the defence.",the affray was sharp but the orcs were dismayed by the fierceness of the defence,affray sharp orcs dismayed fierceness defence
+176,Legolas shot two through the throat.,legolas shot two through the throat,legolas shot two throat
+177,Gimli hewed the legs from under another that had sprung up on Balin's tomb.,gimli hewed the legs from under another that had sprung up on balins tomb,gimli hewed legs another sprung balins tomb
+178,Boromir and Aragorn slew many.,boromir and aragorn slew many,boromir aragorn slew many
+179,When thirteen had fallen the rest fled shrieking.,when thirteen had fallen the rest fled shrieking,thirteen fallen rest fled shrieking
+180,"leaving the defenders unharmed, except for Sam who had a scratch along the scalp.",leaving the defenders unharmed except for sam who had a scratch along the scalp,leaving defenders unharmed except sam scratch along scalp
+181,A quick duck had saved him; and he had felled his orc: a sturdy thrust with his Barrow-blade.,a quick duck had saved him and he had felled his orc a sturdy thrust with his barrowblade,quick duck saved felled orc sturdy thrust barrowblade
+182,"A fire was smouldering in his brown eyes that would have made Ted Sandyman step backwards, if he had seen it.",a fire was smouldering in his brown eyes that would have made ted sandyman step backwards if he had seen it,fire smouldering brown eyes would made ted sandyman step backwards seen
+183,`Now is the time! ',now is the time,time
+184,cried Gandalf.,cried gandalf,cried gandalf
+185,"`Let us go, before the troll returns!'",let us go before the troll returns,let us go troll returns
+186,"But even as they retreated, and before Pippin and Merry had reached the stair outside, a huge orc-chieftain, almost man-high, clad in black mail from head to foot, leaped into the chamber; behind him his followers clustered in the doorway.",but even as they retreated and before pippin and merry had reached the stair outside a huge orcchieftain almost manhigh clad in black mail from head to foot leaped into the chamber behind him his followers clustered in the doorway,even retreated pippin merry reached stair outside huge orcchieftain almost manhigh clad black mail head foot leaped chamber behind followers clustered doorway
+187,"His broad flat face was swart, his eyes were like coals, and his tongue was red; he wielded a great spear.",his broad flat face was swart his eyes were like coals and his tongue was red he wielded a great spear,broad flat face swart eyes like coals tongue red wielded great spear
+188,"With a thrust of his huge hide shield he turned Boromir's sword and bore him backwards, throwing him to the ground.",with a thrust of his huge hide shield he turned boromirs sword and bore him backwards throwing him to the ground,thrust huge hide shield turned boromirs sword bore backwards throwing ground
+189,Diving under Aragorn's blow with the speed of a striking snake he charged into the Company and thrust with his spear straight at Frodo.,diving under aragorns blow with the speed of a striking snake he charged into the company and thrust with his spear straight at frodo,diving aragorns blow speed striking snake charged company thrust spear straight frodo
+190,"The blow caught him on the right side, and Frodo was hurled against the wall and pinned.",the blow caught him on the right side and frodo was hurled against the wall and pinned,blow caught right side frodo hurled wall pinned
+191,"Sam, with a cry, hacked at the spear-shaft, and it broke.",sam with a cry hacked at the spearshaft and it broke,sam cry hacked spearshaft broke
+192,"But even as the orc flung down the truncheon and swept out his scimitar, Andúril came down upon his helm.",but even as the orc flung down the truncheon and swept out his scimitar anduril came down upon his helm,even orc flung truncheon swept scimitar anduril came upon helm
+193,There was a flash like flame and the helm burst asunder.,there was a flash like flame and the helm burst asunder,flash like flame helm burst asunder
+194,The orc fell with cloven head.,the orc fell with cloven head,orc fell cloven head
+195,"His followers fled howling, as Boromir and Aragorn sprang at them.",his followers fled howling as boromir and aragorn sprang at them,followers fled howling boromir aragorn sprang
+196,"_Doom, doom_ went the drums in the deep.",doom doom went the drums in the deep,doom doom went drums deep
+197,The great voice rolled out again.,the great voice rolled out again,great voice rolled
+198,'Now! ',now,
+199,shouted Gandalf.,shouted gandalf,shouted gandalf
+200,'Now is the last chance.,now is the last chance,last chance
+201,Run for it! ',run for it,run
+202,"Aragorn picked up Frodo where he lay by the wall and made for the stair, pushing Merry and Pippin in front of him.",aragorn picked up frodo where he lay by the wall and made for the stair pushing merry and pippin in front of him,aragorn picked frodo lay wall made stair pushing merry pippin front
+203,The others followed; but Gimli had to be dragged away by Legolas: in spite of the peril he lingered by Balin's tomb with his head bowed.,the others followed but gimli had to be dragged away by legolas in spite of the peril he lingered by balins tomb with his head bowed,others followed gimli dragged away legolas spite peril lingered balins tomb head bowed
+204,"Boromir hauled the eastern door to, grinding upon its hinges: it had great iron rings on either side, but could not be fastened.",boromir hauled the eastern door to grinding upon its hinges it had great iron rings on either side but could not be fastened,boromir hauled eastern door grinding upon hinges great iron rings either side could fastened
+205,"'I am all right,' gasped Frodo.",i am all right gasped frodo,right gasped frodo
+206,`I can walk.,i can walk,walk
+207,Put me down! ',put me down,put
+208,Aragorn nearly dropped him in his amazement.,aragorn nearly dropped him in his amazement,aragorn nearly dropped amazement
+209,'I thought you were dead! ',i thought you were dead,thought dead
+210,he cried.,he cried,cried
+211,'Not yet! ',not yet,yet
+212,said Gandalf.,said gandalf,said gandalf
+213,'But there is time for wonder.,but there is time for wonder,time wonder
+214,"Off you go, all of you, down the stairs!",off you go all of you down the stairs,go stairs
+215,"Wait a few minutes for me at the bottom, but if I do not come soon, go on!",wait a few minutes for me at the bottom but if i do not come soon go on,wait minutes bottom come soon go
+216,Go quickly and choose paths leading right and downwards.',go quickly and choose paths leading right and downwards,go quickly choose paths leading right downwards
+217,'We cannot leave you to hold the door alone! ',we cannot leave you to hold the door alone,leave hold door alone
+218,said Aragorn.,said aragorn,said aragorn
+219,`Do as I say! ',do as i say,say
+220,said Gandalf fiercely.,said gandalf fiercely,said gandalf fiercely
+221,`Swords are no more use here.,swords are no more use here,swords use
+222,Go!',go,go
+223,The passage was lit by no shaft and was utterly dark.,the passage was lit by no shaft and was utterly dark,passage lit shaft utterly dark
+224,"They groped their way down a long flight of steps, and then looked back; but they could see nothing, except high above them the faint glimmer of the wizard's staff.",they groped their way down a long flight of steps and then looked back but they could see nothing except high above them the faint glimmer of the wizards staff,groped way long flight steps looked back could see nothing except high faint glimmer wizards staff
+225,He seemed to be still standing on guard by the closed door.,he seemed to be still standing on guard by the closed door,seemed still standing guard closed door
+226,"Frodo breathed heavily and leaned against Sam, who put his arms about him.",frodo breathed heavily and leaned against sam who put his arms about him,frodo breathed heavily leaned sam put arms
+227,They stood peering up the stairs into the darkness.,they stood peering up the stairs into the darkness,stood peering stairs darkness
+228,"Frodo thought he could hear the voice of Gandalf above, muttering words that ran down the sloping roof with a sighing echo.",frodo thought he could hear the voice of gandalf above muttering words that ran down the sloping roof with a sighing echo,frodo thought could hear voice gandalf muttering words ran sloping roof sighing echo
+229,He could not catch what was said.,he could not catch what was said,could catch said
+230,The walls seemed to be trembling.,the walls seemed to be trembling,walls seemed trembling
+231,"Every now and again the drum-beats throbbed and rolled: _doom, doom_.",every now and again the drumbeats throbbed and rolled doom doom,every drumbeats throbbed rolled doom doom
+232,Suddenly at the top of the stair there was a stab of white light.,suddenly at the top of the stair there was a stab of white light,suddenly top stair stab white light
+233,Then there was a dull rumble and a heavy thud.,then there was a dull rumble and a heavy thud,dull rumble heavy thud
+234,"The drum-beats broke out wildly: _doom-boom, doom-boom_, and then stopped.",the drumbeats broke out wildly doomboom doomboom and then stopped,drumbeats broke wildly doomboom doomboom stopped
+235,Gandalf came flying down the steps and fell to the ground in the midst of the Company.,gandalf came flying down the steps and fell to the ground in the midst of the company,gandalf came flying steps fell ground midst company
+236,"`Well, well!",well well,well well
+237,That's over! ',thats over,thats
+238,said the wizard struggling to his feet.,said the wizard struggling to his feet,said wizard struggling feet
+239,`I have done all that I could.,i have done all that i could,done could
+240,"But I have met my match, and have nearly been destroyed.",but i have met my match and have nearly been destroyed,met match nearly destroyed
+241,But don't stand here!,but dont stand here,dont stand
+242,Go on!,go on,go
+243,You will have to do without light for a while: I am rather shaken.,you will have to do without light for a while i am rather shaken,without light rather shaken
+244,Go on!,go on,go
+245,Go on!,go on,go
+246,"Where are you, Gimli?",where are you gimli,gimli
+247,Come ahead with me!,come ahead with me,come ahead
+248,"Keep close behind, all of you!'",keep close behind all of you,keep close behind
+249,They stumbled after him wondering what had happened.,they stumbled after him wondering what had happened,stumbled wondering happened
+250,"_Doom, doom_ went the drum-beats again: they now sounded muffled and far away, but they were following.",doom doom went the drumbeats again they now sounded muffled and far away but they were following,doom doom went drumbeats sounded muffled far away following
+251,"There was no other sound of pursuit, neither tramp of feet, nor any voice.",there was no other sound of pursuit neither tramp of feet nor any voice,sound pursuit neither tramp feet voice
+252,"Gandalf took no turns, right or left, for the passage seemed to be going in the direction that he desired.",gandalf took no turns right or left for the passage seemed to be going in the direction that he desired,gandalf took turns right left passage seemed going direction desired
+253,"Every now and again it descended a flight of steps, fifty or more, to a lower level.",every now and again it descended a flight of steps fifty or more to a lower level,every descended flight steps fifty lower level
+254,"At the moment that was their chief danger; for in the dark they could not see a descent, until they came on it, and put their feet out into emptiness.",at the moment that was their chief danger for in the dark they could not see a descent until they came on it and put their feet out into emptiness,moment chief danger dark could see descent came put feet emptiness
+255,Gandalf felt the ground with his staff like a blind man.,gandalf felt the ground with his staff like a blind man,gandalf felt ground staff like blind man
+256,"At the end of an hour they had gone a mile, or maybe a little more, and had descended many flights of stairs.",at the end of an hour they had gone a mile or maybe a little more and had descended many flights of stairs,end hour gone mile maybe little descended many flights stairs
+257,There was still no sound of pursuit.,there was still no sound of pursuit,still sound pursuit
+258,Almost they began to hope that they would escape.,almost they began to hope that they would escape,almost began hope would escape
+259,At the bottom of the seventh flight Gandalf halted.,at the bottom of the seventh flight gandalf halted,bottom seventh flight gandalf halted
+260,`It is getting hot! ',it is getting hot,getting hot
+261,he gasped.,he gasped,gasped
+262,`We ought to be down at least to the level of the Gates now.,we ought to be down at least to the level of the gates now,ought least level gates
+263,Soon I think we should look for a left-hand turn to take us east.,soon i think we should look for a lefthand turn to take us east,soon think look lefthand turn take us east
+264,I hope it is not far.,i hope it is not far,hope far
+265,I am very weary.,i am very weary,weary
+266,"I must rest here a moment, even if all the orcs ever spawned are after us.'",i must rest here a moment even if all the orcs ever spawned are after us,must rest moment even orcs ever spawned us
+267,Gimli took his arm and helped him down to a seat on the step.,gimli took his arm and helped him down to a seat on the step,gimli took arm helped seat step
+268,`What happened away up there at the door? ',what happened away up there at the door,happened away door
+269,he asked.,he asked,asked
+270,`Did you meet the beater of the drums? ',did you meet the beater of the drums,meet beater drums
+271,"'I do not know,' answered Gandalf.",i do not know answered gandalf,know answered gandalf
+272,`But I found myself suddenly faced by something that I have not met before.,but i found myself suddenly faced by something that i have not met before,found suddenly faced something met
+273,I could think of nothing to do but to try and put a shutting-spell on the door.,i could think of nothing to do but to try and put a shuttingspell on the door,could think nothing try put shuttingspell door
+274,"I know many; but to do things of that kind rightly requires time, and even then the door can be broken by strength.",i know many but to do things of that kind rightly requires time and even then the door can be broken by strength,know many things kind rightly requires time even door broken strength
+275,`As I stood there I could hear orc-voices on the other side: at any moment I thought they would burst it open.,as i stood there i could hear orcvoices on the other side at any moment i thought they would burst it open,stood could hear orcvoices side moment thought would burst open
+276,I could not hear what was said; they seemed to be talking in their own hideous language.,i could not hear what was said they seemed to be talking in their own hideous language,could hear said seemed talking hideous language
+277,"All I caught was _ghâsh;_ that is ""fire"".",all i caught was ghash that is fire,caught ghash fire
+278,"Then something came into the chamber  I felt it through the door, and the orcs themselves were afraid and fell silent.",then something came into the chamber i felt it through the door and the orcs themselves were afraid and fell silent,something came chamber felt door orcs afraid fell silent
+279,"It laid hold of the iron ring, and then it perceived me and my spell.",it laid hold of the iron ring and then it perceived me and my spell,laid hold iron ring perceived spell
+280,"'What it was I cannot guess, but I have never felt such a challenge.",what it was i cannot guess but i have never felt such a challenge,guess never felt challenge
+281,The counter-spell was terrible.,the counterspell was terrible,counterspell terrible
+282,It nearly broke me.,it nearly broke me,nearly broke
+283,For an instant the door left my control and began to open!,for an instant the door left my control and began to open,instant door left control began open
+284,I had to speak a word of Command.,i had to speak a word of command,speak word command
+285,That proved too great a strain.,that proved too great a strain,proved great strain
+286,The door burst in pieces.,the door burst in pieces,door burst pieces
+287,"Something dark as a cloud was blocking out all the light inside, and I was thrown backwards down the stairs.",something dark as a cloud was blocking out all the light inside and i was thrown backwards down the stairs,something dark cloud blocking light inside thrown backwards stairs
+288,"All the wall gave way, and the roof of the chamber as well, I think.",all the wall gave way and the roof of the chamber as well i think,wall gave way roof chamber well think
+289,"`I am afraid Balin is buried deep, and maybe something else is buried there too.",i am afraid balin is buried deep and maybe something else is buried there too,afraid balin buried deep maybe something else buried
+290,I cannot say.,i cannot say,say
+291,But at least the passage behind us was completely blocked.,but at least the passage behind us was completely blocked,least passage behind us completely blocked
+292,Ah!,ah,ah
+293,"I have never felt so spent, but it is passing.",i have never felt so spent but it is passing,never felt spent passing
+294,"And now what about you, Frodo?",and now what about you frodo,frodo
+295,"There was not time to say so, but I have never been more delighted in my life than when you spoke.",there was not time to say so but i have never been more delighted in my life than when you spoke,time say never delighted life spoke
+296,I feared that it was a brave but dead hobbit that Aragorn was carrying.',i feared that it was a brave but dead hobbit that aragorn was carrying,feared brave dead hobbit aragorn carrying
+297,`What about me? ',what about me,
+298,said Frodo.,said frodo,said frodo
+299,"'I am alive, and whole I think.",i am alive and whole i think,alive whole think
+300,"I am bruised and in pain, but it is not too bad.'",i am bruised and in pain but it is not too bad,bruised pain bad
+301,"`Well,' said Aragorn, `I can only say that hobbits are made of a stuff so tough that I have never met the like of it.",well said aragorn i can only say that hobbits are made of a stuff so tough that i have never met the like of it,well said aragorn say hobbits made stuff tough never met like
+302,"Had I known, I would have spoken softer in the Inn at Bree!",had i known i would have spoken softer in the inn at bree,known would spoken softer inn bree
+303,That spear-thrust would have skewered a wild boar! ',that spearthrust would have skewered a wild boar,spearthrust would skewered wild boar
+304,"'Well, it did not skewer me, I am glad to say,' said Frodo; `though I feel as if I had been caught between a hammer and an anvil.'",well it did not skewer me i am glad to say said frodo though i feel as if i had been caught between a hammer and an anvil,well skewer glad say said frodo though feel caught hammer anvil
+305,He said no more.,he said no more,said
+306,He found breathing painful.,he found breathing painful,found breathing painful
+307,"'You take after Bilbo,' said Gandalf.",you take after bilbo said gandalf,take bilbo said gandalf
+308,"`There is more about you than meets the eye, as I said of him long ago.'",there is more about you than meets the eye as i said of him long ago,meets eye said long ago
+309,Frodo wondered if the remark meant more than it said.,frodo wondered if the remark meant more than it said,frodo wondered remark meant said
+310,They now went on again.,they now went on again,went
+311,Before long Gimli spoke.,before long gimli spoke,long gimli spoke
+312,He had keen eyes in the dark.,he had keen eyes in the dark,keen eyes dark
+313,"`I think,' he said, `that there is a light ahead.",i think he said that there is a light ahead,think said light ahead
+314,But it is not daylight.,but it is not daylight,daylight
+315,It is red.,it is red,red
+316,What can it be? ',what can it be,
+317,`_Ghâsh!_' muttered Gandalf.,ghash muttered gandalf,ghash muttered gandalf
+318,`I wonder if that is what they meant: that the lower levels are on fire?,i wonder if that is what they meant that the lower levels are on fire,wonder meant lower levels fire
+319,"Still, we can only go on.'",still we can only go on,still go
+320,"Soon the light became unmistakable, and could be seen by all.",soon the light became unmistakable and could be seen by all,soon light became unmistakable could seen
+321,It was flickering and glowing on the walls away down the passage before them.,it was flickering and glowing on the walls away down the passage before them,flickering glowing walls away passage
+322,"They could now see their way: in front the road sloped down swiftly, and some way ahead there stood a low archway; through it the glowing light came.",they could now see their way in front the road sloped down swiftly and some way ahead there stood a low archway through it the glowing light came,could see way front road sloped swiftly way ahead stood low archway glowing light came
+323,The air became very hot.,the air became very hot,air became hot
+324,"When they came to the arch Gandalf went through, signing to them to wait.",when they came to the arch gandalf went through signing to them to wait,came arch gandalf went signing wait
+325,As he stood just beyond the opening they saw his face lit by a red glow.,as he stood just beyond the opening they saw his face lit by a red glow,stood beyond opening saw face lit red glow
+326,Quickly he stepped back.,quickly he stepped back,quickly stepped back
+327,"`There is some new devilry here,' he said, 'devised for our welcome no doubt.",there is some new devilry here he said devised for our welcome no doubt,new devilry said devised welcome doubt
+328,"But I know now where we are: we have reached the First Deep, the level immediately below the Gates.",but i know now where we are we have reached the first deep the level immediately below the gates,know reached first deep level immediately gates
+329,"This is the Second Hall of Old Moria; and the Gates are near: away beyond the eastern end, on the left, not more than a quarter of a mile.",this is the second hall of old moria and the gates are near away beyond the eastern end on the left not more than a quarter of a mile,second hall old moria gates near away beyond eastern end left quarter mile
+330,"Across the Bridge, up a broad stair, along a wide road through the First Hall, and out!",across the bridge up a broad stair along a wide road through the first hall and out,across bridge broad stair along wide road first hall
+331,But come and look! ',but come and look,come look
+332,They peered out.,they peered out,peered
+333,Before them was another cavernous hall.,before them was another cavernous hall,another cavernous hall
+334,It was loftier and far longer than the one in which they had slept.,it was loftier and far longer than the one in which they had slept,loftier far longer one slept
+335,They were near its eastern end; westward it ran away into darkness.,they were near its eastern end westward it ran away into darkness,near eastern end westward ran away darkness
+336,Down the centre stalked a double line of towering pillars.,down the centre stalked a double line of towering pillars,centre stalked double line towering pillars
+337,They were carved like boles of mighty trees whose boughs upheld the roof with a branching tracery of stone.,they were carved like boles of mighty trees whose boughs upheld the roof with a branching tracery of stone,carved like boles mighty trees whose boughs upheld roof branching tracery stone
+338,"Their stems were smooth and black, but a red glow was darkly mirrored in their sides.",their stems were smooth and black but a red glow was darkly mirrored in their sides,stems smooth black red glow darkly mirrored sides
+339,"Right across the floor, close to the feet of two huge pillars a great fissure had opened.",right across the floor close to the feet of two huge pillars a great fissure had opened,right across floor close feet two huge pillars great fissure opened
+340,"Out of it a fierce red light came, and now and again flames licked at the brink and curled about the bases of the columns.",out of it a fierce red light came and now and again flames licked at the brink and curled about the bases of the columns,fierce red light came flames licked brink curled bases columns
+341,Wisps of dark smoke wavered in the hot air.,wisps of dark smoke wavered in the hot air,wisps dark smoke wavered hot air
+342,"'If we had come by the main road down from the upper halls, we should have been trapped here,' said Gandalf.",if we had come by the main road down from the upper halls we should have been trapped here said gandalf,come main road upper halls trapped said gandalf
+343,`Let us hope that the fire now lies between us and pursuit.,let us hope that the fire now lies between us and pursuit,let us hope fire lies us pursuit
+344,Come!,come,come
+345,There is no time to lose.',there is no time to lose,time lose
+346,"Even as he spoke they heard again the pursuing drum-beat: _Doom, doom, doom_.",even as he spoke they heard again the pursuing drumbeat doom doom doom,even spoke heard pursuing drumbeat doom doom doom
+347,Away beyond the shadows at the western end of the hall there came cries and horn-calls.,away beyond the shadows at the western end of the hall there came cries and horncalls,away beyond shadows western end hall came cries horncalls
+348,"_Doom, doom_: the pillars seemed to tremble and the flames to quiver.",doom doom the pillars seemed to tremble and the flames to quiver,doom doom pillars seemed tremble flames quiver
+349,`Now for the last race! ',now for the last race,last race
+350,said Gandalf.,said gandalf,said gandalf
+351,'If the sun is shining outside we may still escape.,if the sun is shining outside we may still escape,sun shining outside may still escape
+352,After me! ',after me,
+353,He turned left and sped across the smooth floor of the hall.,he turned left and sped across the smooth floor of the hall,turned left sped across smooth floor hall
+354,The distance was greater than it had looked.,the distance was greater than it had looked,distance greater looked
+355,As they ran they heard the beat and echo of many hurrying feet behind.,as they ran they heard the beat and echo of many hurrying feet behind,ran heard beat echo many hurrying feet behind
+356,A shrill yell went up: they had been seen.,a shrill yell went up they had been seen,shrill yell went seen
+357,There was a ring and clash of steel.,there was a ring and clash of steel,ring clash steel
+358,An arrow whistled over Frodo's head.,an arrow whistled over frodos head,arrow whistled frodos head
+359,Boromir laughed.,boromir laughed,boromir laughed
+360,"`They did not expect this,' he said.",they did not expect this he said,expect said
+361,`The fire has cut them off.,the fire has cut them off,fire cut
+362,We are on the wrong side! ',we are on the wrong side,wrong side
+363,`Look ahead! ',look ahead,look ahead
+364,called Gandalf.,called gandalf,called gandalf
+365,`The Bridge is near.,the bridge is near,bridge near
+366,It is dangerous and narrow.',it is dangerous and narrow,dangerous narrow
+367,Suddenly Frodo saw before him a black chasm.,suddenly frodo saw before him a black chasm,suddenly frodo saw black chasm
+368,At the end of the hall the floor vanished and fell to an unknown depth.,at the end of the hall the floor vanished and fell to an unknown depth,end hall floor vanished fell unknown depth
+369,"The outer door could only be reached by a slender bridge of stone, without kerb or rail, that spanned the chasm with one curving spring of fifty feet.",the outer door could only be reached by a slender bridge of stone without kerb or rail that spanned the chasm with one curving spring of fifty feet,outer door could reached slender bridge stone without kerb rail spanned chasm one curving spring fifty feet
+370,It was an ancient defence of the Dwarves against any enemy that might capture the First Hall and the outer passages.,it was an ancient defence of the dwarves against any enemy that might capture the first hall and the outer passages,ancient defence dwarves enemy might capture first hall outer passages
+371,They could only pass across it in single file.,they could only pass across it in single file,could pass across single file
+372,At the brink Gandalf halted and the others came up in a pack behind.,at the brink gandalf halted and the others came up in a pack behind,brink gandalf halted others came pack behind
+373,"'Lead the way, Gimli! '",lead the way gimli,lead way gimli
+374,he said.,he said,said
+375,'Pippin and Merry next.,pippin and merry next,pippin merry next
+376,Straight on and up the stair beyond the door! ',straight on and up the stair beyond the door,straight stair beyond door
+377,Arrows fell among them.,arrows fell among them,arrows fell among
+378,One struck Frodo and sprang back.,one struck frodo and sprang back,one struck frodo sprang back
+379,Another pierced Gandalf's hat and stuck there like a black feather.,another pierced gandalfs hat and stuck there like a black feather,another pierced gandalfs hat stuck like black feather
+380,Frodo looked behind.,frodo looked behind,frodo looked behind
+381,Beyond the fire he saw swarming black figures: there seemed to be hundreds of orcs.,beyond the fire he saw swarming black figures there seemed to be hundreds of orcs,beyond fire saw swarming black figures seemed hundreds orcs
+382,They brandished spears and scimitars which shone red as blood in the firelight.,they brandished spears and scimitars which shone red as blood in the firelight,brandished spears scimitars shone red blood firelight
+383,"_Doom, doom_ rolled the drum-beats, growing louder and louder, _doom, doom_.",doom doom rolled the drumbeats growing louder and louder doom doom,doom doom rolled drumbeats growing louder louder doom doom
+384,"Legolas turned and set an arrow to the string, though it was a long shot for his small bow.",legolas turned and set an arrow to the string though it was a long shot for his small bow,legolas turned set arrow string though long shot small bow
+385,"He drew, but his hand fell, and the arrow slipped to the ground.",he drew but his hand fell and the arrow slipped to the ground,drew hand fell arrow slipped ground
+386,He gave a cry of dismay and fear.,he gave a cry of dismay and fear,gave cry dismay fear
+387,"Two great trolls appeared; they bore great slabs of stone, and flung them down to serve as gangways over the fire.",two great trolls appeared they bore great slabs of stone and flung them down to serve as gangways over the fire,two great trolls appeared bore great slabs stone flung serve gangways fire
+388,But it was not the trolls that had filled the Elf with terror.,but it was not the trolls that had filled the elf with terror,trolls filled elf terror
+389,"The ranks of the orcs had opened, and they crowded away, as if they themselves were afraid.",the ranks of the orcs had opened and they crowded away as if they themselves were afraid,ranks orcs opened crowded away afraid
+390,Something was coming up behind them.,something was coming up behind them,something coming behind
+391,"What it was could not be seen: it was like a great shadow, in the middle of which was a dark form, of man-shape maybe, yet greater; and a power and terror seemed to be in it and to go before it.",what it was could not be seen it was like a great shadow in the middle of which was a dark form of manshape maybe yet greater and a power and terror seemed to be in it and to go before it,could seen like great shadow middle dark form manshape maybe yet greater power terror seemed go
+392,It came to the edge of the fire and the light faded as if a cloud had bent over it.,it came to the edge of the fire and the light faded as if a cloud had bent over it,came edge fire light faded cloud bent
+393,Then with a rush it leaped across the fissure.,then with a rush it leaped across the fissure,rush leaped across fissure
+394,"The flames roared up to greet it, and wreathed about it; and a black smoke swirled in the air.",the flames roared up to greet it and wreathed about it and a black smoke swirled in the air,flames roared greet wreathed black smoke swirled air
+395,"Its streaming mane kindled, and blazed behind it.",its streaming mane kindled and blazed behind it,streaming mane kindled blazed behind
+396,In its right hand was a blade like a stabbing tongue of fire; in its left it held a whip of many thongs.,in its right hand was a blade like a stabbing tongue of fire in its left it held a whip of many thongs,right hand blade like stabbing tongue fire left held whip many thongs
+397,'Ai!,ai,ai
+398,ai! ',ai,ai
+399,wailed Legolas.,wailed legolas,wailed legolas
+400,'A Balrog!,a balrog,balrog
+401,A Balrog is come! ',a balrog is come,balrog come
+402,Gimli stared with wide eyes.,gimli stared with wide eyes,gimli stared wide eyes
+403,`Durin's Bane! ',durins bane,durins bane
+404,"he cried, and letting his axe fall he covered his face.",he cried and letting his axe fall he covered his face,cried letting axe fall covered face
+405,"'A Balrog,' muttered Gandalf.",a balrog muttered gandalf,balrog muttered gandalf
+406,`Now I understand.',now i understand,understand
+407,He faltered and leaned heavily on his staff.,he faltered and leaned heavily on his staff,faltered leaned heavily staff
+408,`What an evil fortune!,what an evil fortune,evil fortune
+409,And I am already weary.',and i am already weary,already weary
+410,The dark figure streaming with fire raced towards them.,the dark figure streaming with fire raced towards them,dark figure streaming fire raced towards
+411,The orcs yelled and poured over the stone gangways.,the orcs yelled and poured over the stone gangways,orcs yelled poured stone gangways
+412,Then Boromir raised his horn and blew.,then boromir raised his horn and blew,boromir raised horn blew
+413,"Loud the challenge rang and bellowed, like the shout of many throats under the cavernous roof.",loud the challenge rang and bellowed like the shout of many throats under the cavernous roof,loud challenge rang bellowed like shout many throats cavernous roof
+414,For a moment the orcs quailed and the fiery shadow halted.,for a moment the orcs quailed and the fiery shadow halted,moment orcs quailed fiery shadow halted
+415,"Then the echoes died as suddenly as a flame blown out by a dark wind, and the enemy advanced again.",then the echoes died as suddenly as a flame blown out by a dark wind and the enemy advanced again,echoes died suddenly flame blown dark wind enemy advanced
+416,'Over the bridge!',over the bridge,bridge
+417,"cried Gandalf, recalling his strength.",cried gandalf recalling his strength,cried gandalf recalling strength
+418,`Fly!,fly,fly
+419,This is a foe beyond any of you.,this is a foe beyond any of you,foe beyond
+420,I must hold the narrow way.,i must hold the narrow way,must hold narrow way
+421,Fly! ',fly,fly
+422,"Aragorn and Boromir did not heed the command, but still held their ground, side by side, behind Gandalf at the far end of the bridge.",aragorn and boromir did not heed the command but still held their ground side by side behind gandalf at the far end of the bridge,aragorn boromir heed command still held ground side side behind gandalf far end bridge
+423,"The others halted just within the doorway at the hall's end, and turned, unable to leave their leader to face the enemy alone.",the others halted just within the doorway at the halls end and turned unable to leave their leader to face the enemy alone,others halted within doorway halls end turned unable leave leader face enemy alone
+424,The Balrog reached the bridge.,the balrog reached the bridge,balrog reached bridge
+425,"Gandalf stood in the middle of the span, leaning on the staff in his left hand, but in his other hand Glamdring gleamed, cold and white.",gandalf stood in the middle of the span leaning on the staff in his left hand but in his other hand glamdring gleamed cold and white,gandalf stood middle span leaning staff left hand hand glamdring gleamed cold white
+426,"His enemy halted again, facing him, and the shadow about it reached out like two vast wings.",his enemy halted again facing him and the shadow about it reached out like two vast wings,enemy halted facing shadow reached like two vast wings
+427,"It raised the whip, and the thongs whined and cracked.",it raised the whip and the thongs whined and cracked,raised whip thongs whined cracked
+428,Fire came from its nostrils.,fire came from its nostrils,fire came nostrils
+429,But Gandalf stood firm.,but gandalf stood firm,gandalf stood firm
+430,"`You cannot pass,' he said.",you cannot pass he said,pass said
+431,"The orcs stood still, and a dead silence fell.",the orcs stood still and a dead silence fell,orcs stood still dead silence fell
+432,"`I am a servant of the Secret Fire, wielder of the flame of Anor.",i am a servant of the secret fire wielder of the flame of anor,servant secret fire wielder flame anor
+433,You cannot pass.,you cannot pass,pass
+434,"The dark fire will not avail you, flame of Udûn.",the dark fire will not avail you flame of udun,dark fire avail flame udun
+435,Go back to the Shadow!,go back to the shadow,go back shadow
+436,You cannot pass.',you cannot pass,pass
+437,The Balrog made no answer.,the balrog made no answer,balrog made answer
+438,"The fire in it seemed to die, but the darkness grew.",the fire in it seemed to die but the darkness grew,fire seemed die darkness grew
+439,"It stepped forward slowly on to the bridge, and suddenly it drew itself up to a great height, and its wings were spread from wall to wall; but still Gandalf could be seen, glimmering in the gloom; he seemed small, and altogether alone: grey and bent, like a wizened tree before the onset of a storm.",it stepped forward slowly on to the bridge and suddenly it drew itself up to a great height and its wings were spread from wall to wall but still gandalf could be seen glimmering in the gloom he seemed small and altogether alone grey and bent like a wizened tree before the onset of a storm,stepped forward slowly bridge suddenly drew great height wings spread wall wall still gandalf could seen glimmering gloom seemed small altogether alone grey bent like wizened tree onset storm
+440,From out of the shadow a red sword leaped flaming.,from out of the shadow a red sword leaped flaming,shadow red sword leaped flaming
+441,Glamdring glittered white in answer.,glamdring glittered white in answer,glamdring glittered white answer
+442,There was a ringing clash and a stab of white fire.,there was a ringing clash and a stab of white fire,ringing clash stab white fire
+443,The Balrog fell back and its sword flew up in molten fragments.,the balrog fell back and its sword flew up in molten fragments,balrog fell back sword flew molten fragments
+444,"The wizard swayed on the bridge, stepped back a pace, and then again stood still.",the wizard swayed on the bridge stepped back a pace and then again stood still,wizard swayed bridge stepped back pace stood still
+445,'You cannot pass! ',you cannot pass,pass
+446,he said.,he said,said
+447,With a bound the Balrog leaped full upon the bridge.,with a bound the balrog leaped full upon the bridge,bound balrog leaped full upon bridge
+448,Its whip whirled and hissed.,its whip whirled and hissed,whip whirled hissed
+449,'He cannot stand alone! ',he cannot stand alone,stand alone
+450,cried Aragorn suddenly and ran back along the bridge.,cried aragorn suddenly and ran back along the bridge,cried aragorn suddenly ran back along bridge
+451,'_Elendil!_' he shouted.,elendil he shouted,elendil shouted
+452,"'I am with you, Gandalf! '",i am with you gandalf,gandalf
+453,`Gondor! ',gondor,gondor
+454,cried Boromir and leaped after him.,cried boromir and leaped after him,cried boromir leaped
+455,"At that moment Gandalf lifted his staff, and crying aloud he smote the bridge before him.",at that moment gandalf lifted his staff and crying aloud he smote the bridge before him,moment gandalf lifted staff crying aloud smote bridge
+456,The staff broke asunder and fell from his hand.,the staff broke asunder and fell from his hand,staff broke asunder fell hand
+457,A blinding sheet of white flame sprang up.,a blinding sheet of white flame sprang up,blinding sheet white flame sprang
+458,The bridge cracked.,the bridge cracked,bridge cracked
+459,"Right at the Balrog's feet it broke, and the stone upon which it stood crashed into the gulf, while the rest remained, poised, quivering like a tongue of rock thrust out into emptiness.",right at the balrogs feet it broke and the stone upon which it stood crashed into the gulf while the rest remained poised quivering like a tongue of rock thrust out into emptiness,right balrogs feet broke stone upon stood crashed gulf rest remained poised quivering like tongue rock thrust emptiness
+460,"With a terrible cry the Balrog fell forward, and its shadow plunged down and vanished.",with a terrible cry the balrog fell forward and its shadow plunged down and vanished,terrible cry balrog fell forward shadow plunged vanished
+461,"But even as it fell it swung its whip, and the thongs lashed and curled about the wizard's knees, dragging him to the brink.",but even as it fell it swung its whip and the thongs lashed and curled about the wizards knees dragging him to the brink,even fell swung whip thongs lashed curled wizards knees dragging brink
+462,"He staggered and fell, grasped vainly at the stone, and slid into the abyss.",he staggered and fell grasped vainly at the stone and slid into the abyss,staggered fell grasped vainly stone slid abyss
+463,"'Fly, you fools! '",fly you fools,fly fools
+464,"he cried, and was gone.",he cried and was gone,cried gone
+465,"The fires went out, and blank darkness fell.",the fires went out and blank darkness fell,fires went blank darkness fell
+466,The Company stood rooted with horror staring into the pit.,the company stood rooted with horror staring into the pit,company stood rooted horror staring pit
+467,"Even as Aragorn and Boromir came flying back, the rest of the bridge cracked and fell.",even as aragorn and boromir came flying back the rest of the bridge cracked and fell,even aragorn boromir came flying back rest bridge cracked fell
+468,With a cry Aragorn roused them.,with a cry aragorn roused them,cry aragorn roused
+469,'Come!,come,come
+470,I will lead you now! ',i will lead you now,lead
+471,he called.,he called,called
+472,'We must obey his last command.,we must obey his last command,must obey last command
+473,Follow me! ',follow me,follow
+474,They stumbled wildly up the great stairs beyond the door.,they stumbled wildly up the great stairs beyond the door,stumbled wildly great stairs beyond door
+475,"Aragorn leading, Boromir at the rear.",aragorn leading boromir at the rear,aragorn leading boromir rear
+476,At the top was a wide echoing passage.,at the top was a wide echoing passage,top wide echoing passage
+477,Along this they fled.,along this they fled,along fled
+478,"Frodo heard Sam at his side weeping, and then he found that he himself was weeping as he ran.",frodo heard sam at his side weeping and then he found that he himself was weeping as he ran,frodo heard sam side weeping found weeping ran
+479,"_Doom, doom, doom_ the drum-beats rolled behind, mournful now and slow; _doom!_
+     They ran on.",doom doom doom the drumbeats rolled behind mournful now and slow doom they ran on,doom doom doom drumbeats rolled behind mournful slow doom ran
+480,The light grew before them; great shafts pierced the roof.,the light grew before them great shafts pierced the roof,light grew great shafts pierced roof
+481,They ran swifter.,they ran swifter,ran swifter
+482,"They passed into a hall, bright with daylight from its high windows in the east.",they passed into a hall bright with daylight from its high windows in the east,passed hall bright daylight high windows east
+483,They fled across it.,they fled across it,fled across
+484,"Through its huge broken doors they passed, and suddenly before them the Great Gates opened, an arch of blazing light.",through its huge broken doors they passed and suddenly before them the great gates opened an arch of blazing light,huge broken doors passed suddenly great gates opened arch blazing light
+485,"There was a guard of orcs crouching in the shadows behind the great door posts towering on either side, but the gates were shattered and cast down.",there was a guard of orcs crouching in the shadows behind the great door posts towering on either side but the gates were shattered and cast down,guard orcs crouching shadows behind great door posts towering either side gates shattered cast
+486,"Aragorn smote to the ground the captain that stood in his path, and the rest fled in terror of his wrath.",aragorn smote to the ground the captain that stood in his path and the rest fled in terror of his wrath,aragorn smote ground captain stood path rest fled terror wrath
+487,The Company swept past them and took no heed of them.,the company swept past them and took no heed of them,company swept past took heed
+488,"Out of the Gates they ran and sprang down the huge and age-worn steps, the threshold of Moria.",out of the gates they ran and sprang down the huge and ageworn steps the threshold of moria,gates ran sprang huge ageworn steps threshold moria
+489,"Thus, at last, they came beyond hope under the sky and felt the wind on their faces.",thus at last they came beyond hope under the sky and felt the wind on their faces,thus last came beyond hope sky felt wind faces
+490,They did not halt until they were out of bowshot from the walls.,they did not halt until they were out of bowshot from the walls,halt bowshot walls
+491,Dimrill Dale lay about them.,dimrill dale lay about them,dimrill dale lay
+492,"The shadow of the Misty Mountains lay upon it, but eastwards there was a golden light on the land.",the shadow of the misty mountains lay upon it but eastwards there was a golden light on the land,shadow misty mountains lay upon eastwards golden light land
+493,It was but one hour after noon.,it was but one hour after noon,one hour noon
+494,The sun was shining; the clouds were white and high.,the sun was shining the clouds were white and high,sun shining clouds white high
+495,They looked back.,they looked back,looked back
+496,Dark yawned the archway of the Gates under the mountain-shadow.,dark yawned the archway of the gates under the mountainshadow,dark yawned archway gates mountainshadow
+497,Faint and far beneath the earth rolled the slow drum-beats: _doom_.,faint and far beneath the earth rolled the slow drumbeats doom,faint far beneath earth rolled slow drumbeats doom
+498,A thin black smoke trailed out.,a thin black smoke trailed out,thin black smoke trailed
+499,Nothing else was to be seen; the dale all around was empty.,nothing else was to be seen the dale all around was empty,nothing else seen dale around empty
+500,_Doom_.,doom,doom
+501,"Grief at last wholly overcame them, and they wept long: some standing and silent, some cast upon the ground.",grief at last wholly overcame them and they wept long some standing and silent some cast upon the ground,grief last wholly overcame wept long standing silent cast upon ground
+502,"_Doom, doom_.",doom doom,doom doom
+503,The drum-beats faded.,the drumbeats faded,drumbeats faded
+504,_,,

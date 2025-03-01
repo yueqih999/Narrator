@@ -1,0 +1,858 @@
+sentence_id,sentence,cleaned_sentence,tokens
+0,"_
+            The Shadow of the Past
+
+     The talk did not die down in nine or even ninety-nine days.",the shadow of the past the talk did not die down in nine or even ninetynine days,shadow past talk die nine even ninetynine days
+1,"The second disappearance of Mr. Bilbo Baggins was discussed in Hobbiton, and indeed all over the Shire, for a year and a day, and was remembered much longer than that.",the second disappearance of mr bilbo baggins was discussed in hobbiton and indeed all over the shire for a year and a day and was remembered much longer than that,second disappearance mr bilbo baggins discussed hobbiton indeed shire year day remembered much longer
+2,"It became a fireside-story for young hobbits; and eventually Mad Baggins, who used to vanish with a bang and a flash and reappear with bags of jewels and gold, became a favourite character of legend and lived on long after all the true events were forgotten.",it became a firesidestory for young hobbits and eventually mad baggins who used to vanish with a bang and a flash and reappear with bags of jewels and gold became a favourite character of legend and lived on long after all the true events were forgotten,became firesidestory young hobbits eventually mad baggins used vanish bang flash reappear bags jewels gold became favourite character legend lived long true events forgotten
+3,"But in the meantime, the general opinion in the neighbourhood was that Bilbo, who had always been rather cracked, had at last gone quite mad, and had run off into the Blue.",but in the meantime the general opinion in the neighbourhood was that bilbo who had always been rather cracked had at last gone quite mad and had run off into the blue,meantime general opinion neighbourhood bilbo always rather cracked last gone quite mad run blue
+4,"There he had undoubtedly fallen into a pool or a river and come to a tragic, but hardly an untimely, end.",there he had undoubtedly fallen into a pool or a river and come to a tragic but hardly an untimely end,undoubtedly fallen pool river come tragic hardly untimely end
+5,The blame was mostly laid on Gandalf.,the blame was mostly laid on gandalf,blame mostly laid gandalf
+6,"'If only that dratted wizard will leave young Frodo alone, perhaps he'll settle down and grow some hobbit-sense,' they said.",if only that dratted wizard will leave young frodo alone perhaps hell settle down and grow some hobbitsense they said,dratted wizard leave young frodo alone perhaps hell settle grow hobbitsense said
+7,"And to all appearance the wizard did leave Frodo alone, and he did settle down, but the growth of hobbit-sense was not very noticeable.",and to all appearance the wizard did leave frodo alone and he did settle down but the growth of hobbitsense was not very noticeable,appearance wizard leave frodo alone settle growth hobbitsense noticeable
+8,"Indeed, he at once began to carry on Bilbo's reputation for oddity.",indeed he at once began to carry on bilbos reputation for oddity,indeed began carry bilbos reputation oddity
+9,"He refused to go into mourning; and the next year he gave a party in honour of Bilbo's hundred-and-twelfth birthday, which he called Hundred-weight Feast.",he refused to go into mourning and the next year he gave a party in honour of bilbos hundredandtwelfth birthday which he called hundredweight feast,refused go mourning next year gave party honour bilbos hundredandtwelfth birthday called hundredweight feast
+10,"But that was short of the mark, for twenty guests were invited and there were several meals at which it snowed food and rained drink, as hobbits say.",but that was short of the mark for twenty guests were invited and there were several meals at which it snowed food and rained drink as hobbits say,short mark twenty guests invited several meals snowed food rained drink hobbits say
+11,Some people were rather shocked; but Frodo kept up the custom of giving Bilbo's Birthday Party year after year until they got used to it.,some people were rather shocked but frodo kept up the custom of giving bilbos birthday party year after year until they got used to it,people rather shocked frodo kept custom giving bilbos birthday party year year got used
+12,He said that he did not think Bilbo was dead.,he said that he did not think bilbo was dead,said think bilbo dead
+13,When they asked: 'Where is he then?',when they asked where is he then,asked
+14,he shrugged his shoulders.,he shrugged his shoulders,shrugged shoulders
+15,"He lived alone, as Bilbo had done; but he had a good many friends, especially among the younger hobbits (mostly descendants of the Old Took) who had as children been fond of Bilbo and often in and out of Bag End.",he lived alone as bilbo had done but he had a good many friends especially among the younger hobbits mostly descendants of the old took who had as children been fond of bilbo and often in and out of bag end,lived alone bilbo done good many friends especially among younger hobbits mostly descendants old took children fond bilbo often bag end
+16,"Folco Boffin and Fredegar Bolger were two of these; but his closest friends were Peregrin Took (usually called Pippin), and Merry Brandybuck (his real name was Meriadoc, but that was seldom remembered).",folco boffin and fredegar bolger were two of these but his closest friends were peregrin took usually called pippin and merry brandybuck his real name was meriadoc but that was seldom remembered,folco boffin fredegar bolger two closest friends peregrin took usually called pippin merry brandybuck real name meriadoc seldom remembered
+17,"Frodo went tramping all over the Shire with them; but more often he wandered by himself, and to the amazement of sensible folk he was sometimes seen far from home walking in the hills and woods under the starlight.",frodo went tramping all over the shire with them but more often he wandered by himself and to the amazement of sensible folk he was sometimes seen far from home walking in the hills and woods under the starlight,frodo went tramping shire often wandered amazement sensible folk sometimes seen far home walking hills woods starlight
+18,"Merry and Pippin suspected that he visited the Elves at times, as Bilbo had done.",merry and pippin suspected that he visited the elves at times as bilbo had done,merry pippin suspected visited elves times bilbo done
+19,"As time went on, people began to notice that Frodo also showed signs of good 'preservation': outwardly he retained the appearance of a robust and energetic hobbit just out of his tweens.",as time went on people began to notice that frodo also showed signs of good preservation outwardly he retained the appearance of a robust and energetic hobbit just out of his tweens,time went people began notice frodo also showed signs good preservation outwardly retained appearance robust energetic hobbit tweens
+20,"'Some folk have all the luck,' they said; but it was not until Frodo approached the usually more sober age of fifty that they began to think it queer.",some folk have all the luck they said but it was not until frodo approached the usually more sober age of fifty that they began to think it queer,folk luck said frodo approached usually sober age fifty began think queer
+21,"Frodo himself, after the first shock, found that being his own master and _the_ Mr. Baggins of Bag End was rather pleasant.",frodo himself after the first shock found that being his own master and the mr baggins of bag end was rather pleasant,frodo first shock found master mr baggins bag end rather pleasant
+22,For some years he was quite happy and did not worry much about the future.,for some years he was quite happy and did not worry much about the future,years quite happy worry much future
+23,But half unknown to himself the regret that he had not gone with Bilbo was steadily growing.,but half unknown to himself the regret that he had not gone with bilbo was steadily growing,half unknown regret gone bilbo steadily growing
+24,"He found himself wondering at times, especially in the autumn, about the wild lands, and strange visions of mountains that he had never seen came into his dreams.",he found himself wondering at times especially in the autumn about the wild lands and strange visions of mountains that he had never seen came into his dreams,found wondering times especially autumn wild lands strange visions mountains never seen came dreams
+25,He began to say to himself: 'Perhaps I shall cross the River myself one day.',he began to say to himself perhaps i shall cross the river myself one day,began say perhaps shall cross river one day
+26,To which the other half of his mind always replied: 'Not yet.',to which the other half of his mind always replied not yet,half mind always replied yet
+27,"So it went on, until his forties were running out, and his fiftieth birthday was drawing near: fifty was a number that he felt was somehow significant (or ominous); it was at any rate at that age that adventure had suddenly befallen Bilbo.",so it went on until his forties were running out and his fiftieth birthday was drawing near fifty was a number that he felt was somehow significant or ominous it was at any rate at that age that adventure had suddenly befallen bilbo,went forties running fiftieth birthday drawing near fifty number felt somehow significant ominous rate age adventure suddenly befallen bilbo
+28,"Frodo began to feel restless, and the old paths seemed too well-trodden.",frodo began to feel restless and the old paths seemed too welltrodden,frodo began feel restless old paths seemed welltrodden
+29,"He looked at maps, and wondered what lay beyond their edges: maps made in the Shire showed mostly white spaces beyond its borders.",he looked at maps and wondered what lay beyond their edges maps made in the shire showed mostly white spaces beyond its borders,looked maps wondered lay beyond edges maps made shire showed mostly white spaces beyond borders
+30,He took to wandering further afield and more often by himself; and Merry and his other friends watched him anxiously.,he took to wandering further afield and more often by himself and merry and his other friends watched him anxiously,took wandering afield often merry friends watched anxiously
+31,Often he was seen walking and talking with the strange wayfarers that began at this time to appear in the Shire.,often he was seen walking and talking with the strange wayfarers that began at this time to appear in the shire,often seen walking talking strange wayfarers began time appear shire
+32,"There were rumours of strange things happening in the world outside; and as Gandalf had not at that time appeared or sent any message for several years, Frodo gathered all the news he could.",there were rumours of strange things happening in the world outside and as gandalf had not at that time appeared or sent any message for several years frodo gathered all the news he could,rumours strange things happening world outside gandalf time appeared sent message several years frodo gathered news could
+33,"Elves, who seldom walked in the Shire, could now be seen passing westward through the woods in the evening, passing and not returning; but they were leaving Middle-earth and were no longer concerned with its troubles.",elves who seldom walked in the shire could now be seen passing westward through the woods in the evening passing and not returning but they were leaving middleearth and were no longer concerned with its troubles,elves seldom walked shire could seen passing westward woods evening passing returning leaving middleearth longer concerned troubles
+34,"There were, however, dwarves on the road in unusual numbers.",there were however dwarves on the road in unusual numbers,however dwarves road unusual numbers
+35,"The ancient East-West Road ran through the Shire to its end at the Grey Havens, and dwarves had always used it on their way to their mines in the Blue Mountains.",the ancient eastwest road ran through the shire to its end at the grey havens and dwarves had always used it on their way to their mines in the blue mountains,ancient eastwest road ran shire end grey havens dwarves always used way mines blue mountains
+36,They were the hobbits' chief source of news from distant parts  if they wanted any: as a rule dwarves said little and hobbits asked no more.,they were the hobbits chief source of news from distant parts if they wanted any as a rule dwarves said little and hobbits asked no more,hobbits chief source news distant parts wanted rule dwarves said little hobbits asked
+37,"But now Frodo often met strange dwarves of far countries, seeking refuge in the West.",but now frodo often met strange dwarves of far countries seeking refuge in the west,frodo often met strange dwarves far countries seeking refuge west
+38,"They were troubled, and some spoke in whispers of the Enemy and of the Land of Mordor.",they were troubled and some spoke in whispers of the enemy and of the land of mordor,troubled spoke whispers enemy land mordor
+39,"That name the hobbits only knew in legends of the dark past, like a shadow in the background of their memories; but it was ominous and disquieting.",that name the hobbits only knew in legends of the dark past like a shadow in the background of their memories but it was ominous and disquieting,name hobbits knew legends dark past like shadow background memories ominous disquieting
+40,It seemed that the evil power in Mirkwood had been driven out by the White Council only to reappear in greater strength in the old strongholds of Mordor.,it seemed that the evil power in mirkwood had been driven out by the white council only to reappear in greater strength in the old strongholds of mordor,seemed evil power mirkwood driven white council reappear greater strength old strongholds mordor
+41,"The Dark Tower had been rebuilt, it was said.",the dark tower had been rebuilt it was said,dark tower rebuilt said
+42,"From there the power was spreading far and wide, and away far east and south there were wars and growing fear.",from there the power was spreading far and wide and away far east and south there were wars and growing fear,power spreading far wide away far east south wars growing fear
+43,Orcs were multiplying again in the mountains.,orcs were multiplying again in the mountains,orcs multiplying mountains
+44,"Trolls were abroad, no longer dull-witted, but cunning and armed with dreadful weapons.",trolls were abroad no longer dullwitted but cunning and armed with dreadful weapons,trolls abroad longer dullwitted cunning armed dreadful weapons
+45,"And there were murmured hints of creatures more terrible than all these, but they had no name.",and there were murmured hints of creatures more terrible than all these but they had no name,murmured hints creatures terrible name
+46,"Little of all this, of course, reached the ears of ordinary hobbits.",little of all this of course reached the ears of ordinary hobbits,little course reached ears ordinary hobbits
+47,But even the deafest and most stay-at-home began to hear queer tales; and those whose business took them to the borders saw strange things.,but even the deafest and most stayathome began to hear queer tales and those whose business took them to the borders saw strange things,even deafest stayathome began hear queer tales whose business took borders saw strange things
+48,"The conversation in _The Green Dragon_ at Bywater, one evening in the spring of Frodo's fiftieth year, showed that even in the comfortable heart of the Shire rumours had been heard, though most hobbits still laughed at them.",the conversation in the green dragon at bywater one evening in the spring of frodos fiftieth year showed that even in the comfortable heart of the shire rumours had been heard though most hobbits still laughed at them,conversation green dragon bywater one evening spring frodos fiftieth year showed even comfortable heart shire rumours heard though hobbits still laughed
+49,"Sam Gamgee was sitting in one corner near the fire, and opposite him was Ted Sandyman, the miller's son; and there were various other rustic hobbits listening to their talk.",sam gamgee was sitting in one corner near the fire and opposite him was ted sandyman the millers son and there were various other rustic hobbits listening to their talk,sam gamgee sitting one corner near fire opposite ted sandyman millers son various rustic hobbits listening talk
+50,"'Queer things you do hear these days, to be sure,' said Sam.",queer things you do hear these days to be sure said sam,queer things hear days sure said sam
+51,"'Ah,' said Ted, 'you do, if you listen.",ah said ted you do if you listen,ah said ted listen
+52,"But I can hear fireside-tales and children's stories at home, if I want to.'",but i can hear firesidetales and childrens stories at home if i want to,hear firesidetales childrens stories home want
+53,"'No doubt you can,' retorted Sam, 'and I daresay there's more truth in some of them than you reckon.",no doubt you can retorted sam and i daresay theres more truth in some of them than you reckon,doubt retorted sam daresay theres truth reckon
+54,Who invented the stories anyway?,who invented the stories anyway,invented stories anyway
+55,Take dragons now.',take dragons now,take dragons
+56,"'No thank 'ee,' said Ted, 'I won't.",no thank ee said ted i wont,thank ee said ted wont
+57,"I heard tell of them when I was a youngster, but there's no call to believe in them now.",i heard tell of them when i was a youngster but theres no call to believe in them now,heard tell youngster theres call believe
+58,"There's only one Dragon in Bywater, and that's Green,' he said, getting a general laugh.",theres only one dragon in bywater and thats green he said getting a general laugh,theres one dragon bywater thats green said getting general laugh
+59,"'All right,' said Sam, laughing with the rest.",all right said sam laughing with the rest,right said sam laughing rest
+60,"'But what about these Tree-men, these giants, as you might call them?",but what about these treemen these giants as you might call them,treemen giants might call
+61,They do say that one bigger than a tree was seen up away beyond the North Moors not long back.',they do say that one bigger than a tree was seen up away beyond the north moors not long back,say one bigger tree seen away beyond north moors long back
+62,'Who's _they_?',whos they,whos
+63,'My cousin Hal for one.,my cousin hal for one,cousin hal one
+64,He works for Mr. Boffin at Overhill and goes up to the Northfarthing for the hunting.,he works for mr boffin at overhill and goes up to the northfarthing for the hunting,works mr boffin overhill goes northfarthing hunting
+65,He _saw_ one.',he saw one,saw one
+66,"'Says he did, perhaps.",says he did perhaps,says perhaps
+67,Your Hal's always saying he's seen things; and maybe he sees things that ain't there.',your hals always saying hes seen things and maybe he sees things that aint there,hals always saying hes seen things maybe sees things aint
+68,"'But this one was as big as an elm tree, and walking  walking seven yards to a stride, if it was an inch.'",but this one was as big as an elm tree and walking walking seven yards to a stride if it was an inch,one big elm tree walking walking seven yards stride inch
+69,'Then I bet it wasn't an inch.,then i bet it wasnt an inch,bet wasnt inch
+70,"What he saw _was_ an elm tree, as like as not.'",what he saw was an elm tree as like as not,saw elm tree like
+71,"'But this one was _walking,_ I tell you; and there ain't no elm tree on the North Moors.'",but this one was walking i tell you and there aint no elm tree on the north moors,one walking tell aint elm tree north moors
+72,"'Then Hal can't have seen one,' said Ted.",then hal cant have seen one said ted,hal cant seen one said ted
+73,There was some laughing and clapping: the audience seemed to think that Ted had scored a point.,there was some laughing and clapping the audience seemed to think that ted had scored a point,laughing clapping audience seemed think ted scored point
+74,"'All the same,' said Sam, 'you can't deny that others besides our Halfast have seen queer folk crossing the Shire  crossing it, mind you: there are more that are turned back at the borders.",all the same said sam you cant deny that others besides our halfast have seen queer folk crossing the shire crossing it mind you there are more that are turned back at the borders,said sam cant deny others besides halfast seen queer folk crossing shire crossing mind turned back borders
+75,The Bounders have never been so busy before.,the bounders have never been so busy before,bounders never busy
+76,'And I've heard tell that Elves are moving west.,and ive heard tell that elves are moving west,ive heard tell elves moving west
+77,"They do say they are going to the harbours, out away beyond the White Towers.'",they do say they are going to the harbours out away beyond the white towers,say going harbours away beyond white towers
+78,"Sam waved his arm vaguely: neither he nor any of them knew how far it was to the Sea, past the old towers beyond the western borders of the Shire.",sam waved his arm vaguely neither he nor any of them knew how far it was to the sea past the old towers beyond the western borders of the shire,sam waved arm vaguely neither knew far sea past old towers beyond western borders shire
+79,"But it was an old tradition that away over there stood the Grey Havens, from which at times elven-ships set sail, never to return.",but it was an old tradition that away over there stood the grey havens from which at times elvenships set sail never to return,old tradition away stood grey havens times elvenships set sail never return
+80,"'They are sailing, sailing, sailing over the Sea, they are going into the West and leaving us,' said Sam, half chanting the words, shaking his head sadly and solemnly.",they are sailing sailing sailing over the sea they are going into the west and leaving us said sam half chanting the words shaking his head sadly and solemnly,sailing sailing sailing sea going west leaving us said sam half chanting words shaking head sadly solemnly
+81,But Ted laughed.,but ted laughed,ted laughed
+82,"'Well, that isn't anything new, if you believe the old tales.",well that isnt anything new if you believe the old tales,well isnt anything new believe old tales
+83,And I don't see what it matters to me or you.,and i dont see what it matters to me or you,dont see matters
+84,Let them sail!,let them sail,let sail
+85,But I warrant you haven't seen them doing it; nor any one else in the Shire.',but i warrant you havent seen them doing it nor any one else in the shire,warrant havent seen one else shire
+86,"'Well I don't know,' said Sam thoughtfully.",well i dont know said sam thoughtfully,well dont know said sam thoughtfully
+87,"He believed he had once seen an Elf in the woods, and still hoped to see more one day.",he believed he had once seen an elf in the woods and still hoped to see more one day,believed seen elf woods still hoped see one day
+88,"Of all the legends that he had heard in his early years such fragments of tales and half-remembered stories about the Elves as the hobbits knew, had always moved him most deeply.",of all the legends that he had heard in his early years such fragments of tales and halfremembered stories about the elves as the hobbits knew had always moved him most deeply,legends heard early years fragments tales halfremembered stories elves hobbits knew always moved deeply
+89,"'There are some, even in these parts, as know the Fair Folk and get news of them,' he said.",there are some even in these parts as know the fair folk and get news of them he said,even parts know fair folk get news said
+90,"'There's Mr. Baggins now, that I work for.",theres mr baggins now that i work for,theres mr baggins work
+91,He told me that they were sailing and he knows a bit about Elves.,he told me that they were sailing and he knows a bit about elves,told sailing knows bit elves
+92,And old Mr. Bilbo knew more: many's the talk I had with him when I was a little lad.',and old mr bilbo knew more manys the talk i had with him when i was a little lad,old mr bilbo knew manys talk little lad
+93,"'Oh, they're both cracked,' said Ted.",oh theyre both cracked said ted,oh theyre cracked said ted
+94,"'Leastways old Bilbo was cracked, and Frodo's cracking.",leastways old bilbo was cracked and frodos cracking,leastways old bilbo cracked frodos cracking
+95,"If that's where you get your news from, you'll never want for moonshine.",if thats where you get your news from youll never want for moonshine,thats get news youll never want moonshine
+96,"Well, friends, I'm off home.",well friends im off home,well friends im home
+97,Your good health!',your good health,good health
+98,He drained his mug and went out noisily.,he drained his mug and went out noisily,drained mug went noisily
+99,Sam sat silent and said no more.,sam sat silent and said no more,sam sat silent said
+100,He had a good deal to think about.,he had a good deal to think about,good deal think
+101,"For one thing, there was a lot to do up in the Bag End garden, and he would have a busy day tomorrow, if the weather cleared.",for one thing there was a lot to do up in the bag end garden and he would have a busy day tomorrow if the weather cleared,one thing lot bag end garden would busy day tomorrow weather cleared
+102,The grass was growing fast.,the grass was growing fast,grass growing fast
+103,But Sam had more on his mind than gardening.,but sam had more on his mind than gardening,sam mind gardening
+104,"After a while he sighed, and got up and went out.",after a while he sighed and got up and went out,sighed got went
+105,It was early April and the sky was now clearing after heavy rain.,it was early april and the sky was now clearing after heavy rain,early april sky clearing heavy rain
+106,"The sun was down, and a cool pale evening was quietly fading into night.",the sun was down and a cool pale evening was quietly fading into night,sun cool pale evening quietly fading night
+107,"He walked home under the early stars through Hobbiton and up the Hill, whistling softly and thoughtfully.",he walked home under the early stars through hobbiton and up the hill whistling softly and thoughtfully,walked home early stars hobbiton hill whistling softly thoughtfully
+108,It was just at this time that Gandalf reappeared after his long absence.,it was just at this time that gandalf reappeared after his long absence,time gandalf reappeared long absence
+109,For three years after the Party he had been away.,for three years after the party he had been away,three years party away
+110,"Then he paid Frodo a brief visit, and after taking a good look at him he went off again.",then he paid frodo a brief visit and after taking a good look at him he went off again,paid frodo brief visit taking good look went
+111,"During the next year or two he had turned up fairly often, coming unexpectedly after dusk, and going off without warning before sunrise.",during the next year or two he had turned up fairly often coming unexpectedly after dusk and going off without warning before sunrise,next year two turned fairly often coming unexpectedly dusk going without warning sunrise
+112,"He would not discuss his own business and journeys, and seemed chiefly interested in small news about Frodo's health and doings.",he would not discuss his own business and journeys and seemed chiefly interested in small news about frodos health and doings,would discuss business journeys seemed chiefly interested small news frodos health doings
+113,Then suddenly his visits had ceased.,then suddenly his visits had ceased,suddenly visits ceased
+114,"It was over nine years since Frodo had seen or heard of him, and he had begun to think that the wizard would never return and had given up all interest in hobbits.",it was over nine years since frodo had seen or heard of him and he had begun to think that the wizard would never return and had given up all interest in hobbits,nine years since frodo seen heard begun think wizard would never return given interest hobbits
+115,"But that evening, as Sam was walking home and twilight was fading, there came the once familiar tap on the study window.",but that evening as sam was walking home and twilight was fading there came the once familiar tap on the study window,evening sam walking home twilight fading came familiar tap study window
+116,Frodo welcomed his old friend with surprise and great delight.,frodo welcomed his old friend with surprise and great delight,frodo welcomed old friend surprise great delight
+117,They looked hard at one another.,they looked hard at one another,looked hard one another
+118,'Ah well eh?',ah well eh,ah well eh
+119,said Gandalf.,said gandalf,said gandalf
+120,"'You look the same as ever, Frodo!'",you look the same as ever frodo,look ever frodo
+121,"'So do you,' Frodo replied; but secretly he thought that Gandalf looked older and more careworn.",so do you frodo replied but secretly he thought that gandalf looked older and more careworn,frodo replied secretly thought gandalf looked older careworn
+122,"He pressed him for news of himself and of the wide world, and soon they were deep in talk, and they stayed up far into the night.",he pressed him for news of himself and of the wide world and soon they were deep in talk and they stayed up far into the night,pressed news wide world soon deep talk stayed far night
+123,"Next morning after a late breakfast, the wizard was sitting with Frodo by the open window of the study.",next morning after a late breakfast the wizard was sitting with frodo by the open window of the study,next morning late breakfast wizard sitting frodo open window study
+124,"A bright fire was on the hearth, but the sun was warm, and the wind was in the South.",a bright fire was on the hearth but the sun was warm and the wind was in the south,bright fire hearth sun warm wind south
+125,"Everything looked fresh, and the new green of Spring was shimmering in the fields and on the tips of the trees' fingers.",everything looked fresh and the new green of spring was shimmering in the fields and on the tips of the trees fingers,everything looked fresh new green spring shimmering fields tips trees fingers
+126,"Gandalf was thinking of a spring, nearly eighty years before, when Bilbo had run out of Bag End without a handkerchief.",gandalf was thinking of a spring nearly eighty years before when bilbo had run out of bag end without a handkerchief,gandalf thinking spring nearly eighty years bilbo run bag end without handkerchief
+127,"His hair was perhaps whiter than it had been then, and his beard and eyebrows were perhaps longer, and his face more lined with care and wisdom; but his eyes were as bright as ever, and he smoked and blew smoke-rings with the same vigour and delight.",his hair was perhaps whiter than it had been then and his beard and eyebrows were perhaps longer and his face more lined with care and wisdom but his eyes were as bright as ever and he smoked and blew smokerings with the same vigour and delight,hair perhaps whiter beard eyebrows perhaps longer face lined care wisdom eyes bright ever smoked blew smokerings vigour delight
+128,"He was smoking now in silence, for Frodo was sitting still, deep in thought.",he was smoking now in silence for frodo was sitting still deep in thought,smoking silence frodo sitting still deep thought
+129,Even in the light of morning he felt the dark shadow of the tidings that Gandalf had brought.,even in the light of morning he felt the dark shadow of the tidings that gandalf had brought,even light morning felt dark shadow tidings gandalf brought
+130,At last he broke the silence.,at last he broke the silence,last broke silence
+131,"'Last night you began to tell me strange things about my ring, Gandalf,' he said.",last night you began to tell me strange things about my ring gandalf he said,last night began tell strange things ring gandalf said
+132,"'And then you stopped, because you said that such matters were best left until daylight.",and then you stopped because you said that such matters were best left until daylight,stopped said matters best left daylight
+133,Don't you think you had better finish now?,dont you think you had better finish now,dont think better finish
+134,"You say the ring is dangerous, far more dangerous than I guess.",you say the ring is dangerous far more dangerous than i guess,say ring dangerous far dangerous guess
+135,In what way?',in what way,way
+136,"'In many ways,' answered the wizard.",in many ways answered the wizard,many ways answered wizard
+137,"It is far more powerful than I ever dared to think at first, so powerful that in the end it would utterly overcome anyone of mortal race who possessed it.",it is far more powerful than i ever dared to think at first so powerful that in the end it would utterly overcome anyone of mortal race who possessed it,far powerful ever dared think first powerful end would utterly overcome anyone mortal race possessed
+138,It would possess him.,it would possess him,would possess
+139,"'In Eregion long ago many Elven-rings were made, magic rings as you call them, and they were, of course, of various kinds: some more potent and some less.",in eregion long ago many elvenrings were made magic rings as you call them and they were of course of various kinds some more potent and some less,eregion long ago many elvenrings made magic rings call course various kinds potent less
+140,"The lesser rings were only essays in the craft before it was full-grown, and to the Elven-smiths they were but trifles  yet still to my mind dangerous for mortals.",the lesser rings were only essays in the craft before it was fullgrown and to the elvensmiths they were but trifles yet still to my mind dangerous for mortals,lesser rings essays craft fullgrown elvensmiths trifles yet still mind dangerous mortals
+141,"But the Great Rings, the Rings of Power, they were perilous.",but the great rings the rings of power they were perilous,great rings rings power perilous
+142,"'A mortal, Frodo, who keeps one of the Great Rings, does not die, but he does not grow or obtain more life, he merely continues, until at last every minute is a weariness.",a mortal frodo who keeps one of the great rings does not die but he does not grow or obtain more life he merely continues until at last every minute is a weariness,mortal frodo keeps one great rings die grow obtain life merely continues last every minute weariness
+143,"And if he often uses the Ring to make himself invisible, he_ fades:_ he becomes in the end invisible permanently, and walks in the twilight under the eye of the dark power that rules the Rings.",and if he often uses the ring to make himself invisible he fades he becomes in the end invisible permanently and walks in the twilight under the eye of the dark power that rules the rings,often uses ring make invisible fades becomes end invisible permanently walks twilight eye dark power rules rings
+144,"Yes, sooner or later  later, if he is strong or well-meaning to begin with, but neither strength nor good purpose will last  sooner or later the dark power will devour him.'",yes sooner or later later if he is strong or wellmeaning to begin with but neither strength nor good purpose will last sooner or later the dark power will devour him,yes sooner later later strong wellmeaning begin neither strength good purpose last sooner later dark power devour
+145,'How terrifying!',how terrifying,terrifying
+146,said Frodo.,said frodo,said frodo
+147,There was another long silence.,there was another long silence,another long silence
+148,The sound of Sam Gamgee cutting the lawn came in from the garden.,the sound of sam gamgee cutting the lawn came in from the garden,sound sam gamgee cutting lawn came garden
+149,'How long have you known this?',how long have you known this,long known
+150,asked Frodo at length.,asked frodo at length,asked frodo length
+151,'And how much did Bilbo know?',and how much did bilbo know,much bilbo know
+152,"'Bilbo knew no more than he told you, I am sure,' said Gandalf.",bilbo knew no more than he told you i am sure said gandalf,bilbo knew told sure said gandalf
+153,"'He would certainly never have passed on to you anything that he thought would be a danger, even though I promised to look after you.",he would certainly never have passed on to you anything that he thought would be a danger even though i promised to look after you,would certainly never passed anything thought would danger even though promised look
+154,"He thought the ring was very beautiful, and very useful at need; and if anything was wrong or queer, it was himself.",he thought the ring was very beautiful and very useful at need and if anything was wrong or queer it was himself,thought ring beautiful useful need anything wrong queer
+155,"He said that it was ""growing on his mind"", and he was always worrying about it; but he did not suspect that the ring itself was to blame.",he said that it was growing on his mind and he was always worrying about it but he did not suspect that the ring itself was to blame,said growing mind always worrying suspect ring blame
+156,"Though he had found out that the thing needed looking after; it did not seem always of the same size or weight; it shrank or expanded in an odd way, and might suddenly slip off a finger where it had been tight.'",though he had found out that the thing needed looking after it did not seem always of the same size or weight it shrank or expanded in an odd way and might suddenly slip off a finger where it had been tight,though found thing needed looking seem always size weight shrank expanded odd way might suddenly slip finger tight
+157,"'Yes, he warned me of that in his last letter,' said Frodo, 'so I have always kept it on its chain.'",yes he warned me of that in his last letter said frodo so i have always kept it on its chain,yes warned last letter said frodo always kept chain
+158,"'Very wise,' said Gandalf.",very wise said gandalf,wise said gandalf
+159,"'But as for his long life, Bilbo never connected it with the ring at all.",but as for his long life bilbo never connected it with the ring at all,long life bilbo never connected ring
+160,"He took all the credit for that to himself, and he was very proud of it.",he took all the credit for that to himself and he was very proud of it,took credit proud
+161,Though he was getting restless and uneasy.,though he was getting restless and uneasy,though getting restless uneasy
+162,_Thin and stretched_ he said.,thin and stretched he said,thin stretched said
+163,A sign that the ring was getting control.',a sign that the ring was getting control,sign ring getting control
+164,'How long have you known all this?',how long have you known all this,long known
+165,asked Frodo again.,asked frodo again,asked frodo
+166,'Known?',known,known
+167,said Gandalf.,said gandalf,said gandalf
+168,"'I have known much that only the Wise know, Frodo.",i have known much that only the wise know frodo,known much wise know frodo
+169,"But if you mean ""known about _this_ ring"", well, I still do not _know,_one might say.",but if you mean known about this ring well i still do not knowone might say,mean known ring well still knowone might say
+170,There is a last test to make.,there is a last test to make,last test make
+171,But I no longer doubt my guess.,but i no longer doubt my guess,longer doubt guess
+172,'When did I first begin to guess?',when did i first begin to guess,first begin guess
+173,"he mused, searching back in memory.",he mused searching back in memory,mused searching back memory
+174,"'Let me see  it was in the year that the White Council drove the dark power from Mirkwood, just before the Battle of Five Armies, that Bilbo found his ring.",let me see it was in the year that the white council drove the dark power from mirkwood just before the battle of five armies that bilbo found his ring,let see year white council drove dark power mirkwood battle five armies bilbo found ring
+175,"A shadow fell on my heart then, though I did not know yet what I feared.",a shadow fell on my heart then though i did not know yet what i feared,shadow fell heart though know yet feared
+176,"I wondered often how Gollum came by a Great Ring, as plainly it was  that at least was clear from the first.",i wondered often how gollum came by a great ring as plainly it was that at least was clear from the first,wondered often gollum came great ring plainly least clear first
+177,"Then I heard Bilbo's strange story of how he had ""won"" it, and I could not believe it.",then i heard bilbos strange story of how he had won it and i could not believe it,heard bilbos strange story could believe
+178,"When I at last got the truth out of him, I saw at once that he had been trying to put his claim to the ring beyond doubt.",when i at last got the truth out of him i saw at once that he had been trying to put his claim to the ring beyond doubt,last got truth saw trying put claim ring beyond doubt
+179,"Much like Gollum with his ""birthday present"".",much like gollum with his birthday present,much like gollum birthday present
+180,The lies were too much alike for my comfort.,the lies were too much alike for my comfort,lies much alike comfort
+181,Clearly the ring had an unwholesome power that set to work on its keeper at once.,clearly the ring had an unwholesome power that set to work on its keeper at once,clearly ring unwholesome power set work keeper
+182,That was the first real warning I had that all was not well.,that was the first real warning i had that all was not well,first real warning well
+183,"I told Bilbo often that such rings were better left unused; but he resented it, and soon got angry.",i told bilbo often that such rings were better left unused but he resented it and soon got angry,told bilbo often rings better left unused resented soon got angry
+184,There was little else that I could do.,there was little else that i could do,little else could
+185,I could not take it from him without doing greater harm; and I had no right to do so anyway.,i could not take it from him without doing greater harm and i had no right to do so anyway,could take without greater harm right anyway
+186,I could only watch and wait.,i could only watch and wait,could watch wait
+187,"I might perhaps have consulted Saruman the White, but something always held me back.'",i might perhaps have consulted saruman the white but something always held me back,might perhaps consulted saruman white something always held back
+188,'Who is he?',who is he,
+189,asked Frodo.,asked frodo,asked frodo
+190,I have never heard of him before.',i have never heard of him before,never heard
+191,"'Maybe not,' answered Gandalf.",maybe not answered gandalf,maybe answered gandalf
+192,"'Hobbits are, or were, no concern of his.",hobbits are or were no concern of his,hobbits concern
+193,Yet he is great among the Wise.,yet he is great among the wise,yet great among wise
+194,He is the chief of my order and the head of the Council.,he is the chief of my order and the head of the council,chief order head council
+195,"His knowledge is deep, but his pride has grown with it, and he takes ill any meddling.",his knowledge is deep but his pride has grown with it and he takes ill any meddling,knowledge deep pride grown takes ill meddling
+196,"The lore of the Elven-rings, great and small, is his province.",the lore of the elvenrings great and small is his province,lore elvenrings great small province
+197,"He has long studied it, seeking the lost secrets of their making; but when the Rings were debated in the Council, all that he would reveal to us of his ring-lore told against my fears.",he has long studied it seeking the lost secrets of their making but when the rings were debated in the council all that he would reveal to us of his ringlore told against my fears,long studied seeking lost secrets making rings debated council would reveal us ringlore told fears
+198,So my doubt slept  but uneasily.,so my doubt slept but uneasily,doubt slept uneasily
+199,Still I watched and I waited.,still i watched and i waited,still watched waited
+200,'And all seemed well with Bilbo.,and all seemed well with bilbo,seemed well bilbo
+201,And the years passed.,and the years passed,years passed
+202,"Yes, they passed, and they seemed not to touch him.",yes they passed and they seemed not to touch him,yes passed seemed touch
+203,He showed no signs of age.,he showed no signs of age,showed signs age
+204,The shadow fell on me again.,the shadow fell on me again,shadow fell
+205,"But I said to myself: ""After all he comes of a long-lived family on his mother's side.",but i said to myself after all he comes of a longlived family on his mothers side,said comes longlived family mothers side
+206,There is time yet.,there is time yet,time yet
+207,"Wait!""",wait,wait
+208,'And I waited.,and i waited,waited
+209,Until that night when he left this house.,until that night when he left this house,night left house
+210,He said and did things then that filled me with a fear that no words of Saruman could allay.,he said and did things then that filled me with a fear that no words of saruman could allay,said things filled fear words saruman could allay
+211,I knew at last that something dark and deadly was at work.,i knew at last that something dark and deadly was at work,knew last something dark deadly work
+212,And I have spent most of the years since then in finding out the truth of it.',and i have spent most of the years since then in finding out the truth of it,spent years since finding truth
+213,"'There wasn't any permanent harm done, was there?'",there wasnt any permanent harm done was there,wasnt permanent harm done
+214,asked Frodo anxiously.,asked frodo anxiously,asked frodo anxiously
+215,"'He would get all right in time, wouldn't he?",he would get all right in time wouldnt he,would get right time wouldnt
+216,"Be able to rest in peace, I mean?'",be able to rest in peace i mean,able rest peace mean
+217,"'He felt better at once,' said Gandalf.",he felt better at once said gandalf,felt better said gandalf
+218,'But there is only one Power in this world that knows all about the Rings and their effects; and as far as I know there is no Power in the world that knows all about hobbits.,but there is only one power in this world that knows all about the rings and their effects and as far as i know there is no power in the world that knows all about hobbits,one power world knows rings effects far know power world knows hobbits
+219,"Among the Wise I am the only one that goes in for hobbit-lore: an obscure branch of knowledge, but full of surprises.",among the wise i am the only one that goes in for hobbitlore an obscure branch of knowledge but full of surprises,among wise one goes hobbitlore obscure branch knowledge full surprises
+220,"Soft as butter they can be, and yet sometimes as tough as old tree-roots.",soft as butter they can be and yet sometimes as tough as old treeroots,soft butter yet sometimes tough old treeroots
+221,I think it likely that some would resist the Rings far longer than most of the Wise would believe.,i think it likely that some would resist the rings far longer than most of the wise would believe,think likely would resist rings far longer wise would believe
+222,I don't think you need worry about Bilbo.,i dont think you need worry about bilbo,dont think need worry bilbo
+223,"'Of course, he possessed the ring for many years, and used it, so it might take a long while for the influence to wear off  before it was safe for him to see it again, for instance.",of course he possessed the ring for many years and used it so it might take a long while for the influence to wear off before it was safe for him to see it again for instance,course possessed ring many years used might take long influence wear safe see instance
+224,"Otherwise, he might live on for years, quite happily: just stop as he was when he parted with it.",otherwise he might live on for years quite happily just stop as he was when he parted with it,otherwise might live years quite happily stop parted
+225,For he gave it up in the end of his own accord: an important point.,for he gave it up in the end of his own accord an important point,gave end accord important point
+226,"No, I was not troubled about dear Bilbo any more, once he had let the thing go.",no i was not troubled about dear bilbo any more once he had let the thing go,troubled dear bilbo let thing go
+227,It is for _you_ that I feel responsible.,it is for you that i feel responsible,feel responsible
+228,"'Ever since Bilbo left I have been deeply concerned about you, and about all these charming, absurd, helpless hobbits.",ever since bilbo left i have been deeply concerned about you and about all these charming absurd helpless hobbits,ever since bilbo left deeply concerned charming absurd helpless hobbits
+229,"It would be a grievous blow to the world, if the Dark Power overcame the Shire; if all your kind, jolly, stupid Bolgers, Hornblowers, Boffins, Bracegirdles, and the rest, not to mention the ridiculous Bagginses, became enslaved.'",it would be a grievous blow to the world if the dark power overcame the shire if all your kind jolly stupid bolgers hornblowers boffins bracegirdles and the rest not to mention the ridiculous bagginses became enslaved,would grievous blow world dark power overcame shire kind jolly stupid bolgers hornblowers boffins bracegirdles rest mention ridiculous bagginses became enslaved
+230,Frodo shuddered.,frodo shuddered,frodo shuddered
+231,'But why should we be?',but why should we be,
+232,he asked.,he asked,asked
+233,'And why should he want such slaves?',and why should he want such slaves,want slaves
+234,"'To tell you the truth,' replied Gandalf, 'I believe that hitherto  _hitherto,_mark you  he has entirely overlooked the existence of hobbits.",to tell you the truth replied gandalf i believe that hitherto hithertomark you he has entirely overlooked the existence of hobbits,tell truth replied gandalf believe hitherto hithertomark entirely overlooked existence hobbits
+235,You should be thankful.,you should be thankful,thankful
+236,But your safety has passed.,but your safety has passed,safety passed
+237,He does not need you  he has many more useful servants  but he won't forget you again.,he does not need you he has many more useful servants but he wont forget you again,need many useful servants wont forget
+238,And hobbits as miserable slaves would please him far more than hobbits happy and free.,and hobbits as miserable slaves would please him far more than hobbits happy and free,hobbits miserable slaves would please far hobbits happy free
+239,There is such a thing as malice and revenge.',there is such a thing as malice and revenge,thing malice revenge
+240,'Revenge?',revenge,revenge
+241,said Frodo.,said frodo,said frodo
+242,'Revenge for what?,revenge for what,revenge
+243,"I still don't understand what all this has to do with Bilbo and myself, and our ring.'",i still dont understand what all this has to do with bilbo and myself and our ring,still dont understand bilbo ring
+244,"'It has everything to do with it,' said Gandalf.",it has everything to do with it said gandalf,everything said gandalf
+245,'You do not know the real peril yet; but you shall.,you do not know the real peril yet but you shall,know real peril yet shall
+246,I was not sure of it myself when I was last here; but the time has come to speak.,i was not sure of it myself when i was last here but the time has come to speak,sure last time come speak
+247,Give me the ring for a moment.',give me the ring for a moment,give ring moment
+248,"Frodo took it from his breeches-pocket, where it was clasped to a chain that hung from his belt.",frodo took it from his breechespocket where it was clasped to a chain that hung from his belt,frodo took breechespocket clasped chain hung belt
+249,He unfastened it and handed it slowly to the wizard.,he unfastened it and handed it slowly to the wizard,unfastened handed slowly wizard
+250,"It felt suddenly very heavy, as if either it or Frodo himself was in some way reluctant for Gandalf to touch it.",it felt suddenly very heavy as if either it or frodo himself was in some way reluctant for gandalf to touch it,felt suddenly heavy either frodo way reluctant gandalf touch
+251,Gandalf held it up.,gandalf held it up,gandalf held
+252,It looked to be made of pure and solid gold.,it looked to be made of pure and solid gold,looked made pure solid gold
+253,'Can you see any markings on it?',can you see any markings on it,see markings
+254,he asked.,he asked,asked
+255,"'No,' said Frodo.",no said frodo,said frodo
+256,'There are none.,there are none,none
+257,"It is quite plain, and it never shows a scratch or sign of wear.'",it is quite plain and it never shows a scratch or sign of wear,quite plain never shows scratch sign wear
+258,"'Well then, look!'",well then look,well look
+259,To Frodo's astonishment and distress the wizard threw it suddenly into the middle of a glowing corner of the fire.,to frodos astonishment and distress the wizard threw it suddenly into the middle of a glowing corner of the fire,frodos astonishment distress wizard threw suddenly middle glowing corner fire
+260,Frodo gave a cry and groped for the tongs; but Gandalf held him back.,frodo gave a cry and groped for the tongs but gandalf held him back,frodo gave cry groped tongs gandalf held back
+261,'Wait!',wait,wait
+262,"he said in a commanding voice, giving Frodo a quick look from under his bristling brows.",he said in a commanding voice giving frodo a quick look from under his bristling brows,said commanding voice giving frodo quick look bristling brows
+263,No apparent change came over the ring.,no apparent change came over the ring,apparent change came ring
+264,"After a while Gandalf got up, closed the shutters outside the window, and drew the curtains.",after a while gandalf got up closed the shutters outside the window and drew the curtains,gandalf got closed shutters outside window drew curtains
+265,"The room became dark and silent, though the clack of Sam's shears, now nearer to the windows, could still be heard faintly from the garden.",the room became dark and silent though the clack of sams shears now nearer to the windows could still be heard faintly from the garden,room became dark silent though clack sams shears nearer windows could still heard faintly garden
+266,"For a moment the wizard stood looking at the fire; then he stooped and removed the ring to the hearth with the tongs, and at once picked it up.",for a moment the wizard stood looking at the fire then he stooped and removed the ring to the hearth with the tongs and at once picked it up,moment wizard stood looking fire stooped removed ring hearth tongs picked
+267,Frodo gasped.,frodo gasped,frodo gasped
+268,"It is quite cool,' said Gandalf.",it is quite cool said gandalf,quite cool said gandalf
+269,'Take it!',take it,take
+270,Frodo received it on his shrinking palm: it seemed to have become thicker and heavier than ever.,frodo received it on his shrinking palm it seemed to have become thicker and heavier than ever,frodo received shrinking palm seemed become thicker heavier ever
+271,'Hold it up!',hold it up,hold
+272,said Gandalf.,said gandalf,said gandalf
+273,'And look closely!',and look closely,look closely
+274,"As Frodo did so, he now saw fine lines, finer than the finest pen-strokes, running along the ring, outside and inside: lines of fire that seemed to form the letters of a flowing script.",as frodo did so he now saw fine lines finer than the finest penstrokes running along the ring outside and inside lines of fire that seemed to form the letters of a flowing script,frodo saw fine lines finer finest penstrokes running along ring outside inside lines fire seemed form letters flowing script
+275,"They shone piercingly bright, and yet remote, as if out of a great depth.",they shone piercingly bright and yet remote as if out of a great depth,shone piercingly bright yet remote great depth
+276,"'I cannot read the fiery letters,' said Frodo in a quavering voice.",i cannot read the fiery letters said frodo in a quavering voice,read fiery letters said frodo quavering voice
+277,"'No,' said Gandalf, 'but I can.",no said gandalf but i can,said gandalf
+278,"The letters are Elvish, of an ancient mode, but the language is that of Mordor, which I will not utter here.",the letters are elvish of an ancient mode but the language is that of mordor which i will not utter here,letters elvish ancient mode language mordor utter
+279,"But this in the Common Tongue is what is said, close enough:
+
+          _One Ring to rule them all, One Ring to find them,
+           One Ring to bring them all and in the darkness bind them._
+
+     It is only two lines of a verse long known in Elven-lore:
+
+          _Three Rings for the Elven-kings under the sky,
+            Seven for the Dwarf-lords in their halls of stone,
+           Nine for Mortal Men doomed to die,
+            One for the Dark Lord on his dark throne
+           In the Land of Mordor where the Shadows lie.",but this in the common tongue is what is said close enough one ring to rule them all one ring to find them one ring to bring them all and in the darkness bind them it is only two lines of a verse long known in elvenlore three rings for the elvenkings under the sky seven for the dwarflords in their halls of stone nine for mortal men doomed to die one for the dark lord on his dark throne in the land of mordor where the shadows lie,common tongue said close enough one ring rule one ring find one ring bring darkness bind two lines verse long known elvenlore three rings elvenkings sky seven dwarflords halls stone nine mortal men doomed die one dark lord dark throne land mordor shadows lie
+280,One Ring to rule them all.,one ring to rule them all,one ring rule
+281,"One Ring to find them,
+            One Ring to bring them all and in the darkness bind them
+           In the Land of Mordor where the Shadows lie.",one ring to find them one ring to bring them all and in the darkness bind them in the land of mordor where the shadows lie,one ring find one ring bring darkness bind land mordor shadows lie
+282,"'_
+
+     He paused, and then said slowly in a deep voice: 'This is the Master-ring, the One Ring to rule them all.",he paused and then said slowly in a deep voice this is the masterring the one ring to rule them all,paused said slowly deep voice masterring one ring rule
+283,"This is the One Ring that he lost many ages ago, to the great weakening of his power.",this is the one ring that he lost many ages ago to the great weakening of his power,one ring lost many ages ago great weakening power
+284,He greatly desires it  but he must _not_ get it.',he greatly desires it but he must not get it,greatly desires must get
+285,Frodo sat silent and motionless.,frodo sat silent and motionless,frodo sat silent motionless
+286,"Fear seemed to stretch out a vast hand, like a dark cloud rising in the East and looming up to engulf him.",fear seemed to stretch out a vast hand like a dark cloud rising in the east and looming up to engulf him,fear seemed stretch vast hand like dark cloud rising east looming engulf
+287,'This ring!',this ring,ring
+288,he stammered.,he stammered,stammered
+289,"'How, how on earth did it come to me?'",how how on earth did it come to me,earth come
+290,'Ah!',ah,ah
+291,said Gandalf.,said gandalf,said gandalf
+292,'That is a very long story.,that is a very long story,long story
+293,"The beginnings lie back in the Black Years, which only the lore-masters now remember.",the beginnings lie back in the black years which only the loremasters now remember,beginnings lie back black years loremasters remember
+294,"If I were to tell you all that tale, we should still be sitting here when Spring had passed into Winter.",if i were to tell you all that tale we should still be sitting here when spring had passed into winter,tell tale still sitting spring passed winter
+295,"'But last night I told you of Sauron the Great, the Dark Lord.",but last night i told you of sauron the great the dark lord,last night told sauron great dark lord
+296,The rumours that you have heard are true: he has indeed arisen again and left his hold in Mirkwood and returned to his ancient fastness in the Dark Tower of Mordor.,the rumours that you have heard are true he has indeed arisen again and left his hold in mirkwood and returned to his ancient fastness in the dark tower of mordor,rumours heard true indeed arisen left hold mirkwood returned ancient fastness dark tower mordor
+297,"That name even you hobbits have heard of, like a shadow on the borders of old stories.",that name even you hobbits have heard of like a shadow on the borders of old stories,name even hobbits heard like shadow borders old stories
+298,"Always after a defeat and a respite, the Shadow takes another shape and grows again.'",always after a defeat and a respite the shadow takes another shape and grows again,always defeat respite shadow takes another shape grows
+299,"'I wish it need not have happened in my time,' said Frodo.",i wish it need not have happened in my time said frodo,wish need happened time said frodo
+300,"'So do I,' said Gandalf, 'and so do all who live to see such times.",so do i said gandalf and so do all who live to see such times,said gandalf live see times
+301,But that is not for them to decide.,but that is not for them to decide,decide
+302,"All we have to decide is what to do with the time that is given, us.",all we have to decide is what to do with the time that is given us,decide time given us
+303,"And already, Frodo, our time is beginning to look black.",and already frodo our time is beginning to look black,already frodo time beginning look black
+304,The Enemy is fast becoming very strong.,the enemy is fast becoming very strong,enemy fast becoming strong
+305,"His plans are far from ripe, I think, but they are ripening.",his plans are far from ripe i think but they are ripening,plans far ripe think ripening
+306,We shall be hard put to it.,we shall be hard put to it,shall hard put
+307,"We should be very hard put to it, even if it were not for this dreadful chance.",we should be very hard put to it even if it were not for this dreadful chance,hard put even dreadful chance
+308,"'The Enemy still lacks one thing to give him strength and knowledge to beat down all resistance, break the last defences, and cover all the lands in a second darkness.",the enemy still lacks one thing to give him strength and knowledge to beat down all resistance break the last defences and cover all the lands in a second darkness,enemy still lacks one thing give strength knowledge beat resistance break last defences cover lands second darkness
+309,He lacks the One Ring.,he lacks the one ring,lacks one ring
+310,"'The Three, fairest of all, the Elf-lords hid from him, and his hand never touched them or sullied them.",the three fairest of all the elflords hid from him and his hand never touched them or sullied them,three fairest elflords hid hand never touched sullied
+311,"Seven the Dwarf-kings possessed, but three he has recovered, and the others the dragons have consumed.",seven the dwarfkings possessed but three he has recovered and the others the dragons have consumed,seven dwarfkings possessed three recovered others dragons consumed
+312,"Nine he gave to Mortal Men, proud and great, and so ensnared them.",nine he gave to mortal men proud and great and so ensnared them,nine gave mortal men proud great ensnared
+313,"Long ago they fell under the dominion of the One, and they became Ringwraiths, shadows under his great Shadow, his most terrible servants.",long ago they fell under the dominion of the one and they became ringwraiths shadows under his great shadow his most terrible servants,long ago fell dominion one became ringwraiths shadows great shadow terrible servants
+314,Long ago.,long ago,long ago
+315,It is many a year since the Nine walked abroad.,it is many a year since the nine walked abroad,many year since nine walked abroad
+316,Yet who knows?,yet who knows,yet knows
+317,"As the Shadow grows once more, they too may walk again.",as the shadow grows once more they too may walk again,shadow grows may walk
+318,But come!,but come,come
+319,We will not speak of such things even in the morning of the Shire.,we will not speak of such things even in the morning of the shire,speak things even morning shire
+320,"'So it is now: the Nine he has gathered to himself; the Seven also, or else they are destroyed.",so it is now the nine he has gathered to himself the seven also or else they are destroyed,nine gathered seven also else destroyed
+321,The Three are hidden still.,the three are hidden still,three hidden still
+322,But that no longer troubles him.,but that no longer troubles him,longer troubles
+323,"He only needs the One; for he made that Ring himself, it is his, and he let a great part of his own former power pass into it, so that he could rule all the others.",he only needs the one for he made that ring himself it is his and he let a great part of his own former power pass into it so that he could rule all the others,needs one made ring let great part former power pass could rule others
+324,"If he recovers it, then he will command them all again, wherever they be, even the Three, and all that has been wrought with them will be laid bare, and he will be stronger than ever.",if he recovers it then he will command them all again wherever they be even the three and all that has been wrought with them will be laid bare and he will be stronger than ever,recovers command wherever even three wrought laid bare stronger ever
+325,"'And this is the dreadful chance, Frodo.",and this is the dreadful chance frodo,dreadful chance frodo
+326,"He believed that the One had perished; that the Elves had destroyed it, as should have been done.",he believed that the one had perished that the elves had destroyed it as should have been done,believed one perished elves destroyed done
+327,"But he knows now that it has _not_ perished, that it has been found.",but he knows now that it has not perished that it has been found,knows perished found
+328,"So he is seeking it, seeking it, and all his thought is bent on it.",so he is seeking it seeking it and all his thought is bent on it,seeking seeking thought bent
+329,It is his great hope and our great fear.',it is his great hope and our great fear,great hope great fear
+330,"'Why, why wasn't it destroyed?'",why why wasnt it destroyed,wasnt destroyed
+331,cried Frodo.,cried frodo,cried frodo
+332,"'And how did the Enemy ever come to lose it, if he was so strong, and it was so precious to him?'",and how did the enemy ever come to lose it if he was so strong and it was so precious to him,enemy ever come lose strong precious
+333,"He clutched the Ring in his hand, as if he saw already dark fingers stretching out to seize it.",he clutched the ring in his hand as if he saw already dark fingers stretching out to seize it,clutched ring hand saw already dark fingers stretching seize
+334,"'It was taken from him,' said Gandalf.",it was taken from him said gandalf,taken said gandalf
+335,'The strength of the Elves to resist him was greater long ago; and not all Men were estranged from them.,the strength of the elves to resist him was greater long ago and not all men were estranged from them,strength elves resist greater long ago men estranged
+336,The Men of Westernesse came to their aid.,the men of westernesse came to their aid,men westernesse came aid
+337,"That is a chapter of ancient history which it might be good to recall; for there was sorrow then too, and gathering dark, but great valour, and great deeds that were not wholly vain.",that is a chapter of ancient history which it might be good to recall for there was sorrow then too and gathering dark but great valour and great deeds that were not wholly vain,chapter ancient history might good recall sorrow gathering dark great valour great deeds wholly vain
+338,"One day, perhaps, I will tell you all the tale, or you shall hear it told in full by one who knows it best.",one day perhaps i will tell you all the tale or you shall hear it told in full by one who knows it best,one day perhaps tell tale shall hear told full one knows best
+339,"'But for the moment, since most of all you need to know how this thing came to you, and that will be tale enough, this is all that I will say.",but for the moment since most of all you need to know how this thing came to you and that will be tale enough this is all that i will say,moment since need know thing came tale enough say
+340,"It was Gil-galad, Elven-king and Elendil of Westernesse who overthrew Sauron, though they themselves perished in the deed; and Isildur Elendil's son cut the Ring from Sauron's hand and took it for his own.",it was gilgalad elvenking and elendil of westernesse who overthrew sauron though they themselves perished in the deed and isildur elendils son cut the ring from saurons hand and took it for his own,gilgalad elvenking elendil westernesse overthrew sauron though perished deed isildur elendils son cut ring saurons hand took
+341,"Then Sauron was vanquished and his spirit fled and was hidden for long years, until his shadow took shape again in Mirkwood.",then sauron was vanquished and his spirit fled and was hidden for long years until his shadow took shape again in mirkwood,sauron vanquished spirit fled hidden long years shadow took shape mirkwood
+342,'But the Ring was lost.,but the ring was lost,ring lost
+343,"It fell into the Great River, Anduin, and vanished.",it fell into the great river anduin and vanished,fell great river anduin vanished
+344,"For Isildur was marching north along the east banks of the River, and near the Gladden Fields he was waylaid by the Orcs of the Mountains, and almost all his folk were slain.",for isildur was marching north along the east banks of the river and near the gladden fields he was waylaid by the orcs of the mountains and almost all his folk were slain,isildur marching north along east banks river near gladden fields waylaid orcs mountains almost folk slain
+345,"He leaped into the waters, but the Ring slipped from his finger as he swam, and then the Orcs saw him and killed him with arrows.'",he leaped into the waters but the ring slipped from his finger as he swam and then the orcs saw him and killed him with arrows,leaped waters ring slipped finger swam orcs saw killed arrows
+346,Gandalf paused.,gandalf paused,gandalf paused
+347,"'And there in the dark pools amid the Gladden Fields,' he said, 'the Ring passed out of knowledge and legend; and even so much of its history is known now only to a few, and the Council of the Wise could discover no more.",and there in the dark pools amid the gladden fields he said the ring passed out of knowledge and legend and even so much of its history is known now only to a few and the council of the wise could discover no more,dark pools amid gladden fields said ring passed knowledge legend even much history known council wise could discover
+348,"But at last I can carry on the story, I think.",but at last i can carry on the story i think,last carry story think
+349,"'Long after, but still very long ago, there lived by the banks of the Great River on the edge of Wilderland a clever-handed and quiet-footed little people.",long after but still very long ago there lived by the banks of the great river on the edge of wilderland a cleverhanded and quietfooted little people,long still long ago lived banks great river edge wilderland cleverhanded quietfooted little people
+350,"I guess they were of hobbit-kind; akin to the fathers of the fathers of the Stoors, for they loved the River, and often swam in it, or made little boats of reeds.",i guess they were of hobbitkind akin to the fathers of the fathers of the stoors for they loved the river and often swam in it or made little boats of reeds,guess hobbitkind akin fathers fathers stoors loved river often swam made little boats reeds
+351,"There was among them a family of high repute, for it was large and wealthier than most, and it was ruled by a grandmother of the folk, stern and wise in old lore, such as they had.",there was among them a family of high repute for it was large and wealthier than most and it was ruled by a grandmother of the folk stern and wise in old lore such as they had,among family high repute large wealthier ruled grandmother folk stern wise old lore
+352,The most inquisitive and curious-minded of that family was called Sméagol.,the most inquisitive and curiousminded of that family was called smeagol,inquisitive curiousminded family called smeagol
+353,"He was interested in roots and beginnings; he dived into deep pools; he burrowed under trees and growing plants; he tunnelled into green mounds; and he ceased to look up at the hill-tops, or the leaves on trees, or the flowers opening in the air: his head and his eyes were downward.",he was interested in roots and beginnings he dived into deep pools he burrowed under trees and growing plants he tunnelled into green mounds and he ceased to look up at the hilltops or the leaves on trees or the flowers opening in the air his head and his eyes were downward,interested roots beginnings dived deep pools burrowed trees growing plants tunnelled green mounds ceased look hilltops leaves trees flowers opening air head eyes downward
+354,"'He had a friend called Déagol, of similar sort, sharper-eyed but not so quick and strong.",he had a friend called deagol of similar sort sharpereyed but not so quick and strong,friend called deagol similar sort sharpereyed quick strong
+355,"On a time they took a boat and went down to the Gladden Fields, where there were great beds of iris and flowering reeds.",on a time they took a boat and went down to the gladden fields where there were great beds of iris and flowering reeds,time took boat went gladden fields great beds iris flowering reeds
+356,There Sméagol got out and went nosing about the banks but Deal sat in the boat and fished.,there smeagol got out and went nosing about the banks but deal sat in the boat and fished,smeagol got went nosing banks deal sat boat fished
+357,"Suddenly a great fish took his hook, and before he knew where he was, he was dragged out and down into the water, to the bottom.",suddenly a great fish took his hook and before he knew where he was he was dragged out and down into the water to the bottom,suddenly great fish took hook knew dragged water bottom
+358,"Then he let go of his line, for he thought he saw something shining in the river-bed; and holding his breath he grabbed at it.",then he let go of his line for he thought he saw something shining in the riverbed and holding his breath he grabbed at it,let go line thought saw something shining riverbed holding breath grabbed
+359,"'Then up he came spluttering, with weeds in his hair and a handful of mud; and he swam to the bank.",then up he came spluttering with weeds in his hair and a handful of mud and he swam to the bank,came spluttering weeds hair handful mud swam bank
+360,And behold!,and behold,behold
+361,"when he washed the mud away, there in his hand lay a beautiful golden ring; and it shone and glittered in the sun, so that his heart was glad.",when he washed the mud away there in his hand lay a beautiful golden ring and it shone and glittered in the sun so that his heart was glad,washed mud away hand lay beautiful golden ring shone glittered sun heart glad
+362,"But Sméagol had been watching him from behind a tree, and as Deal gloated over the ring, Sméagol came softly up behind.",but smeagol had been watching him from behind a tree and as deal gloated over the ring smeagol came softly up behind,smeagol watching behind tree deal gloated ring smeagol came softly behind
+363,"'""Give us that, Deal, my love,"" said Sméagol, over his friend's shoulder.",give us that deal my love said smeagol over his friends shoulder,give us deal love said smeagol friends shoulder
+364,"'""Why?""",why,
+365,"said Deal.
+     '",said deal,said deal
+366,"""Because it's my birthday, my love, and I wants it,"" said Sméagol.",because its my birthday my love and i wants it said smeagol,birthday love wants said smeagol
+367,"'""I don't care,"" said Deal.",i dont care said deal,dont care said deal
+368,"""I have given you a present already, more than I could afford.",i have given you a present already more than i could afford,given present already could afford
+369,"I found this, and I'm going to keep it.""",i found this and im going to keep it,found im going keep
+370,"' ""Oh, are you indeed, my love,"" said Sméagol; and he caught Deal by the throat and strangled him, because the gold looked so bright and beautiful.",oh are you indeed my love said smeagol and he caught deal by the throat and strangled him because the gold looked so bright and beautiful,oh indeed love said smeagol caught deal throat strangled gold looked bright beautiful
+371,Then he put the ring on his finger.,then he put the ring on his finger,put ring finger
+372,"'No one ever found out what had become of Deal; he was murdered far from home, and his body was cunningly hidden.",no one ever found out what had become of deal he was murdered far from home and his body was cunningly hidden,one ever found become deal murdered far home body cunningly hidden
+373,"But Sméagol returned alone; and he found that none of his family could see him, when he was wearing the ring.",but smeagol returned alone and he found that none of his family could see him when he was wearing the ring,smeagol returned alone found none family could see wearing ring
+374,"He was very pleased with his discovery and he concealed it; and he used it to find out secrets, and he put his knowledge to crooked and malicious uses.",he was very pleased with his discovery and he concealed it and he used it to find out secrets and he put his knowledge to crooked and malicious uses,pleased discovery concealed used find secrets put knowledge crooked malicious uses
+375,He became sharp-eyed and keen-eared for all that was hurtful.,he became sharpeyed and keeneared for all that was hurtful,became sharpeyed keeneared hurtful
+376,The ring had given him power according to his stature.,the ring had given him power according to his stature,ring given power according stature
+377,It is not to be wondered at that he became very unpopular and was shunned (when visible) by all his relations.,it is not to be wondered at that he became very unpopular and was shunned when visible by all his relations,wondered became unpopular shunned visible relations
+378,"They kicked him, and he bit their feet.",they kicked him and he bit their feet,kicked bit feet
+379,"He took to thieving, and going about muttering to himself, and gurgling in his throat.",he took to thieving and going about muttering to himself and gurgling in his throat,took thieving going muttering gurgling throat
+380,"So they called him _Gollum,_ and cursed him, and told him to go far away; and his grandmother, desiring peace, expelled him from the family and turned him out of her hole.",so they called him gollum and cursed him and told him to go far away and his grandmother desiring peace expelled him from the family and turned him out of her hole,called gollum cursed told go far away grandmother desiring peace expelled family turned hole
+381,"'He wandered in loneliness, weeping a little for the hardness of the world, and he journeyed up the River, till he came to a stream that flowed down from the mountains, and he went that way.",he wandered in loneliness weeping a little for the hardness of the world and he journeyed up the river till he came to a stream that flowed down from the mountains and he went that way,wandered loneliness weeping little hardness world journeyed river till came stream flowed mountains went way
+382,He caught fish in deep pools with invisible fingers and ate them raw.,he caught fish in deep pools with invisible fingers and ate them raw,caught fish deep pools invisible fingers ate raw
+383,"One day it was very hot, and as he was bending over a pool, he felt a burning on the back of his head) and a dazzling light from the water pained his wet eyes.",one day it was very hot and as he was bending over a pool he felt a burning on the back of his head and a dazzling light from the water pained his wet eyes,one day hot bending pool felt burning back head dazzling light water pained wet eyes
+384,"He wondered at it, for he had almost forgotten about the Sun.",he wondered at it for he had almost forgotten about the sun,wondered almost forgotten sun
+385,Then for the last time he looked up and shook his fist at her.,then for the last time he looked up and shook his fist at her,last time looked shook fist
+386,"'But as he lowered his eyes, he saw far above the tops of the Misty Mountains, out of which the stream came.",but as he lowered his eyes he saw far above the tops of the misty mountains out of which the stream came,lowered eyes saw far tops misty mountains stream came
+387,"And he thought suddenly: ""It would be cool and shady under those mountains.",and he thought suddenly it would be cool and shady under those mountains,thought suddenly would cool shady mountains
+388,The Sun could not watch me there.,the sun could not watch me there,sun could watch
+389,"The roots of those mountains must be roots indeed; there must be great secrets buried there which have not been discovered since the beginning.""",the roots of those mountains must be roots indeed there must be great secrets buried there which have not been discovered since the beginning,roots mountains must roots indeed must great secrets buried discovered since beginning
+390,"'So he journeyed by night up into the highlands, and he found a little cave out of which the dark stream ran; and he wormed his way like a maggot into the heart of the hills, and vanished out of all knowledge.",so he journeyed by night up into the highlands and he found a little cave out of which the dark stream ran and he wormed his way like a maggot into the heart of the hills and vanished out of all knowledge,journeyed night highlands found little cave dark stream ran wormed way like maggot heart hills vanished knowledge
+391,"The Ring went into the shadows with him, and even the maker, when his power had begun to grow again, could learn nothing of it.'",the ring went into the shadows with him and even the maker when his power had begun to grow again could learn nothing of it,ring went shadows even maker power begun grow could learn nothing
+392,'Gollum!',gollum,gollum
+393,cried Frodo.,cried frodo,cried frodo
+394,'Gollum?,gollum,gollum
+395,Do you mean that this is the very Gollum-creature that Bilbo met?,do you mean that this is the very gollumcreature that bilbo met,mean gollumcreature bilbo met
+396,How loathsome!',how loathsome,loathsome
+397,"'I think it is a sad story,' said the wizard, 'and it might have happened to others, even to some hobbits that I have known.'",i think it is a sad story said the wizard and it might have happened to others even to some hobbits that i have known,think sad story said wizard might happened others even hobbits known
+398,"'I can't believe that Gollum was connected with hobbits, however distantly,' said Frodo with some heat.",i cant believe that gollum was connected with hobbits however distantly said frodo with some heat,cant believe gollum connected hobbits however distantly said frodo heat
+399,'What an abominable notion!',what an abominable notion,abominable notion
+400,"'It is true all the same,' replied Gandalf.",it is true all the same replied gandalf,true replied gandalf
+401,"'About their origins, at any rate, I know more than hobbits do themselves.",about their origins at any rate i know more than hobbits do themselves,origins rate know hobbits
+402,And even Bilbo's story suggests the kinship.,and even bilbos story suggests the kinship,even bilbos story suggests kinship
+403,There was a great deal in the background of their minds and memories that was very similar.,there was a great deal in the background of their minds and memories that was very similar,great deal background minds memories similar
+404,"They understood one another remarkably well, very much better than a hobbit would understand, say, a Dwarf, or an Orc, or even an Elf.",they understood one another remarkably well very much better than a hobbit would understand say a dwarf or an orc or even an elf,understood one another remarkably well much better hobbit would understand say dwarf orc even elf
+405,"Think of the riddles they both knew, for one thing.'",think of the riddles they both knew for one thing,think riddles knew one thing
+406,"'Yes,' said Frodo.",yes said frodo,yes said frodo
+407,"'Though other folks besides hobbits ask riddles, and of much the same sort.",though other folks besides hobbits ask riddles and of much the same sort,though folks besides hobbits ask riddles much sort
+408,And hobbits don't cheat.,and hobbits dont cheat,hobbits dont cheat
+409,Gollum meant to cheat all the time.,gollum meant to cheat all the time,gollum meant cheat time
+410,He was just trying to put poor Bilbo off his guard.,he was just trying to put poor bilbo off his guard,trying put poor bilbo guard
+411,"And I daresay it amused his wickedness to start a game which might end in providing him with an easy victim, but if he lost would not hurt him.'",and i daresay it amused his wickedness to start a game which might end in providing him with an easy victim but if he lost would not hurt him,daresay amused wickedness start game might end providing easy victim lost would hurt
+412,"'Only too true, I fear,' said Gandalf.",only too true i fear said gandalf,true fear said gandalf
+413,"'But there was something else in it, I think, which you don't see yet.",but there was something else in it i think which you dont see yet,something else think dont see yet
+414,Even Gollum was not wholly ruined.,even gollum was not wholly ruined,even gollum wholly ruined
+415,He had proved tougher than even one of the Wise would have guessed -as a hobbit might.,he had proved tougher than even one of the wise would have guessed as a hobbit might,proved tougher even one wise would guessed hobbit might
+416,"There was a little corner of his mind that was still his own, and light came through it, as through a chink in the dark: light out of the past.",there was a little corner of his mind that was still his own and light came through it as through a chink in the dark light out of the past,little corner mind still light came chink dark light past
+417,"It was actually pleasant, I think, to hear a kindly voice again, bringing up memories of wind, and trees, and sun on the grass, and such forgotten things.",it was actually pleasant i think to hear a kindly voice again bringing up memories of wind and trees and sun on the grass and such forgotten things,actually pleasant think hear kindly voice bringing memories wind trees sun grass forgotten things
+418,"'But that, of course, would only make the evil part of him angrier in the end  unless it could be conquered.",but that of course would only make the evil part of him angrier in the end unless it could be conquered,course would make evil part angrier end unless could conquered
+419,Unless it could be cured.',unless it could be cured,unless could cured
+420,Gandalf sighed.,gandalf sighed,gandalf sighed
+421,'Alas!,alas,alas
+422,there is little hope of that for him.,there is little hope of that for him,little hope
+423,Yet not no hope.,yet not no hope,yet hope
+424,"No, not though he possessed the Ring so long, almost as far back as he can remember.",no not though he possessed the ring so long almost as far back as he can remember,though possessed ring long almost far back remember
+425,For it was long since he had worn it much: in the black darkness it was seldom needed.,for it was long since he had worn it much in the black darkness it was seldom needed,long since worn much black darkness seldom needed
+426,"Certainly he had never ""faded"".",certainly he had never faded,certainly never faded
+427,He is thin and tough still.,he is thin and tough still,thin tough still
+428,"But the thing was eating up his mind, of course, and the torment had become almost unbearable.",but the thing was eating up his mind of course and the torment had become almost unbearable,thing eating mind course torment become almost unbearable
+429,"'All the ""great secrets"" under the mountains had turned out to be just empty night: there was nothing more to find out, nothing worth doing, only nasty furtive eating and resentful remembering.",all the great secrets under the mountains had turned out to be just empty night there was nothing more to find out nothing worth doing only nasty furtive eating and resentful remembering,great secrets mountains turned empty night nothing find nothing worth nasty furtive eating resentful remembering
+430,He was altogether wretched.,he was altogether wretched,altogether wretched
+431,"He hated the dark, and he hated light more: he hated everything, and the Ring most of all.'",he hated the dark and he hated light more he hated everything and the ring most of all,hated dark hated light hated everything ring
+432,'What do you mean?',what do you mean,mean
+433,said Frodo.,said frodo,said frodo
+434,'Surely the Ring was his precious and the only thing he cared for?,surely the ring was his precious and the only thing he cared for,surely ring precious thing cared
+435,"But if he hated it, why didn't he get rid of it, or go away and leave it?'",but if he hated it why didnt he get rid of it or go away and leave it,hated didnt get rid go away leave
+436,"'You ought to begin to understand, Frodo, after all you have heard,' said Gandalf.",you ought to begin to understand frodo after all you have heard said gandalf,ought begin understand frodo heard said gandalf
+437,"'He hated it and loved it, as he hated and loved himself.",he hated it and loved it as he hated and loved himself,hated loved hated loved
+438,He could not get rid of it.,he could not get rid of it,could get rid
+439,He had no will left in the matter.,he had no will left in the matter,left matter
+440,"'A Ring of Power looks after itself, Frodo.",a ring of power looks after itself frodo,ring power looks frodo
+441,"_It_ may slip off treacherously, but its keeper never abandons it.",it may slip off treacherously but its keeper never abandons it,may slip treacherously keeper never abandons
+442,"At most he plays with the idea of handing it on to someone else's care  and that only at an early stage, when it first begins to grip.",at most he plays with the idea of handing it on to someone elses care and that only at an early stage when it first begins to grip,plays idea handing someone elses care early stage first begins grip
+443,"But as far as I know Bilbo alone in history has ever gone beyond playing, and really done it.",but as far as i know bilbo alone in history has ever gone beyond playing and really done it,far know bilbo alone history ever gone beyond playing really done
+444,"He needed all my help, too.",he needed all my help too,needed help
+445,"And even so he would never have just forsaken it, or cast it aside.",and even so he would never have just forsaken it or cast it aside,even would never forsaken cast aside
+446,"It was not Gollum, Frodo, but the Ring itself that decided things.",it was not gollum frodo but the ring itself that decided things,gollum frodo ring decided things
+447,The Ring left _him.,the ring left him,ring left
+448,"'_
+     'What, just in time to meet Bilbo?'",what just in time to meet bilbo,time meet bilbo
+449,said Frodo.,said frodo,said frodo
+450,'Wouldn't an Orc have suited it better?',wouldnt an orc have suited it better,wouldnt orc suited better
+451,"'It is no laughing matter,' said Gandalf.",it is no laughing matter said gandalf,laughing matter said gandalf
+452,'Not for you.,not for you,
+453,"It was the strangest event in the whole history of the Ring so far: Bilbo's arrival just at that time, and putting his hand on it, blindly, in the dark.",it was the strangest event in the whole history of the ring so far bilbos arrival just at that time and putting his hand on it blindly in the dark,strangest event whole history ring far bilbos arrival time putting hand blindly dark
+454,"'There was more than one power at work, Frodo.",there was more than one power at work frodo,one power work frodo
+455,The Ring was trying to get back to its master.,the ring was trying to get back to its master,ring trying get back master
+456,"It had slipped from Isildur's hand and betrayed him; then when a chance came it caught poor Deal, and he was murdered; and after that Gollum, and it had devoured him.",it had slipped from isildurs hand and betrayed him then when a chance came it caught poor deal and he was murdered and after that gollum and it had devoured him,slipped isildurs hand betrayed chance came caught poor deal murdered gollum devoured
+457,It could make no further use of him: he was too small and mean; and as long as it stayed with him he would never leave his deep pool again.,it could make no further use of him he was too small and mean and as long as it stayed with him he would never leave his deep pool again,could make use small mean long stayed would never leave deep pool
+458,"So now, when its master was awake once more and sending out his dark thought from Mirkwood, it abandoned Gollum.",so now when its master was awake once more and sending out his dark thought from mirkwood it abandoned gollum,master awake sending dark thought mirkwood abandoned gollum
+459,Only to be picked up by the most unlikely person imaginable: Bilbo from the Shire!,only to be picked up by the most unlikely person imaginable bilbo from the shire,picked unlikely person imaginable bilbo shire
+460,"'Behind that there was something else at work, beyond any design of the Ring-maker.",behind that there was something else at work beyond any design of the ringmaker,behind something else work beyond design ringmaker
+461,"I can put it no plainer than by saying that Bilbo was _meant_to find the Ring, and _not_ by its maker.",i can put it no plainer than by saying that bilbo was meantto find the ring and not by its maker,put plainer saying bilbo meantto find ring maker
+462,In which case you also were _meant_to have it.,in which case you also were meantto have it,case also meantto
+463,And that maybe an encouraging thought.',and that maybe an encouraging thought,maybe encouraging thought
+464,"It is not,' said Frodo.",it is not said frodo,said frodo
+465,"""Though I am not sure that I understand you.",though i am not sure that i understand you,though sure understand
+466,"But how have you learned all this about the Ring, and about Gollum?",but how have you learned all this about the ring and about gollum,learned ring gollum
+467,"Do you really know it all, or are you just guessing still?'",do you really know it all or are you just guessing still,really know guessing still
+468,"Gandalf looked at Frodo, and his eyes glinted.",gandalf looked at frodo and his eyes glinted,gandalf looked frodo eyes glinted
+469,"I knew much and I have learned much,' he answered.",i knew much and i have learned much he answered,knew much learned much answered
+470,'But I am not going to give an account of all my doings to _you._ The history of Elendil and Isildur and the One Ring is known to all the Wise.,but i am not going to give an account of all my doings to you the history of elendil and isildur and the one ring is known to all the wise,going give account doings history elendil isildur one ring known wise
+471,"Your ring is shown to be that One Ring by the fire-writing alone, apart from any other evidence.'",your ring is shown to be that one ring by the firewriting alone apart from any other evidence,ring shown one ring firewriting alone apart evidence
+472,'And when did you discover that?',and when did you discover that,discover
+473,"asked Frodo, interrupting.",asked frodo interrupting,asked frodo interrupting
+474,"'Just now in this room, of course,' answered the wizard sharply.",just now in this room of course answered the wizard sharply,room course answered wizard sharply
+475,'But I expected to find it.,but i expected to find it,expected find
+476,I have come back from dark journeys and long search to make that final test.,i have come back from dark journeys and long search to make that final test,come back dark journeys long search make final test
+477,"It is the last proof, and all is now only too clear.",it is the last proof and all is now only too clear,last proof clear
+478,"Making out Gollum's part, and fitting it into the gap in the history, required some thought.",making out gollums part and fitting it into the gap in the history required some thought,making gollums part fitting gap history required thought
+479,"I may have started with guesses about Gollum, but I am not guessing now.",i may have started with guesses about gollum but i am not guessing now,may started guesses gollum guessing
+480,I know.,i know,know
+481,I have seen him.',i have seen him,seen
+482,'You have seen Gollum?',you have seen gollum,seen gollum
+483,exclaimed Frodo in amazement.,exclaimed frodo in amazement,exclaimed frodo amazement
+484,'Yes.,yes,yes
+485,"The obvious thing to do, of course, if one could.",the obvious thing to do of course if one could,obvious thing course one could
+486,I tried long ago; but I have managed it at last.',i tried long ago but i have managed it at last,tried long ago managed last
+487,'Then what happened after Bilbo escaped from him?,then what happened after bilbo escaped from him,happened bilbo escaped
+488,Do you know that?',do you know that,know
+489,'Not so clearly.,not so clearly,clearly
+490,"What I have told you is what Gollum was willing to tell  though not, of course, in the way I have reported it.",what i have told you is what gollum was willing to tell though not of course in the way i have reported it,told gollum willing tell though course way reported
+491,"Gollum is a liar, and you have to sift his words.",gollum is a liar and you have to sift his words,gollum liar sift words
+492,"For instance, he called the Ring his ""birthday present"", and he stuck to that.",for instance he called the ring his birthday present and he stuck to that,instance called ring birthday present stuck
+493,"He said it came from his grandmother, who had lots of beautiful things of that kind.",he said it came from his grandmother who had lots of beautiful things of that kind,said came grandmother lots beautiful things kind
+494,A ridiculous story.,a ridiculous story,ridiculous story
+495,"I have no doubt that Sméagol's grandmother was a matriarch, a great person in her way, but to talk of her possessing many Elven-rings was absurd, and as for giving them away, it was a lie.",i have no doubt that smeagols grandmother was a matriarch a great person in her way but to talk of her possessing many elvenrings was absurd and as for giving them away it was a lie,doubt smeagols grandmother matriarch great person way talk possessing many elvenrings absurd giving away lie
+496,But a lie with a grain of truth.,but a lie with a grain of truth,lie grain truth
+497,"'The murder of Deal haunted Gollum, and he had made up a defence, repeating it to his ""precious"" over and over again, as he gnawed bones in the dark, until he almost believed it.",the murder of deal haunted gollum and he had made up a defence repeating it to his precious over and over again as he gnawed bones in the dark until he almost believed it,murder deal haunted gollum made defence repeating precious gnawed bones dark almost believed
+498,It _was_ his birthday.,it was his birthday,birthday
+499,Deal ought to have given the ring to him.,deal ought to have given the ring to him,deal ought given ring
+500,It had previously turned up just so as to be a present.,it had previously turned up just so as to be a present,previously turned present
+501,"It _was_ his birthday present, and so on, and on.",it was his birthday present and so on and on,birthday present
+502,"I endured him as long as I could, but the truth was desperately important, and in the end I had to be harsh.",i endured him as long as i could but the truth was desperately important and in the end i had to be harsh,endured long could truth desperately important end harsh
+503,"I put the fear of fire on him, and wrung the true story out of him, bit by bit, together with much snivelling and snarling.",i put the fear of fire on him and wrung the true story out of him bit by bit together with much snivelling and snarling,put fear fire wrung true story bit bit together much snivelling snarling
+504,He thought he was misunderstood and ill-used.,he thought he was misunderstood and illused,thought misunderstood illused
+505,"But when he had at last told me his history, as far as the end of the Riddle-game and Bilbo's escape, he would not say any more, except in dark hints.",but when he had at last told me his history as far as the end of the riddlegame and bilbos escape he would not say any more except in dark hints,last told history far end riddlegame bilbos escape would say except dark hints
+506,Some other fear was on him greater than mine.,some other fear was on him greater than mine,fear greater mine
+507,He muttered that he was going to gel his own back.,he muttered that he was going to gel his own back,muttered going gel back
+508,"People would see if he would stand being kicked, and driven into a hole and then _robbed._ Gollum had good friends now, good friends and very strong.",people would see if he would stand being kicked and driven into a hole and then robbed gollum had good friends now good friends and very strong,people would see would stand kicked driven hole robbed gollum good friends good friends strong
+509,They would help him.,they would help him,would help
+510,Baggins would pay for it.,baggins would pay for it,baggins would pay
+511,That was his chief thought.,that was his chief thought,chief thought
+512,He hated Bilbo and cursed his name.,he hated bilbo and cursed his name,hated bilbo cursed name
+513,"What is more, he knew where he came from.'",what is more he knew where he came from,knew came
+514,'But how did he find that out?',but how did he find that out,find
+515,asked Frodo.,asked frodo,asked frodo
+516,"'Well, as for the name, Bilbo very foolishly told Gollum himself; and after that it would not be difficult to discover his country, once Gollum came out.",well as for the name bilbo very foolishly told gollum himself and after that it would not be difficult to discover his country once gollum came out,well name bilbo foolishly told gollum would difficult discover country gollum came
+517,"Oh yes, he came out.",oh yes he came out,oh yes came
+518,"His longing for the Ring proved stronger than his fear of the Orcs, or even of the light.",his longing for the ring proved stronger than his fear of the orcs or even of the light,longing ring proved stronger fear orcs even light
+519,After a year or two he left the mountains.,after a year or two he left the mountains,year two left mountains
+520,"You see, though still bound by desire of it, the Ring was no longer devouring him; he began to revive a little.",you see though still bound by desire of it the ring was no longer devouring him he began to revive a little,see though still bound desire ring longer devouring began revive little
+521,"He felt old, terribly old, yet less timid, and he was mortally hungry.",he felt old terribly old yet less timid and he was mortally hungry,felt old terribly old yet less timid mortally hungry
+522,"'Light, light of Sun and Moon, he still feared and hated, and he always will, I think; but he was cunning.",light light of sun and moon he still feared and hated and he always will i think but he was cunning,light light sun moon still feared hated always think cunning
+523,"He found he could hide from daylight and moonshine, and make his way swiftly and softly by dead of night with his pale cold eyes, and catch small frightened or unwary things.",he found he could hide from daylight and moonshine and make his way swiftly and softly by dead of night with his pale cold eyes and catch small frightened or unwary things,found could hide daylight moonshine make way swiftly softly dead night pale cold eyes catch small frightened unwary things
+524,He grew stronger and bolder with new food and new air.,he grew stronger and bolder with new food and new air,grew stronger bolder new food new air
+525,"He found his way into Mirkwood, as one would expect.'",he found his way into mirkwood as one would expect,found way mirkwood one would expect
+526,'Is that where you found him?',is that where you found him,found
+527,asked Frodo.,asked frodo,asked frodo
+528,"'I saw him there,' answered Gandalf, 'but before that he had wandered far, following Bilbo's trail.",i saw him there answered gandalf but before that he had wandered far following bilbos trail,saw answered gandalf wandered far following bilbos trail
+529,"It was difficult to learn anything from him for certain, for his talk was constantly interrupted by curses and threats.",it was difficult to learn anything from him for certain for his talk was constantly interrupted by curses and threats,difficult learn anything certain talk constantly interrupted curses threats
+530,"""What had it got in its pocketses?""",what had it got in its pocketses,got pocketses
+531,he said.,he said,said
+532,"""It wouldn't say, no precious.",it wouldnt say no precious,wouldnt say precious
+533,Little cheat.,little cheat,little cheat
+534,Not a fair question.,not a fair question,fair question
+535,"It cheated first, it did.",it cheated first it did,cheated first
+536,It broke the rules.,it broke the rules,broke rules
+537,"We ought to have squeezed it, yes precious.",we ought to have squeezed it yes precious,ought squeezed yes precious
+538,"And we will, precious!""",and we will precious,precious
+539,'That is a sample of his talk.,that is a sample of his talk,sample talk
+540,I don't suppose you want any more.,i dont suppose you want any more,dont suppose want
+541,I had weary days of it.,i had weary days of it,weary days
+542,"But from hints dropped among the snarls I even gathered that his padding feet had taken him at last to Esgaroth, and even to the streets of Dale, listening secretly and peering.",but from hints dropped among the snarls i even gathered that his padding feet had taken him at last to esgaroth and even to the streets of dale listening secretly and peering,hints dropped among snarls even gathered padding feet taken last esgaroth even streets dale listening secretly peering
+543,"Well, the news of the great events went far and wide in Wilderland, and many had heard Bilbo's name and knew where he came from.",well the news of the great events went far and wide in wilderland and many had heard bilbos name and knew where he came from,well news great events went far wide wilderland many heard bilbos name knew came
+544,We had made no secret of our return journey to his home in the West.,we had made no secret of our return journey to his home in the west,made secret return journey home west
+545,Gollum's sharp ears would soon learn what he wanted.',gollums sharp ears would soon learn what he wanted,gollums sharp ears would soon learn wanted
+546,'Then why didn't he track Bilbo further?',then why didnt he track bilbo further,didnt track bilbo
+547,asked Frodo.,asked frodo,asked frodo
+548,'Why didn't he come to the Shire?',why didnt he come to the shire,didnt come shire
+549,"'Ah,' said Gandalf, 'now we come to it.",ah said gandalf now we come to it,ah said gandalf come
+550,I think Gollum tried to.,i think gollum tried to,think gollum tried
+551,"He set out and came back westward, as far as the Great River.",he set out and came back westward as far as the great river,set came back westward far great river
+552,But then he turned aside.,but then he turned aside,turned aside
+553,"He was not daunted by the distance, I am sure.",he was not daunted by the distance i am sure,daunted distance sure
+554,"No, something else drew him away.",no something else drew him away,something else drew away
+555,"So my friends think, those that hunted him for me.",so my friends think those that hunted him for me,friends think hunted
+556,"'The Wood-elves tracked him first, an easy task for them, for his trail was still fresh then.",the woodelves tracked him first an easy task for them for his trail was still fresh then,woodelves tracked first easy task trail still fresh
+557,"Through Mirkwood and back again it led them, though they never caught him.",through mirkwood and back again it led them though they never caught him,mirkwood back led though never caught
+558,"The wood was full of the rumour of him, dreadful tales even among beasts and birds.",the wood was full of the rumour of him dreadful tales even among beasts and birds,wood full rumour dreadful tales even among beasts birds
+559,"The Woodmen said that there was some new terror abroad, a ghost that drank blood.",the woodmen said that there was some new terror abroad a ghost that drank blood,woodmen said new terror abroad ghost drank blood
+560,It climbed trees to find nests; it crept into holes to find the young; it slipped through windows to find cradles.,it climbed trees to find nests it crept into holes to find the young it slipped through windows to find cradles,climbed trees find nests crept holes find young slipped windows find cradles
+561,'But at the western edge of Mirkwood the trail turned away.,but at the western edge of mirkwood the trail turned away,western edge mirkwood trail turned away
+562,"It wandered off southwards and passed out of the Wood-elves' ken, and was lost.",it wandered off southwards and passed out of the woodelves ken and was lost,wandered southwards passed woodelves ken lost
+563,And then I made a great mistake.,and then i made a great mistake,made great mistake
+564,"Yes, Frodo, and not the first; though I fear it may prove the worst.",yes frodo and not the first though i fear it may prove the worst,yes frodo first though fear may prove worst
+565,I let the matter be.,i let the matter be,let matter
+566,"I let him go; for I had much else to think of at that time, and I still trusted the lore of Saruman.",i let him go for i had much else to think of at that time and i still trusted the lore of saruman,let go much else think time still trusted lore saruman
+567,"'Well, that was years ago.",well that was years ago,well years ago
+568,I have paid for it since with many dark and dangerous days.,i have paid for it since with many dark and dangerous days,paid since many dark dangerous days
+569,"The trail was long cold when I took it up again, after Bilbo left here.",the trail was long cold when i took it up again after bilbo left here,trail long cold took bilbo left
+570,"And my search would have been in vain, but for the help that I had from a friend: Aragorn, the greatest traveller and huntsman of this age of the world.",and my search would have been in vain but for the help that i had from a friend aragorn the greatest traveller and huntsman of this age of the world,search would vain help friend aragorn greatest traveller huntsman age world
+571,"Together we sought for Gollum down the whole length of Wilderland, without hope, and without success.",together we sought for gollum down the whole length of wilderland without hope and without success,together sought gollum whole length wilderland without hope without success
+572,"But at last, when I had given up the chase and turned to other parts, Gollum was found.",but at last when i had given up the chase and turned to other parts gollum was found,last given chase turned parts gollum found
+573,My friend returned out of the great perils bringing the miserable creature with him.,my friend returned out of the great perils bringing the miserable creature with him,friend returned great perils bringing miserable creature
+574,'What he had been doing he would not say.,what he had been doing he would not say,would say
+575,"He only wept and called us cruel, with many a _gollum_ in his throat; and when we pressed him he whined and cringed, and rubbed his long hands, licking his fingers as if they pained him, as if he remembered some old torture.",he only wept and called us cruel with many a gollum in his throat and when we pressed him he whined and cringed and rubbed his long hands licking his fingers as if they pained him as if he remembered some old torture,wept called us cruel many gollum throat pressed whined cringed rubbed long hands licking fingers pained remembered old torture
+576,"But I am afraid there is no possible doubt: he had made his slow, sneaking way, step by step, mile by mile, south, down at last to the Land of Mordor.'",but i am afraid there is no possible doubt he had made his slow sneaking way step by step mile by mile south down at last to the land of mordor,afraid possible doubt made slow sneaking way step step mile mile south last land mordor
+577,A heavy silence fell in the room.,a heavy silence fell in the room,heavy silence fell room
+578,Frodo could hear his heart beating.,frodo could hear his heart beating,frodo could hear heart beating
+579,Even outside everything seemed still.,even outside everything seemed still,even outside everything seemed still
+580,No sound of Sam's shears could now be heard.,no sound of sams shears could now be heard,sound sams shears could heard
+581,"'Yes, to Mordor,' said Gandalf.",yes to mordor said gandalf,yes mordor said gandalf
+582,'Alas!,alas,alas
+583,"Mordor draws all wicked things, and the Dark Power was bending all its will to gather them there.",mordor draws all wicked things and the dark power was bending all its will to gather them there,mordor draws wicked things dark power bending gather
+584,"The Ring of the Enemy would leave its mark, too, leave him open to the summons.",the ring of the enemy would leave its mark too leave him open to the summons,ring enemy would leave mark leave open summons
+585,"And all folk were whispering then of the new Shadow in the South, and its hatred of the West.",and all folk were whispering then of the new shadow in the south and its hatred of the west,folk whispering new shadow south hatred west
+586,"There were his fine new friends, who would help him in his revenge!",there were his fine new friends who would help him in his revenge,fine new friends would help revenge
+587,'Wretched fool!,wretched fool,wretched fool
+588,"In that land he would learn much, too much for his comfort.",in that land he would learn much too much for his comfort,land would learn much much comfort
+589,"And sooner or later as he lurked and pried on the borders he would be caught, and taken  for examination.",and sooner or later as he lurked and pried on the borders he would be caught and taken for examination,sooner later lurked pried borders would caught taken examination
+590,"That was the way of it, I fear.",that was the way of it i fear,way fear
+591,"When he was found he had already been there long, and was on his way back.",when he was found he had already been there long and was on his way back,found already long way back
+592,On some errand of mischief.,on some errand of mischief,errand mischief
+593,But that does not matter much now.,but that does not matter much now,matter much
+594,His worst mischief was done.,his worst mischief was done,worst mischief done
+595,"'Yes, alas!",yes alas,yes alas
+596,through him the Enemy has learned that the One has been found again.,through him the enemy has learned that the one has been found again,enemy learned one found
+597,He knows where Isildur fell.,he knows where isildur fell,knows isildur fell
+598,He knows where Gollum found his ring.,he knows where gollum found his ring,knows gollum found ring
+599,"He knows that it is a Great Ring, for it gave long life.",he knows that it is a great ring for it gave long life,knows great ring gave long life
+600,"He knows that it is not one of the Three, for they have never been lost, and they endure no evil.",he knows that it is not one of the three for they have never been lost and they endure no evil,knows one three never lost endure evil
+601,"He knows that it is not one of the Seven, or the Nine, for they are accounted for.",he knows that it is not one of the seven or the nine for they are accounted for,knows one seven nine accounted
+602,He knows that it is the One.,he knows that it is the one,knows one
+603,"And he has at last heard, I think, of _hobbits_ and the _Shire._
+     'The Shire  he may be seeking for it now, if he has not already found out where it lies.",and he has at last heard i think of hobbits and the shire the shire he may be seeking for it now if he has not already found out where it lies,last heard think hobbits shire shire may seeking already found lies
+604,"Indeed, Frodo, I fear that he may even think that the long-unnoticed name of _Baggins_ has become important.'",indeed frodo i fear that he may even think that the longunnoticed name of baggins has become important,indeed frodo fear may even think longunnoticed name baggins become important
+605,'But this is terrible!',but this is terrible,terrible
+606,cried Frodo.,cried frodo,cried frodo
+607,'Far worse than the worst that I imagined from your hints and warnings.,far worse than the worst that i imagined from your hints and warnings,far worse worst imagined hints warnings
+608,"O Gandalf, best of friends, what am I to do?",o gandalf best of friends what am i to do,gandalf best friends
+609,For now I am really afraid.,for now i am really afraid,really afraid
+610,What am I to do?,what am i to do,
+611,"What a pity that Bilbo did not stab that vile creature, when he had a chance!'",what a pity that bilbo did not stab that vile creature when he had a chance,pity bilbo stab vile creature chance
+612,'Pity?,pity,pity
+613,It was Pity that stayed his hand.,it was pity that stayed his hand,pity stayed hand
+614,"Pity, and Mercy: not to strike without need.",pity and mercy not to strike without need,pity mercy strike without need
+615,"And he has been well rewarded, Frodo.",and he has been well rewarded frodo,well rewarded frodo
+616,"Be sure that he took so little hurt from the evil, and escaped in the end, because he began his ownership of the Ring so.",be sure that he took so little hurt from the evil and escaped in the end because he began his ownership of the ring so,sure took little hurt evil escaped end began ownership ring
+617,With Pity.',with pity,pity
+618,"'I am sorry,' said Frodo.",i am sorry said frodo,sorry said frodo
+619,'But I am frightened; and I do not feel any pity for Gollum.',but i am frightened and i do not feel any pity for gollum,frightened feel pity gollum
+620,"'You have not seen him,' Gandalf broke in.",you have not seen him gandalf broke in,seen gandalf broke
+621,"'No, and I don't want to,' said Frodo.",no and i dont want to said frodo,dont want said frodo
+622,I can't understand you.,i cant understand you,cant understand
+623,"Do you mean to say that you, and the Elves, have let him live on after all those horrible deeds?",do you mean to say that you and the elves have let him live on after all those horrible deeds,mean say elves let live horrible deeds
+624,"Now at any rate he is as bad as an Orc, and just an enemy.",now at any rate he is as bad as an orc and just an enemy,rate bad orc enemy
+625,He deserves death.',he deserves death,deserves death
+626,'Deserves it!,deserves it,deserves
+627,I daresay he does.,i daresay he does,daresay
+628,Many that live deserve death.,many that live deserve death,many live deserve death
+629,And some that die deserve life.,and some that die deserve life,die deserve life
+630,Can you give it to them?,can you give it to them,give
+631,Then do not be too eager to deal out death in judgement.,then do not be too eager to deal out death in judgement,eager deal death judgement
+632,For even the very wise cannot see all ends.,for even the very wise cannot see all ends,even wise see ends
+633,"I have not much hope that Gollum can be cured before he dies, but there is a chance of it.",i have not much hope that gollum can be cured before he dies but there is a chance of it,much hope gollum cured dies chance
+634,And he is bound up with the fate of the Ring.,and he is bound up with the fate of the ring,bound fate ring
+635,"My heart tells me that he has some part to play yet, for good or ill, before the end; and when that comes, the pity of Bilbo may rule the fate of many  yours not least.",my heart tells me that he has some part to play yet for good or ill before the end and when that comes the pity of bilbo may rule the fate of many yours not least,heart tells part play yet good ill end comes pity bilbo may rule fate many least
+636,In any case we did not kill him: he is very old and very wretched.,in any case we did not kill him he is very old and very wretched,case kill old wretched
+637,"The Wood-elves have him in prison, but they treat him with such kindness as they can find in their wise hearts.'",the woodelves have him in prison but they treat him with such kindness as they can find in their wise hearts,woodelves prison treat kindness find wise hearts
+638,"'All the same,' said Frodo, 'even if Bilbo could not kill Gollum, I wish he had not kept the Ring.",all the same said frodo even if bilbo could not kill gollum i wish he had not kept the ring,said frodo even bilbo could kill gollum wish kept ring
+639,"I wish he had never found it, and that I had not got it!",i wish he had never found it and that i had not got it,wish never found got
+640,Why did you let me keep it?,why did you let me keep it,let keep
+641,"Why didn't you make me throw it away, or, or destroy it?'",why didnt you make me throw it away or or destroy it,didnt make throw away destroy
+642,'Let you?,let you,let
+643,Make you?',make you,make
+644,said the wizard.,said the wizard,said wizard
+645,'Haven't you been listening to all that I have said?,havent you been listening to all that i have said,havent listening said
+646,You are not thinking of what you are saying.,you are not thinking of what you are saying,thinking saying
+647,"But as for throwing it away, that was obviously wrong.",but as for throwing it away that was obviously wrong,throwing away obviously wrong
+648,These Rings have a way of being found.,these rings have a way of being found,rings way found
+649,In evil hands it might have done great evil.,in evil hands it might have done great evil,evil hands might done great evil
+650,"Worst of all, it might have fallen into the hands of the Enemy.",worst of all it might have fallen into the hands of the enemy,worst might fallen hands enemy
+651,"Indeed it certainly would; for this is the One, and he is exerting all his power to find it or draw it to himself.",indeed it certainly would for this is the one and he is exerting all his power to find it or draw it to himself,indeed certainly would one exerting power find draw
+652,"'Of course, my dear Frodo, it was dangerous for you; and that has troubled me deeply.",of course my dear frodo it was dangerous for you and that has troubled me deeply,course dear frodo dangerous troubled deeply
+653,But there was so much at stake that I had to take some risk  though even when I was far away there has never been a day when the Shire has not been guarded by watchful eyes.,but there was so much at stake that i had to take some risk though even when i was far away there has never been a day when the shire has not been guarded by watchful eyes,much stake take risk though even far away never day shire guarded watchful eyes
+654,"As long as you never used it, I did not think that the Ring would have any lasting effect on you, not for evil, not at any rate for a very long time.",as long as you never used it i did not think that the ring would have any lasting effect on you not for evil not at any rate for a very long time,long never used think ring would lasting effect evil rate long time
+655,"And you must remember that nine years ago, when I last saw you, I still knew little for certain.'",and you must remember that nine years ago when i last saw you i still knew little for certain,must remember nine years ago last saw still knew little certain
+656,"'But why not destroy it, as you say should have been done long ago?'",but why not destroy it as you say should have been done long ago,destroy say done long ago
+657,cried Frodo again.,cried frodo again,cried frodo
+658,"If you had warned me, or even sent me a message, I would have done away with it.'",if you had warned me or even sent me a message i would have done away with it,warned even sent message would done away
+659,'Would you?,would you,would
+660,How would you do that?,how would you do that,would
+661,Have you ever tried?',have you ever tried,ever tried
+662,'No.,no,
+663,But I suppose one could hammer it or melt it.',but i suppose one could hammer it or melt it,suppose one could hammer melt
+664,'Try!',try,try
+665,said Gandalf.,said gandalf,said gandalf
+666,Try now!',try now,try
+667,Frodo drew the Ring out of his pocket again and looked at it.,frodo drew the ring out of his pocket again and looked at it,frodo drew ring pocket looked
+668,"It now appeared plain and smooth, without mark or device that he could see.",it now appeared plain and smooth without mark or device that he could see,appeared plain smooth without mark device could see
+669,"The gold looked very fair and pure, and Frodo thought how rich and beautiful was its colour, how perfect was its roundness.",the gold looked very fair and pure and frodo thought how rich and beautiful was its colour how perfect was its roundness,gold looked fair pure frodo thought rich beautiful colour perfect roundness
+670,It was an admirable thing and altogether precious.,it was an admirable thing and altogether precious,admirable thing altogether precious
+671,When he took it out he had intended to fling it from him into the very hottest part of the fire.,when he took it out he had intended to fling it from him into the very hottest part of the fire,took intended fling hottest part fire
+672,"But he found now that he could not do so, not without a great struggle.",but he found now that he could not do so not without a great struggle,found could without great struggle
+673,"He weighed the Ring in his hand, hesitating, and forcing himself to remember all that Gandalf had told him; and then with an effort of will he made a movement, as if to cast it away  but he found that he had put it back in his pocket.",he weighed the ring in his hand hesitating and forcing himself to remember all that gandalf had told him and then with an effort of will he made a movement as if to cast it away but he found that he had put it back in his pocket,weighed ring hand hesitating forcing remember gandalf told effort made movement cast away found put back pocket
+674,Gandalf laughed grimly.,gandalf laughed grimly,gandalf laughed grimly
+675,'You see?,you see,see
+676,"Already you too, Frodo, cannot easily let it go, nor will to damage it.",already you too frodo cannot easily let it go nor will to damage it,already frodo easily let go damage
+677,"And I could not ""make"" you  except by force, which would break your mind.",and i could not make you except by force which would break your mind,could make except force would break mind
+678,"But as for breaking the Ring, force is useless.",but as for breaking the ring force is useless,breaking ring force useless
+679,"Even if you took it and struck it with a heavy sledge-hammer, it would make no dint in it.",even if you took it and struck it with a heavy sledgehammer it would make no dint in it,even took struck heavy sledgehammer would make dint
+680,"It cannot be unmade by your hands, or by mine.",it cannot be unmade by your hands or by mine,unmade hands mine
+681,"'Your small fire, of course, would not melt even ordinary gold.",your small fire of course would not melt even ordinary gold,small fire course would melt even ordinary gold
+682,"This Ring has already passed through it unscathed, and even unheated.",this ring has already passed through it unscathed and even unheated,ring already passed unscathed even unheated
+683,But there is no smith's forge in this Shire that could change it at all.,but there is no smiths forge in this shire that could change it at all,smiths forge shire could change
+684,Not even the anvils and furnaces of the Dwarves could do that.,not even the anvils and furnaces of the dwarves could do that,even anvils furnaces dwarves could
+685,"It has been said that dragon-fire could melt and consume the Rings of Power, but there is not now any dragon left on earth in which the old fire is hot enough; nor was there ever any dragon, not even Ancalagon the Black, who could have harmed the One Ring, the Ruling Ring, for that was made by Sauron himself.",it has been said that dragonfire could melt and consume the rings of power but there is not now any dragon left on earth in which the old fire is hot enough nor was there ever any dragon not even ancalagon the black who could have harmed the one ring the ruling ring for that was made by sauron himself,said dragonfire could melt consume rings power dragon left earth old fire hot enough ever dragon even ancalagon black could harmed one ring ruling ring made sauron
+686,"There is only one way: to find the Cracks of Doom in the depths of Orodruin, the Fire-mountain, and cast the Ring in there, if you really wish to destroy it, to put it beyond the grasp of the Enemy for ever.'",there is only one way to find the cracks of doom in the depths of orodruin the firemountain and cast the ring in there if you really wish to destroy it to put it beyond the grasp of the enemy for ever,one way find cracks doom depths orodruin firemountain cast ring really wish destroy put beyond grasp enemy ever
+687,'I do really wish to destroy it!',i do really wish to destroy it,really wish destroy
+688,cried Frodo.,cried frodo,cried frodo
+689,"'Or, well, to have it destroyed.",or well to have it destroyed,well destroyed
+690,I am not made for perilous quests.,i am not made for perilous quests,made perilous quests
+691,I wish I had never seen the Ring!,i wish i had never seen the ring,wish never seen ring
+692,Why did it come to me?,why did it come to me,come
+693,Why was I chosen?',why was i chosen,chosen
+694,"'Such questions cannot be answered,' said Gandalf.",such questions cannot be answered said gandalf,questions answered said gandalf
+695,"'You may be sure that it was not for any merit that others do not possess: not for power or wisdom, at any rate.",you may be sure that it was not for any merit that others do not possess not for power or wisdom at any rate,may sure merit others possess power wisdom rate
+696,"But you have been chosen, and you must therefore use such strength and heart and wits as you have.'",but you have been chosen and you must therefore use such strength and heart and wits as you have,chosen must therefore use strength heart wits
+697,'But I have so little of any of these things!,but i have so little of any of these things,little things
+698,You are wise and powerful.,you are wise and powerful,wise powerful
+699,Will you not take the Ring?',will you not take the ring,take ring
+700,'No!',no,
+701,"cried Gandalf, springing to his feet.",cried gandalf springing to his feet,cried gandalf springing feet
+702,'With that power I should have power too great and terrible.,with that power i should have power too great and terrible,power power great terrible
+703,And over me the Ring would gain a power still greater and more deadly.',and over me the ring would gain a power still greater and more deadly,ring would gain power still greater deadly
+704,His eyes flashed and his face was lit as by a fire within.,his eyes flashed and his face was lit as by a fire within,eyes flashed face lit fire within
+705,'Do not tempt me!,do not tempt me,tempt
+706,For I do not wish to become like the Dark Lord himself.,for i do not wish to become like the dark lord himself,wish become like dark lord
+707,"Yet the way of the Ring to my heart is by pity, pity for weakness and the desire of strength to do good.",yet the way of the ring to my heart is by pity pity for weakness and the desire of strength to do good,yet way ring heart pity pity weakness desire strength good
+708,Do not tempt me!,do not tempt me,tempt
+709,"I dare not take it, not even to keep it safe, unused.",i dare not take it not even to keep it safe unused,dare take even keep safe unused
+710,"The wish to wield it would be too great, for my strength.",the wish to wield it would be too great for my strength,wish wield would great strength
+711,I shall have such need of it.,i shall have such need of it,shall need
+712,Great perils lie before me.',great perils lie before me,great perils lie
+713,He went to the window and drew aside the curtains and the shutters.,he went to the window and drew aside the curtains and the shutters,went window drew aside curtains shutters
+714,Sunlight streamed back again into the room.,sunlight streamed back again into the room,sunlight streamed back room
+715,Sam passed along the path outside whistling.,sam passed along the path outside whistling,sam passed along path outside whistling
+716,"'And now,' said the wizard, turning back to Frodo, 'the decision lies with you.",and now said the wizard turning back to frodo the decision lies with you,said wizard turning back frodo decision lies
+717,But I will always help you.',but i will always help you,always help
+718,He laid his hand on Frodo's shoulder.,he laid his hand on frodos shoulder,laid hand frodos shoulder
+719,"'I will help you bear this burden, as long as It is yours to bear.",i will help you bear this burden as long as it is yours to bear,help bear burden long bear
+720,"But we must do something, soon.",but we must do something soon,must something soon
+721,The Enemy is moving.',the enemy is moving,enemy moving
+722,There was a long silence.,there was a long silence,long silence
+723,"Gandalf sat down again and puffed at his pipe, as if lost in thought.",gandalf sat down again and puffed at his pipe as if lost in thought,gandalf sat puffed pipe lost thought
+724,"His eyes seemed closed, but under the lids he was watching Frodo intently.",his eyes seemed closed but under the lids he was watching frodo intently,eyes seemed closed lids watching frodo intently
+725,"Frodo gazed fixedly at the red embers on the hearth, until they filled all his vision, and he seemed to be looking down into profound wells of fire.",frodo gazed fixedly at the red embers on the hearth until they filled all his vision and he seemed to be looking down into profound wells of fire,frodo gazed fixedly red embers hearth filled vision seemed looking profound wells fire
+726,He was thinking of the fabled Cracks of Doom and the terror of the Fiery Mountain.,he was thinking of the fabled cracks of doom and the terror of the fiery mountain,thinking fabled cracks doom terror fiery mountain
+727,'Well!',well,well
+728,said Gandalf at last.,said gandalf at last,said gandalf last
+729,'What are you thinking about?,what are you thinking about,thinking
+730,Have you decided what to do?',have you decided what to do,decided
+731,'No!',no,
+732,"answered Frodo, coming back to himself out of darkness, and finding to his surprise that it was not dark, and that out of the window he could see the sunlit garden.",answered frodo coming back to himself out of darkness and finding to his surprise that it was not dark and that out of the window he could see the sunlit garden,answered frodo coming back darkness finding surprise dark window could see sunlit garden
+733,"'Or perhaps, yes.",or perhaps yes,perhaps yes
+734,"As far as I understand what you have said, I suppose I must keep the Ring and guard it, at least for the present, whatever it may do to me.'",as far as i understand what you have said i suppose i must keep the ring and guard it at least for the present whatever it may do to me,far understand said suppose must keep ring guard least present whatever may
+735,"'Whatever it may do, it will be slow, slow to evil, if you keep it with that purpose,' said Gandalf.",whatever it may do it will be slow slow to evil if you keep it with that purpose said gandalf,whatever may slow slow evil keep purpose said gandalf
+736,"'I hope so,' said Frodo.",i hope so said frodo,hope said frodo
+737,'But I hope that you may find some other better keeper soon.,but i hope that you may find some other better keeper soon,hope may find better keeper soon
+738,"But in the meanwhile it seems that I am a danger, a danger to all that live near me.",but in the meanwhile it seems that i am a danger a danger to all that live near me,meanwhile seems danger danger live near
+739,I cannot keep the Ring and stay here.,i cannot keep the ring and stay here,keep ring stay
+740,"I ought to leave Bag End, leave the Shire, leave everything and go away.'",i ought to leave bag end leave the shire leave everything and go away,ought leave bag end leave shire leave everything go away
+741,He sighed.,he sighed,sighed
+742,"'I should like to save the Shire, if I could  though there have been times when I thought the inhabitants too stupid and dull for words, and have felt that an earthquake or an invasion of dragons might be good for them.",i should like to save the shire if i could though there have been times when i thought the inhabitants too stupid and dull for words and have felt that an earthquake or an invasion of dragons might be good for them,like save shire could though times thought inhabitants stupid dull words felt earthquake invasion dragons might good
+743,But I don't feel like that now.,but i dont feel like that now,dont feel like
+744,"I feel that as long as the Shire lies behind, safe and comfortable, I shall find wandering more bearable: I shall know that somewhere there is a firm foothold, even if my feet cannot stand there again.",i feel that as long as the shire lies behind safe and comfortable i shall find wandering more bearable i shall know that somewhere there is a firm foothold even if my feet cannot stand there again,feel long shire lies behind safe comfortable shall find wandering bearable shall know somewhere firm foothold even feet stand
+745,"'Of course, I have sometimes thought of going away, but I imagined that as a kind of holiday, a series of adventures like Bilbo's or better, ending in peace.",of course i have sometimes thought of going away but i imagined that as a kind of holiday a series of adventures like bilbos or better ending in peace,course sometimes thought going away imagined kind holiday series adventures like bilbos better ending peace
+746,"But this would mean exile, a flight from danger into danger, drawing it after me.",but this would mean exile a flight from danger into danger drawing it after me,would mean exile flight danger danger drawing
+747,"And I suppose I must go alone, if I am to do that and save the Shire.",and i suppose i must go alone if i am to do that and save the shire,suppose must go alone save shire
+748,"But I feel very small, and very uprooted, and well  desperate.",but i feel very small and very uprooted and well desperate,feel small uprooted well desperate
+749,The Enemy is so strong and terrible.',the enemy is so strong and terrible,enemy strong terrible
+750,"He did not tell Gandalf, but as he was speaking a great desire to follow Bilbo flamed up in his heart  to follow Bilbo, and even perhaps to find him again.",he did not tell gandalf but as he was speaking a great desire to follow bilbo flamed up in his heart to follow bilbo and even perhaps to find him again,tell gandalf speaking great desire follow bilbo flamed heart follow bilbo even perhaps find
+751,"It was so strong that it overcame his fear: he could almost have run out there and then down the road without his hat, as Bilbo had done on a similar morning long ago.",it was so strong that it overcame his fear he could almost have run out there and then down the road without his hat as bilbo had done on a similar morning long ago,strong overcame fear could almost run road without hat bilbo done similar morning long ago
+752,'My dear Frodo!',my dear frodo,dear frodo
+753,exclaimed Gandalf.,exclaimed gandalf,exclaimed gandalf
+754,"'Hobbits really are amazing creatures, as I have said before.",hobbits really are amazing creatures as i have said before,hobbits really amazing creatures said
+755,"You can learn all that there is to know about their ways in a month, and yet after a hundred years they can still surprise you at a pinch.",you can learn all that there is to know about their ways in a month and yet after a hundred years they can still surprise you at a pinch,learn know ways month yet hundred years still surprise pinch
+756,"I hardly expected to get such an answer, not even from you.",i hardly expected to get such an answer not even from you,hardly expected get answer even
+757,"But Bilbo made no mistake in choosing his heir, though he little thought how important it would prove.",but bilbo made no mistake in choosing his heir though he little thought how important it would prove,bilbo made mistake choosing heir though little thought important would prove
+758,I am afraid you are right.,i am afraid you are right,afraid right
+759,"The Ring will not be able to stay hidden in the Shire much longer; and for your own sake, as well as for others, you will have to go, and leave the name of Baggins behind you.",the ring will not be able to stay hidden in the shire much longer and for your own sake as well as for others you will have to go and leave the name of baggins behind you,ring able stay hidden shire much longer sake well others go leave name baggins behind
+760,"That name will not be safe to have, outside the Shire or in the Wild.",that name will not be safe to have outside the shire or in the wild,name safe outside shire wild
+761,I will give you a travelling name now.,i will give you a travelling name now,give travelling name
+762,"When you go, go as Mr. Underhill.",when you go go as mr underhill,go go mr underhill
+763,'But I don't think you need go alone.,but i dont think you need go alone,dont think need go alone
+764,"Not if you know of anyone you can trust, and who would be willing to go by your side  and that you would be willing to take into unknown perils.",not if you know of anyone you can trust and who would be willing to go by your side and that you would be willing to take into unknown perils,know anyone trust would willing go side would willing take unknown perils
+765,"But if you look for a companion, be careful in choosing!",but if you look for a companion be careful in choosing,look companion careful choosing
+766,"And be careful of what you say, even to your closest friends!",and be careful of what you say even to your closest friends,careful say even closest friends
+767,The enemy has many spies and many ways of hearing.',the enemy has many spies and many ways of hearing,enemy many spies many ways hearing
+768,Suddenly he stopped as if listening.,suddenly he stopped as if listening,suddenly stopped listening
+769,"Frodo became aware that all was very quiet, inside and outside.",frodo became aware that all was very quiet inside and outside,frodo became aware quiet inside outside
+770,Gandalf crept to one side of the window.,gandalf crept to one side of the window,gandalf crept one side window
+771,"Then with a dart he sprang to the sill, and thrust a long arm out and downwards.",then with a dart he sprang to the sill and thrust a long arm out and downwards,dart sprang sill thrust long arm downwards
+772,"There was a squawk, and up came Sam Gamgee's curly head hauled by one ear.",there was a squawk and up came sam gamgees curly head hauled by one ear,squawk came sam gamgees curly head hauled one ear
+773,"'Well, well, bless my beard!'",well well bless my beard,well well bless beard
+774,said Gandalf.,said gandalf,said gandalf
+775,'Sam Gamgee is it?,sam gamgee is it,sam gamgee
+776,Now what may you be doing?',now what may you be doing,may
+777,"'Lor bless you, Mr. Gandalf, sir!'",lor bless you mr gandalf sir,lor bless mr gandalf sir
+778,said Sam.,said sam,said sam
+779,'Nothing!,nothing,nothing
+780,"Leastways I was just trimming the grass-border under the window, if you follow me.'",leastways i was just trimming the grassborder under the window if you follow me,leastways trimming grassborder window follow
+781,He picked up his shears and exhibited them as evidence.,he picked up his shears and exhibited them as evidence,picked shears exhibited evidence
+782,"'I don't,' said Gandalf grimly.",i dont said gandalf grimly,dont said gandalf grimly
+783,It is some time since I last heard the sound of your shears.,it is some time since i last heard the sound of your shears,time since last heard sound shears
+784,How long have you been eavesdropping?',how long have you been eavesdropping,long eavesdropping
+785,"'Eavesdropping, sir?",eavesdropping sir,eavesdropping sir
+786,"I don't follow you, begging your pardon.",i dont follow you begging your pardon,dont follow begging pardon
+787,"There ain't no eaves at Bag End, and that's a fact.'",there aint no eaves at bag end and thats a fact,aint eaves bag end thats fact
+788,'Don't be a fool!,dont be a fool,dont fool
+789,"What have you heard, and why did you listen?'",what have you heard and why did you listen,heard listen
+790,Gandalf's eyes flashed and his brows stuck out like bristles.,gandalfs eyes flashed and his brows stuck out like bristles,gandalfs eyes flashed brows stuck like bristles
+791,'Mr.,mr,mr
+792,"Frodo, sir!'",frodo sir,frodo sir
+793,cried Sam quaking.,cried sam quaking,cried sam quaking
+794,"'Don't let him hurt me, sir!",dont let him hurt me sir,dont let hurt sir
+795,Don't let him turn me into anything unnatural!,dont let him turn me into anything unnatural,dont let turn anything unnatural
+796,My old dad would take on so.,my old dad would take on so,old dad would take
+797,"I meant no harm, on my honour, sir!'",i meant no harm on my honour sir,meant harm honour sir
+798,"'He won't hurt you,' said Frodo, hardly able to keep from laughing, although he was himself startled and rather puzzled.",he wont hurt you said frodo hardly able to keep from laughing although he was himself startled and rather puzzled,wont hurt said frodo hardly able keep laughing although startled rather puzzled
+799,"'He knows, as well as I do, that you mean no harm.",he knows as well as i do that you mean no harm,knows well mean harm
+800,But just you up and answer his questions straight away!',but just you up and answer his questions straight away,answer questions straight away
+801,"'Well, sir,' said Sam dithering a little.",well sir said sam dithering a little,well sir said sam dithering little
+802,"'I heard a deal that I didn't rightly understand, about an enemy, and rings, and Mr. Bilbo, sir, and dragons, and a fiery mountain, and  and Elves, sir.",i heard a deal that i didnt rightly understand about an enemy and rings and mr bilbo sir and dragons and a fiery mountain and and elves sir,heard deal didnt rightly understand enemy rings mr bilbo sir dragons fiery mountain elves sir
+803,"I listened because I couldn't help myself, if you know what I mean.",i listened because i couldnt help myself if you know what i mean,listened couldnt help know mean
+804,"Lor bless me, sir, but I do love tales of that sort.",lor bless me sir but i do love tales of that sort,lor bless sir love tales sort
+805,"And I believe them too, whatever Ted may say.",and i believe them too whatever ted may say,believe whatever ted may say
+806,"Elves, sir!",elves sir,elves sir
+807,"I would dearly love to see _them._ Couldn't you take me to see Elves, sir, when you go?'",i would dearly love to see them couldnt you take me to see elves sir when you go,would dearly love see couldnt take see elves sir go
+808,Suddenly Gandalf laughed.,suddenly gandalf laughed,suddenly gandalf laughed
+809,'Come inside!',come inside,come inside
+810,"he shouted, and putting out both his arms he lifted the astonished Sam, shears, grass-clippings and all, right through the window and stood him on the floor.",he shouted and putting out both his arms he lifted the astonished sam shears grassclippings and all right through the window and stood him on the floor,shouted putting arms lifted astonished sam shears grassclippings right window stood floor
+811,"'Take you to see Elves, eh?'",take you to see elves eh,take see elves eh
+812,"he said, eyeing Sam closely, but with a smile flickering on his face.",he said eyeing sam closely but with a smile flickering on his face,said eyeing sam closely smile flickering face
+813,'So you heard that Mr. Frodo is going away?',so you heard that mr frodo is going away,heard mr frodo going away
+814,"'I did, sir.",i did sir,sir
+815,And that's why I choked: which you heard seemingly.,and thats why i choked which you heard seemingly,thats choked heard seemingly
+816,"I tried not to, sir, but it burst out of me: I was so upset.'",i tried not to sir but it burst out of me i was so upset,tried sir burst upset
+817,"'It can't be helped, Sam,' said Frodo sadly.",it cant be helped sam said frodo sadly,cant helped sam said frodo sadly
+818,He had suddenly realized that flying from the Shire would mean more painful partings than merely saying farewell to the familiar comforts of Bag End.,he had suddenly realized that flying from the shire would mean more painful partings than merely saying farewell to the familiar comforts of bag end,suddenly realized flying shire would mean painful partings merely saying farewell familiar comforts bag end
+819,'I shall have to go.,i shall have to go,shall go
+820,"But'  and here he looked hard at Sam  'if you really care about me, you will keep that _dead_ secret.",but and here he looked hard at sam if you really care about me you will keep that dead secret,looked hard sam really care keep dead secret
+821,See?,see,see
+822,"If you don't, if you even breathe a word of what you've heard here, then I hope Gandalf will turn you into a spotted toad and fill the garden full of grass-snakes.'",if you dont if you even breathe a word of what youve heard here then i hope gandalf will turn you into a spotted toad and fill the garden full of grasssnakes,dont even breathe word youve heard hope gandalf turn spotted toad fill garden full grasssnakes
+823,"Sam fell on his knees, trembling.",sam fell on his knees trembling,sam fell knees trembling
+824,"'Get up, Sam!'",get up sam,get sam
+825,said Gandalf.,said gandalf,said gandalf
+826,I have thought of something better than that.,i have thought of something better than that,thought something better
+827,"Something to shut your mouth, and punish you properly for listening.",something to shut your mouth and punish you properly for listening,something shut mouth punish properly listening
+828,You shall go away with Mr.,you shall go away with mr,shall go away mr
+829,Frodo!',frodo,frodo
+830,"'Me, sir!'",me sir,sir
+831,"cried Sam, springing up like a dog invited for a walk.",cried sam springing up like a dog invited for a walk,cried sam springing like dog invited walk
+832,'Me go and see Elves and all!,me go and see elves and all,go see elves
+833,Hooray!',hooray,hooray
+834,"he shouted, and then burst into tears.",he shouted and then burst into tears,shouted burst tears
+835,_,,
