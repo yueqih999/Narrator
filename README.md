@@ -1,4 +1,6 @@
 # StoryLens
+## Project Structure
+
 StoryLens/
 ├── data/                       # Raw text data
 ├── embeddings/                 # Stored embeddings
