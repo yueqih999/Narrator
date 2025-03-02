@@ -1,3 +1,7 @@
+embeddings/
+output/
+simplewiki-2020-11-01.jsonl.gz
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
