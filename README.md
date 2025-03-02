@@ -1,6 +1,6 @@
 # StoryLens
 ## Project Structure
-
+```
 StoryLens/
 ├── data/                       # Raw text data
 ├── embeddings/                 # Stored embeddings
@@ -16,7 +16,7 @@ StoryLens/
 ├── 1visualization/             # Visualization scripts, finished?
 ├── 2hierarchy/                 # Hierarchical analysis, unfinished
 └── 3rag/                       # Retrieval, unfinished
-
+```
 
 ## Current Progress
 - **Text Preprocessing & Embedding**: Completed
