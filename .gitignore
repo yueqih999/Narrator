@@ -1,6 +1,7 @@
 embeddings/
 output/
 simplewiki-2020-11-01.jsonl.gz
+gephi/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
