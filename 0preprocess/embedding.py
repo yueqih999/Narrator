@@ -4,28 +4,52 @@ import numpy as np
 from sentence_transformers import SentenceTransformer
 import pickle
 import json
+import re
 from tqdm import tqdm
 from sklearn.metrics.pairwise import cosine_similarity
 
+characters = [
+    'the ring', 'frodo', 'gandalf', 'bilbo', 'aragorn', 
+    'boromir', 'legolas', 'sauron', 'galadriel', 'gollum', 
+    'elrond', 'gimli', 'arwen'
+]
 
-def generate_embeddings(csv_files, model_name='all-MiniLM-L6-v2', output_dir=None, use_cleaned=True):
+places = [
+    'shire', 'rivendell', 'moria', 'mordor', 'gondor', 
+    'rohan', 'eriador', 'arnor', 'minas tirith', 'mirkwood'
+]
+
+def generate_embeddings(csv_files, characters, places, model_name='all-MiniLM-L6-v2',output_dir=None, use_cleaned=True):
     print(f"Loading model: {model_name}")
     model = SentenceTransformer(model_name)
     
     if output_dir and not os.path.exists(output_dir):
         os.makedirs(output_dir)
-    
+
+    character_patterns = {
+        char: re.compile(r'\b' + re.escape(char.lower()) + r'\b')
+        for char in characters
+    }
+    place_patterns = {
+        place: re.compile(r'\b' + re.escape(place.lower()) + r'\b')
+        for place in places
+    }
+
     embeddings_dict = {}
-    
+    all_chapters_dfs = []
+
     for csv_file in tqdm(csv_files, desc="generate embedding"):
-        chapter_name = os.path.basename(csv_file).replace("processed_chapter_", "").replace(".csv", "")
+        chapter_name = (
+            os.path.basename(csv_file)
+            .replace("processed_chapter_", "")
+            .replace(".csv", "")
+        )
         
         df = pd.read_csv(csv_file)
         
         text_column = 'cleaned_sentence' if use_cleaned and 'cleaned_sentence' in df.columns else 'sentence'
-        
         if text_column not in df.columns:
-            print(f"Error: {csv_file} doesn't have {text_column} column, skipped!")
+            print(f"Error: {csv_file} has no '{text_column}' column, skipping...")
             continue
 
         sentences = []
@@ -36,24 +60,67 @@ def generate_embeddings(csv_files, model_name='all-MiniLM-L6-v2', output_dir=Non
                 sentences.append(str(sent) if sent is not None else "")
 
         if not sentences:
-            print(f"Error: {csv_file} doesn't have sentences, skipped!")
+            print(f"Error: {csv_file} has no sentences to embed, skipping...")
             continue
-        
-        batch_size = 32 
-        embeddings = model.encode(sentences, batch_size=batch_size, show_progress_bar=True)
+
+        char_mentions = []
+        place_mentions = []
+        for sentence in sentences:
+            sentence_lower = sentence.lower()
+            
+            found_chars = [
+                char for char, pattern in character_patterns.items()
+                if pattern.search(sentence_lower)
+            ]
+            found_places = [
+                place for place, pattern in place_patterns.items()
+                if pattern.search(sentence_lower)
+            ]
+
+            char_mentions.append(', '.join(found_chars) if found_chars else '')
+            place_mentions.append(', '.join(found_places) if found_places else '')
+
+        df['character'] = char_mentions
+        df['place'] = place_mentions
+
+        df = df[~((df['character'] == '') & (df['place'] == ''))].copy()
+        if df.empty:
+            print(f"Warning: after dropping empty-mention rows, {csv_file} is empty. Skipping chapter.")
+            continue
+
+        final_sentences = df[text_column].tolist()
+
+        batch_size = 32
+        embeddings = model.encode(
+            final_sentences,
+            batch_size=batch_size,
+            show_progress_bar=True
+        )
 
         embeddings_dict[chapter_name] = embeddings
-        
+
+        df['embedding'] = [json.dumps(e.tolist()) for e in embeddings]
+
         if output_dir:
             np.save(os.path.join(output_dir, f"embeddings_{chapter_name}.npy"), embeddings)
-            df['embedding'] = [json.dumps(emb.tolist()) for emb in embeddings]
             df.to_csv(os.path.join(output_dir, f"embedded_{chapter_name}.csv"), index=False)
-    
+        
+        all_chapters_dfs.append(df)
+
+    if all_chapters_dfs:
+        combined_df = pd.concat(all_chapters_dfs, ignore_index=True)
+        if output_dir:
+            combined_path = os.path.join(output_dir, "embedded_all_chapters.csv")
+            combined_df.to_csv(combined_path, index=False)
+            print(f"Saved combined CSV to {combined_path}")
+
     if output_dir:
-        with open(os.path.join(output_dir, 'all_embeddings.pkl'), 'wb') as f:
+        pkl_path = os.path.join(output_dir, 'all_embeddings.pkl')
+        with open(pkl_path, 'wb') as f:
             pickle.dump(embeddings_dict, f)
+        print(f"Saved combined embeddings pickle to {pkl_path}")
     
-    print(f"Embedding generated. Total {len(embeddings_dict)} chapters")
+    print(f"Embedding generation complete. Processed {len(embeddings_dict)} chapters.")
     return embeddings_dict
 
 
@@ -102,8 +169,14 @@ def main_embedding(processed_dir, output_dir, model_name='all-MiniLM-L6-v2'):
     csv_files = [os.path.join(processed_dir, f) for f in os.listdir(processed_dir) if f.startswith('processed_') and f.endswith('.csv')]
     
     print("Generating embeddings...")
-    embeddings_dict = generate_embeddings(csv_files, model_name, embedding_dir)
-
+    embeddings_dict = generate_embeddings(
+        csv_files=csv_files,         
+        characters=characters,       
+        places=places,             
+        model_name=model_name,  
+        output_dir=embedding_dir,    
+    )
+    """
     print("Start analyzing similarity...")
     similarity_results = analyze_sentence_similarities(embeddings_dict, embedding_dir)
 
@@ -111,13 +184,13 @@ def main_embedding(processed_dir, output_dir, model_name='all-MiniLM-L6-v2'):
     for chapter, results in list(similarity_results.items())[:2]:  # only show two chapters
         print(f"Chapter {chapter}:")
         print(f"  Most similar sentences index: {results['most_similar_idx']}, score: {results['most_similar_score']:.4f}")
-        print(f"  Least similar sentences index: {results['least_similar_idx']}, score: {results['least_similar_score']:.4f}")
+        print(f"  Least similar sentences index: {results['least_similar_idx']}, score: {results['least_similar_score']:.4f}")"""
     
     print(f"\nAll results saved at: {embedding_dir}")
 
 if __name__ == "__main__":
     processed_dir = "data/processed_csvs"  
-    output_dir = "embeddings" 
+    output_dir = "new_embeddings" 
     model_name = 'all-MiniLM-L6-v2'  # https://www.sbert.net/docs/pretrained_models.html
     
     main_embedding(processed_dir, output_dir, model_name)

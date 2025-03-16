@@ -10,8 +10,8 @@ from nltk.collocations import BigramAssocMeasures, BigramCollocationFinder
 from collections import Counter
 from math import log
 
-nltk.download('punkt_tab', download_dir='data/nltk_data')
-nltk.download('stopwords', download_dir='data/nltk_data')
+# nltk.download('punkt_tab', download_dir='data/nltk_data')
+# nltk.download('stopwords', download_dir='data/nltk_data')
 
 nltk.data.path.append('data/nltk_data')
 
@@ -26,39 +26,41 @@ def preprocess_txt_to_chapter_csvs(input_file, output_dir):
         try:
             with open(input_file, 'r', encoding=encoding) as f:
                 text = f.read()
-                print(f"Decoding using {encoding} succeed")
+                print(f"Decoding using {encoding} succeeded")
                 break
         except UnicodeDecodeError:
             print(f"Try {encoding} failed...")
         
-    chapter_pattern = r'(Chapter \d+|第\s*\d+\s*章)'
-    chapters = re.split(chapter_pattern, text)
-    
-    chapters = [ch.strip() for ch in chapters if ch.strip()]
-    
-    if len(chapters) <= 1:
-        chapters = [text]
-    
+    chapter_pattern = r'(Chapter \d)'
+    split_content = re.split(chapter_pattern, text)
+
+    chapters = []
+    for i in range(1, len(split_content), 2):  
+        title = split_content[i].strip() if i < len(split_content) else f'Chapter {i//2 + 1}'
+        content = split_content[i + 1].strip() if (i + 1) < len(split_content) else ''
+        chapters.append((title, content))
+
     csv_files = []
 
-    for i, chapter in enumerate(chapters):
-        if re.match(chapter_pattern, chapter):
-            continue
- 
-        sentences = sent_tokenize(chapter)
+    for i, (title, chapter_content) in enumerate(chapters):
+        if not chapter_content:
+            continue  # 跳过空章节
+
+        sentences = sent_tokenize(chapter_content)
         
         df = pd.DataFrame({
             'sentence_id': range(len(sentences)),
             'sentence': sentences
         })
         
-        output_file = os.path.join(output_dir, f'chapter_{i+1}.csv')
+        output_file = os.path.join(output_dir, f'03_chapter_{i+1}.csv')
         df.to_csv(output_file, index=False, encoding='utf-8')
         csv_files.append(output_file)
         
-        print(f"Generate chapter {i+1} CSV, with {len(sentences)} sentences")
+        print(f"Generated chapter {i+1} CSV, with {len(sentences)} sentences")
     
     return csv_files
+
 
 
 def clean_sentence(sentence, stop_words=None):
@@ -125,7 +127,7 @@ def calculate_term_frequency(csv_files, output_file=None):
     
     return tf_df
 
-def calculate_mutual_information(csv_files, output_file=None, window_size=5, min_freq=10):
+def calculate_mutual_information(csv_files, output_file=None, window_size=10, min_freq=10):
     all_tokens = []
 
     for file in csv_files:
@@ -192,7 +194,7 @@ def main(input_txt, output_base_dir):
     print(mi_df.head(10))
 
 if __name__ == "__main__":
-    input_txt = "data/01 - The Fellowship Of The Ring.txt"
+    input_txt = "data/03 - The Return Of The King.txt"
     output_dir = "data"
     
     main(input_txt, output_dir)
