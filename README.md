@@ -13,16 +13,17 @@ StoryLens/
 │   ├── hierarchy/              # Hierarchical clustering results
 │   └── graph/                  # Graph analysis results
 ├── 0preprocessing/             # Text preprocessing scripts, finished
-├── 1visualization/             # Visualization scripts, finished?
-├── 2hierarchy/                 # Hierarchical analysis, unfinished
-└── 3rag/                       # Retrieval, unfinished
+├── 1visualization/             # Visualization scripts, finished
+├── 2hierarchy/                 # Hierarchical analysis, in progress
+└── 3rag/                       # Retrieval based accurate matching and semantic search, finished
 ```
 
 ## Current Progress
 - **Text Preprocessing & Embedding**: Completed
 - **Visualization & Clustering**: Completed
 - **Hierarchical Analysis**: In Progress
-- **Retrieval-Augmented Generation**: Planned
+- **Retrieval-Augmented Generation**: Completed
+
 - **Model Deployment**: Planned
 
 ## Guide
