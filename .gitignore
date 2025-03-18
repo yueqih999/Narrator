@@ -3,6 +3,7 @@ output/
 simplewiki-2020-11-01.jsonl.gz
 gephi/
 data/
+model/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
