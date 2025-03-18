@@ -12,7 +12,7 @@ StoryLens/
 │   ├── umap_results/           # UMAP visualizations
 │   ├── hierarchy/              # Hierarchical clustering results
 │   └── graph/                  # Graph analysis results
-├── 0preprocessing/             # Text preprocessing scripts, finished
+├── 0model/                     # Model training, text preprocessing and embedding scripts, finished
 ├── 1visualization/             # Visualization scripts, finished
 ├── 2hierarchy/                 # Hierarchical analysis, in progress
 └── 3rag/                       # Retrieval based accurate matching and semantic search, finished
@@ -31,14 +31,26 @@ StoryLens/
 pip install -r requirements.txt
 ``` 
 
-## Step 1
-upload your txt file in data/
+## 0model
+The training code is under a CPU environment and we use booking corpus dataset to train the pretrain-model 'all-MiniLM-L6-v2': https://huggingface.co/datasets/bookcorpus/bookcorpus.\
 ```bash
-python 0preprocess/text_process.py
-python 0preprocess/embedding.py
+python 0model/model.py
+``` 
+The trained model will be saved at model/.\
+After that, upload your txt file in data/, then run:\
+```bash
+python 0model/text_process.py
+python 0model/embedding.py
 ``` 
 
-## Step 2
+## 1visualization
+Based on calculated sentence embeddings, we use UMAP to do clustering and visualization.
 ```bash
 python 1cluster/cluster_umap_viz.py
+``` 
+
+## 3rag
+The codes firstly do an accurate retrival, if there is no matching results, it will return top-5 results based on semantic research.
+```bash
+python 3rag/retrival_word.py
 ``` 

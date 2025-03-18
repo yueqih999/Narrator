@@ -7,11 +7,18 @@ import ast
 
 
 class PrioritySentenceRetriever:
-    def __init__(self, model_name='all-MiniLM-L6-v2'):
-        self.model = SentenceTransformer(model_name)
+    def __init__(self, model_name='model/novel-search-model/final'):
         self.df = None
         self.embeddings = None
         self.embeddings_computed = False
+
+        try:
+            self.model = SentenceTransformer(model_name)
+            print(f"Successfully loaded your fine-tuned model from: {model_name}")
+        except Exception as e:
+            print(f"Error loading custom model: {e}")
+            print("Falling back to default model: all-MiniLM-L6-v2")
+            self.model = SentenceTransformer('all-MiniLM-L6-v2')
         
 
     def load_csv(self, csv_path, embedding_col=None, sentence_col='sentence'):

@@ -17,9 +17,16 @@ def preprocess_data(file_path):
     return df
 
 
-def create_embeddings(sentences, model_name='all-MiniLM-L6-v2'):
+def create_embeddings(sentences, model_name='model/novel-search-model/final'):
     print(f"Using {model_name} to create embedding...")
-    model = SentenceTransformer(model_name)
+    print(f"Loading model: {model_name}")
+    try:
+        model = SentenceTransformer(model_name)
+        print(f"Successfully loaded your fine-tuned model from: {model_name}")
+    except Exception as e:
+        print(f"Error loading custom model: {e}")
+        print("Falling back to default model: all-MiniLM-L6-v2")
+        model = SentenceTransformer('all-MiniLM-L6-v2')
     embeddings = model.encode(sentences, show_progress_bar=True)
     return embeddings
 
