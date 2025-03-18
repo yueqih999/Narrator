@@ -31,25 +31,25 @@ StoryLens/
 pip install -r requirements.txt
 ``` 
 
-## 0model
-The training code is under a CPU environment and we use booking corpus dataset to train the pretrain-model 'all-MiniLM-L6-v2': https://huggingface.co/datasets/bookcorpus/bookcorpus.\
+## 0 model
+The training code is under a CPU environment and we use booking corpus dataset to train the pretrain-model 'all-MiniLM-L6-v2': https://huggingface.co/datasets/bookcorpus/bookcorpus
 ```bash
 python 0model/model.py
 ``` 
-The trained model will be saved at model/.\
-After that, upload your txt file in data/, then run:\
+The trained model will be saved at model/.
+Then upload your txt file in data/, run:
 ```bash
 python 0model/text_process.py
 python 0model/embedding.py
 ``` 
 
-## 1visualization
-Based on calculated sentence embeddings, we use UMAP to do clustering and visualization.
+## 1 visualization
+Based on calculated sentence embeddings, we use UMAP to do clustering and visualization: https://umap-learn.readthedocs.io/en/latest/basic_usage.html 
 ```bash
 python 1cluster/cluster_umap_viz.py
 ``` 
 
-## 3rag
+## 3 rag
 The codes firstly do an accurate retrival, if there is no matching results, it will return top-5 results based on semantic research.
 ```bash
 python 3rag/retrival_word.py
