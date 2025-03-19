@@ -21,10 +21,8 @@ StoryLens/
 ## Current Progress
 - **Text Preprocessing & Embedding**: Completed
 - **Visualization & Clustering**: Completed
-- **Hierarchical Analysis**: In Progress
+- **Hierarchical Analysis**: Debugging
 - **Retrieval-Augmented Generation**: Completed
-
-- **Model Deployment**: Planned
 
 ## Guide
 ```bash
@@ -32,7 +30,7 @@ pip install -r requirements.txt
 ``` 
 
 ## 0 model
-The training code is under a CPU environment and we use booking corpus dataset to train the pretrain-model 'all-MiniLM-L6-v2': https://huggingface.co/datasets/bookcorpus/bookcorpus
+The training code is under a CPU environment and we use Bookcorpus dataset to train the pretrain-model 'all-MiniLM-L6-v2': https://huggingface.co/datasets/bookcorpus/bookcorpus
 ```bash
 python 0model/model.py
 ``` 
@@ -50,7 +48,7 @@ python 1cluster/cluster_umap_viz.py
 ``` 
 
 ## 3 rag
-The codes firstly do an accurate retrival, if there is no matching results, it will return top-5 results based on semantic research.
+The codes firstly do an accurate retrival, if there is no matching results, it will return top-5 results based on semantic search.
 ```bash
 python 3rag/retrival_word.py
 ``` 
