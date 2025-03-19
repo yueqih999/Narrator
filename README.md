@@ -48,9 +48,9 @@ Based on calculated sentence embeddings, we use UMAP to do clustering and visual
 ```bash
 python 1cluster/cluster_umap_viz.py
 ``` 
-![clustered points result](output/cluster/points.png)
-![connectivity result](output/cluster/connectivity.png)
-![bundling result](output/cluster/bundling.png)
+![clustered points result](display/points.png)
+![connectivity result](display/connectivity.png)
+![bundling result](display/bundling.png)
 
 ## 2 hierarchy
 We provide two visualization options, both based on MI values:
@@ -58,8 +58,7 @@ We provide two visualization options, both based on MI values:
 python 2hierarchy/hierarchy_viz.py  # radial 
 python 2hierarchy/hierarchy.py  # tree
 ``` 
-![tree hierarchy analysis result](output/hierarchy/word_hierarchy_tree.png)
-![radial hierarchy analysis result](output/hierarchy/word_hierarchy_radial.png)
+![radial hierarchy analysis result](display/word_hierarchy_radial.png)
 
 ## 3 rag
 The codes firstly do an accurate retrival, if there is no matching results, it will return top-5 results based on semantic search.
