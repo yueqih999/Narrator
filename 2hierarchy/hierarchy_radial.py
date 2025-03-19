@@ -80,7 +80,7 @@ def perform_hierarchical_clustering(similarity_matrix, method='average'):
     return Z
 
 
-def generate_radial_tree(Z, words, max_display=100, figsize=(300, 300), 
+def generate_radial_tree(Z, words, max_display=100, figsize=(15, 15), 
                         n_clusters=None, color_threshold=0.7, 
                         fontsize=9, title="Radial Hierarchy Analysis"):
     
@@ -162,59 +162,49 @@ def generate_radial_tree(Z, words, max_display=100, figsize=(300, 300),
     def layout(node, angle, angle_range, radius, level=0):
         node.level = level
         
-        # 处理叶节点
         if not node.children:
             node.angle = angle
             node.radius = radius
             node.x = radius * math.cos(angle)
             node.y = radius * math.sin(angle)
-            return 1  # 返回节点数
-        
-        # 处理内部节点
+            return 1 
+
         count = 0
         start_angle = angle - angle_range / 2
-        
-        # 计算子树大小
+
         child_counts = []
         for child in node.children:
-            # 计算子节点数量 - 只进行一次递归调用
             if hasattr(child, 'count'):
                 child_counts.append(child.count)
             else:
-                # 第一次计算时缓存结果
-                child_count = count_nodes(child)  # 使用单独的计数函数
+                child_count = count_nodes(child)  
                 child.count = child_count
                 child_counts.append(child_count)
         
         total_children = sum(child_counts)
-        
-        # 分配位置
+
         current_angle = start_angle
         for i, child in enumerate(node.children):
-            # 子节点范围占比
-            child_ratio = child_counts[i] / max(total_children, 1)  # 避免除零
+            child_ratio = child_counts[i] / max(total_children, 1)  
             child_range = angle_range * child_ratio
-            
-            # 递归布局子节点 - 确保只调用一次
+
             layout(child, current_angle + child_range/2, child_range, radius, level+1)
             current_angle += child_range
             count += child_counts[i]
         
-        # 设置当前节点位置
         node.angle = angle
-        node.radius = radius * 0.5  # 内部节点放在半径位置
+        node.radius = radius * 0.5  
         node.x = (radius * 0.5) * math.cos(angle)
         node.y = (radius * 0.5) * math.sin(angle)
         
         return count
 
     def count_nodes(node):
-        """简单计算节点数量"""
         if not node.children:
             return 1
         return 1 + sum(count_nodes(child) for child in node.children)
     
-    total_nodes = layout(root, 0, 0, 0, 0)
+    # total_nodes = layout(root, 0, 0, 0, 0)
 
     layout(root, math.pi/2, 2*math.pi, 10, 0)
 
@@ -269,9 +259,9 @@ def generate_radial_tree(Z, words, max_display=100, figsize=(300, 300),
     ax.add_patch(background)
 
     plt.tight_layout()
-    plt.savefig('output/cluster/word_radial_tree.png', dpi=300, bbox_inches='tight')
+    plt.savefig('output/hierarchy/word_radial_radial.png', dpi=300, bbox_inches='tight')
     
-    print("Fig saved at 'output/cluster/word_radial_tree.png'")
+    print("Fig saved at 'output/hierarchy/word_hierarchy_radial.png'")
     
     return fig
 
@@ -304,8 +294,8 @@ def main(file_path, max_words=100, max_display=50, n_clusters=7):
 
 if __name__ == "__main__":
     file_path = "data/analysis/mutual_information.csv" 
-    max_words = 20 
-    max_display = 20  
-    n_clusters = 5
+    max_words = 100 
+    max_display = 100  
+    n_clusters = 20
     
     main(file_path, max_words, max_display, n_clusters)

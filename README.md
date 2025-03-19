@@ -19,9 +19,10 @@ StoryLens/
 ```
 
 ## Current Progress
+- **Model Initial & Training**: Completed
 - **Text Preprocessing & Embedding**: Completed
 - **Visualization & Clustering**: Completed
-- **Hierarchical Analysis**: Debugging
+- **Hierarchical Analysis**: Completed
 - **Retrieval-Augmented Generation**: Completed
 
 ## Guide
@@ -40,12 +41,25 @@ Then upload your txt file in data/, run:
 python 0model/text_process.py
 python 0model/embedding.py
 ``` 
+You will get similarity matrix, MI(mutual information), and embedded sentences.
 
 ## 1 visualization
 Based on calculated sentence embeddings, we use UMAP to do clustering and visualization: https://umap-learn.readthedocs.io/en/latest/basic_usage.html 
 ```bash
 python 1cluster/cluster_umap_viz.py
 ``` 
+![clustered points result](output/cluster/points.png)
+![connectivity result](output/cluster/connectivity.png)
+![bundling result](output/cluster/bundling.png)
+
+## 2 hierarchy
+We provide two visualization options, both based on MI values:
+```bash
+python 2hierarchy/hierarchy_viz.py  # radial 
+python 2hierarchy/hierarchy.py  # tree
+``` 
+![tree hierarchy analysis result](output/hierarchy/word_hierarchy_tree.png)
+![radial hierarchy analysis result](output/hierarchy/word_hierarchy_radial.png)
 
 ## 3 rag
 The codes firstly do an accurate retrival, if there is no matching results, it will return top-5 results based on semantic search.
