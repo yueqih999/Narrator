@@ -31,7 +31,7 @@ pip install -r requirements.txt
 ``` 
 
 ## 0 model
-The training code is under a CPU environment and we use Bookcorpus dataset to train the pretrain-model 'all-MiniLM-L6-v2': https://huggingface.co/datasets/bookcorpus/bookcorpus
+The training code is under a CPU environment and we use Bookcorpus dataset(0.5%) to train the pretrain-model 'all-MiniLM-L6-v2': https://huggingface.co/datasets/bookcorpus/bookcorpus
 ```bash
 python 0model/model.py
 ``` 
@@ -42,6 +42,7 @@ python 0model/text_process.py
 python 0model/embedding.py
 ``` 
 You will get similarity matrix, MI(mutual information), and embedded sentences.
+![model training methods](display/training_progress.png)
 
 ## 1 visualization
 Based on calculated sentence embeddings, we use UMAP to do clustering and visualization: https://umap-learn.readthedocs.io/en/latest/basic_usage.html 
