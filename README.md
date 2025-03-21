@@ -1,7 +1,7 @@
-# StoryLens
+# Narrator
 ## Project Structure
 ```
-StoryLens/
+Narrator/
 ├── data/                       # Raw text data
 ├── embeddings/                 # Stored embeddings
 │   ├── all_embeddings.pkl      # Main embedding file
